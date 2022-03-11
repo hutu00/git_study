@@ -1,0 +1,71 @@
+{
+  "uid" : "f8eb2e86b7f1c6f",
+  "name" : "test_login[case0]",
+  "fullName" : "01test_pytest测试用例参数化.test_pytest_02.TestLogin#test_login",
+  "historyId" : "2814bbcdd80aaa8bf2657821e0e5d4d1",
+  "time" : {
+    "start" : 1645788800828,
+    "stop" : 1645788800837,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "01test_pytest测试用例参数化"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest_02"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "10384-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "01test_pytest测试用例参数化.test_pytest_02"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'case_data': '{\"username\": \"xiaohua\", \"password\": \"a123456\"}', 'exp': \"{'code': 9999, 'msg': '登录成功'}\"}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "921f00818f327759",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645783240750,
+        "stop" : 1645783240758,
+        "duration" : 8
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8eb2e86b7f1c6f.json",
+  "parameterValues" : [ "{'case_data': '{\"username\": \"xiaohua\", \"password\": \"a123456\"}', 'exp': \"{'code': 9999, 'msg': '登录成功'}\"}" ]
+}

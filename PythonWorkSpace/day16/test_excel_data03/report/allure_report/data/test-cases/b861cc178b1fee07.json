@@ -1,0 +1,69 @@
+{
+  "uid" : "b861cc178b1fee07",
+  "name" : "测试用户名输出错误的场景",
+  "fullName" : "test_login.TestLogin#test_login",
+  "historyId" : "9e59e38f75c692b8b2657fbe9ccbbea2",
+  "time" : {
+    "start" : 1646041413241,
+    "stop" : 1646041413301,
+    "duration" : 60
+  },
+  "description" : "京东小程序入口登录接口",
+  "descriptionHtml" : "<p>京东小程序入口登录接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "story",
+    "value" : "登录的子模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "6116-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<excel_utils.CaseData object at 0x00000218F731B860>"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b861cc178b1fee07.json",
+  "parameterValues" : [ "<excel_utils.CaseData object at 0x00000218F731B860>" ]
+}

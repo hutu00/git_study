@@ -1,0 +1,81 @@
+{
+  "total" : 7,
+  "items" : [ {
+    "uid" : "85bac327fb73cfc0858feaa062fced13",
+    "name" : "商品注册模块",
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 35,
+      "unknown" : 0,
+      "total" : 40
+    }
+  }, {
+    "uid" : "35ddd88f26a2f7e98def1c7953638f23",
+    "name" : "商品模块商品信息录入接口",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 21,
+      "unknown" : 0,
+      "total" : 23
+    }
+  }, {
+    "uid" : "e4c190b6d1c49e117b8696bdd75c719f",
+    "name" : "商品登录模块",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 10
+    }
+  }, {
+    "uid" : "edc6dbe37c60a47a83fe3d6865b57a24",
+    "name" : "商品信息查询模块",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 24,
+      "unknown" : 0,
+      "total" : 25
+    }
+  }, {
+    "uid" : "c171fe729fa8bfb72a5ec73c170b8081",
+    "name" : "商品订单查询模块",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "9f0704dbae78896067cb553af86d1511",
+    "name" : "商品模块促销开启接口",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 13
+    }
+  }, {
+    "uid" : "84f93de8930ca3a4586ea0888cace4d9",
+    "name" : "商品信息删除模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  } ]
+}

@@ -1,0 +1,272 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登录的子模块",
+      "children" : [ {
+        "name" : "正常流程",
+        "uid" : "ebf1573e1f1156d5",
+        "parentUid" : "4fe5f189be36b69d3ca46f213189b085",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646042168315,
+          "stop" : 1646042168363,
+          "duration" : 48
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<excel_utils.CaseData object at 0x000001365A4980F0>" ]
+      }, {
+        "name" : "测试用户名输出错误的场景",
+        "uid" : "75b92134fe85b71c",
+        "parentUid" : "4fe5f189be36b69d3ca46f213189b085",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646042168366,
+          "stop" : 1646042168408,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<excel_utils.CaseData object at 0x000001365B074CF8>" ]
+      }, {
+        "name" : "测试用户名为空的场景",
+        "uid" : "53ed297b505036d8",
+        "parentUid" : "4fe5f189be36b69d3ca46f213189b085",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646042168410,
+          "stop" : 1646042168444,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<excel_utils.CaseData object at 0x000001365B074F60>" ]
+      }, {
+        "name" : "测试密码输入错误的场景",
+        "uid" : "f0c380f5edc2cb19",
+        "parentUid" : "4fe5f189be36b69d3ca46f213189b085",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646042168446,
+          "stop" : 1646042168481,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<excel_utils.CaseData object at 0x000001365B074F28>" ]
+      }, {
+        "name" : "测试密码为空的场景",
+        "uid" : "a2a9e69b8ffc7b7c",
+        "parentUid" : "4fe5f189be36b69d3ca46f213189b085",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646042168483,
+          "stop" : 1646042168517,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<excel_utils.CaseData object at 0x000001365B074D30>" ]
+      } ],
+      "uid" : "4fe5f189be36b69d3ca46f213189b085"
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  }, {
+    "name" : "注册模块",
+    "children" : [ {
+      "name" : "正常流程",
+      "uid" : "a26057d02bbce54d",
+      "parentUid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c",
+      "status" : "failed",
+      "time" : {
+        "start" : 1646042168519,
+        "stop" : 1646042168560,
+        "duration" : 41
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "<excel_utils.CaseData object at 0x000001365B0AC860>" ]
+    }, {
+      "name" : "用户名为空的场景",
+      "uid" : "237dc7a3ee8253bc",
+      "parentUid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646042168596,
+        "stop" : 1646042168640,
+        "duration" : 44
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "<excel_utils.CaseData object at 0x000001365B0ACA58>" ]
+    }, {
+      "name" : "用户名入参无效边界值的场景",
+      "uid" : "b3ce44052be7723a",
+      "parentUid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646042168643,
+        "stop" : 1646042168679,
+        "duration" : 36
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "<excel_utils.CaseData object at 0x000001365B0AC828>" ]
+    }, {
+      "name" : "密码入参为空的场景",
+      "uid" : "67610441a420059a",
+      "parentUid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646042168682,
+        "stop" : 1646042168716,
+        "duration" : 34
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "<excel_utils.CaseData object at 0x000001365B0ACA20>" ]
+    }, {
+      "name" : "密码入参无效边界值的场景",
+      "uid" : "4e31bd327c8c19bc",
+      "parentUid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646042168719,
+        "stop" : 1646042168756,
+        "duration" : 37
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "<excel_utils.CaseData object at 0x000001365B09B780>" ]
+    }, {
+      "name" : "确认密码与密码入参不一致的场景",
+      "uid" : "50c8ad3ad93c605b",
+      "parentUid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646042168758,
+        "stop" : 1646042168795,
+        "duration" : 37
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "<excel_utils.CaseData object at 0x000001365B0B7780>" ]
+    }, {
+      "name" : "邮箱注册为空的场景",
+      "uid" : "cdcd0a901a08eacf",
+      "parentUid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646042168798,
+        "stop" : 1646042168837,
+        "duration" : 39
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "<excel_utils.CaseData object at 0x000001365B0B7940>" ]
+    }, {
+      "name" : "邮箱入参格式错误的场景",
+      "uid" : "66e97558ef12ef40",
+      "parentUid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646042168842,
+        "stop" : 1646042168882,
+        "duration" : 40
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "<excel_utils.CaseData object at 0x000001365B0B7390>" ]
+    }, {
+      "name" : "测试用户名已注册的场景",
+      "uid" : "63c8076fe5c0b0c4",
+      "parentUid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646042168884,
+        "stop" : 1646042168920,
+        "duration" : 36
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "<excel_utils.CaseData object at 0x000001365B0B7358>" ]
+    }, {
+      "name" : "测试手机号为空的场景",
+      "uid" : "5242a0810e28aa3d",
+      "parentUid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646042168923,
+        "stop" : 1646042168959,
+        "duration" : 36
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "<excel_utils.CaseData object at 0x000001365B0B7198>" ]
+    } ],
+    "uid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c"
+  } ]
+}

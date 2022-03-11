@@ -1,0 +1,1 @@
+{'code': 1000, 'msg': '查询成功', 'goods_tiems': [{'goodsName': 'iphone5', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '帝王蟹', 'shopPrice': 999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '华为P30', 'shopPrice': 59999.0, 'promotePrice': 0.0, 'num': 99999}]}

@@ -1,0 +1,58 @@
+{
+  "uid" : "9f1d9380915644bd",
+  "name" : "test_register[case3]",
+  "fullName" : "test_register.TestRegister#test_register",
+  "historyId" : "cffe3c381829ac1dc8faa56672c9e2cb",
+  "time" : {
+    "start" : 1646040915758,
+    "stop" : 1646040915794,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_register"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "5728-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<excel_utils.CaseData object at 0x00000228688BB4A8>"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f1d9380915644bd.json",
+  "parameterValues" : [ "<excel_utils.CaseData object at 0x00000228688BB4A8>" ]
+}

@@ -1,0 +1,5 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/token_login HTTP/1.1" 200 130
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/goods_input HTTP/1.1" 200 46
+INFO     root:test_business_goods_input03.py:64 测试编号9,测试标题测试商品类别为不存在的类别的场景,执行成功!

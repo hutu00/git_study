@@ -1,0 +1,5 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/token_login HTTP/1.1" 200 130
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/order_items HTTP/1.1" 200 52
+INFO     root:test_business_token_order_items02.py:83 测试编号6,测试标题测试订单编号格式不正确的场景,执行成功!

@@ -1,0 +1,144 @@
+{
+  "uid" : "dcfb228c9fa3bf81",
+  "name" : "test_case01",
+  "fullName" : "02test_pytest测试固件.test_pytest01.TestFixture#test_case01",
+  "historyId" : "af40ba947e3a44a3b1e07d8832f7115d",
+  "time" : {
+    "start" : 1645788800936,
+    "stop" : 1645788800936,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "class_scope",
+    "time" : {
+      "start" : 1645788800935,
+      "stop" : 1645788800935,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "module_scope",
+    "time" : {
+      "start" : 1645788800935,
+      "stop" : 1645788800935,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "61045133552a356b",
+      "name" : "stdout",
+      "source" : "61045133552a356b.txt",
+      "type" : "text/plain",
+      "size" : 48
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "class_scope::0",
+    "time" : {
+      "start" : 1645788800951,
+      "stop" : 1645788800951,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "module_scope::0",
+    "time" : {
+      "start" : 1645788800952,
+      "stop" : 1645788800952,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "02test_pytest测试固件"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest01"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestFixture"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "10384-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "02test_pytest测试固件.test_pytest01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bb2e17cdb9ffb787",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645783240861,
+        "stop" : 1645783240862,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcfb228c9fa3bf81.json",
+  "parameterValues" : [ ]
+}

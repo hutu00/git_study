@@ -1,0 +1,2155 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-AM9Q0VH",
+    "children" : [ {
+      "name" : "10028-MainThread",
+      "children" : [ {
+        "name" : "测试促销已打开，再次开启促销的场景",
+        "uid" : "87780d6d96e82a38",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808789607,
+          "stop" : 1646808789776,
+          "duration" : 169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223E2080>" ]
+      }, {
+        "name" : "密码区分大小写的场景",
+        "uid" : "4ad248d2ec768688",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808778851,
+          "stop" : 1646808779025,
+          "duration" : 174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1B00>" ]
+      }, {
+        "name" : "商品信息查询—（带商品）销售状态为1、促销状态为1",
+        "uid" : "7b67c68b6dc9c4e4",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808793210,
+          "stop" : 1646808793369,
+          "duration" : 159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322333CF8>" ]
+      }, {
+        "name" : "用户名为空的场景",
+        "uid" : "cf3e42060c1ffa36",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808776001,
+          "stop" : 1646808776149,
+          "duration" : 148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028321D48A20>" ]
+      }, {
+        "name" : "测试商品类别为空的场景",
+        "uid" : "f1bf5f1a01fe94c1",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808784860,
+          "stop" : 1646808785050,
+          "duration" : 190
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224CE48>" ]
+      }, {
+        "name" : "用户名中包含空格的场景",
+        "uid" : "872de18147c7cd0a",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808777142,
+          "stop" : 1646808777290,
+          "duration" : 148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322203C18>" ]
+      }, {
+        "name" : "用户类型为空场景",
+        "uid" : "87c061fd7c0059c3",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808794685,
+          "stop" : 1646808794837,
+          "duration" : 152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE668>" ]
+      }, {
+        "name" : "商品信息查询—（带商品）销售状态为0、促销状态为1",
+        "uid" : "1485260550056113",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808792882,
+          "stop" : 1646808793044,
+          "duration" : 162
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224C7B8>" ]
+      }, {
+        "name" : "测试订单编号格式不正确的场景",
+        "uid" : "b035d0e06e1526ec",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808796688,
+          "stop" : 1646808796852,
+          "duration" : 164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832259A080>" ]
+      }, {
+        "name" : "性别为男+女的场景",
+        "uid" : "dbc2528dab7dab0d",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808780702,
+          "stop" : 1646808780855,
+          "duration" : 153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1940>" ]
+      }, {
+        "name" : "用户名包含特殊符号的场景",
+        "uid" : "1a88b5000cd52974",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808776826,
+          "stop" : 1646808776977,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028321D4E048>" ]
+      }, {
+        "name" : "用户名为9位无效边界值的场景",
+        "uid" : "89e9130620b60bd9",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808776484,
+          "stop" : 1646808776636,
+          "duration" : 152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221DDFD0>" ]
+      }, {
+        "name" : "商品信息查询—销售状态为非枚举",
+        "uid" : "382d51fa960c0c07",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808793375,
+          "stop" : 1646808793531,
+          "duration" : 156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322333748>" ]
+      }, {
+        "name" : "用户名后包含空格的场景",
+        "uid" : "3f587e221f2adee1",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808777295,
+          "stop" : 1646808777449,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1D68>" ]
+      }, {
+        "name" : "测试商品类别格式不正确的场景",
+        "uid" : "fc9d3a8291015841",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808785378,
+          "stop" : 1646808785557,
+          "duration" : 179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308710>" ]
+      }, {
+        "name" : "密码为6位无效边界值的场景",
+        "uid" : "252c122994018314",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808777934,
+          "stop" : 1646808778088,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A19E8>" ]
+      }, {
+        "name" : "测试促销结束时间小于促销开始时间的场景",
+        "uid" : "6adb5882dd6d2961",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808789279,
+          "stop" : 1646808789434,
+          "duration" : 155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223E2A90>" ]
+      }, {
+        "name" : "测试商品价格格式不正确的场景",
+        "uid" : "804722d34135a026",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808787580,
+          "stop" : 1646808787733,
+          "duration" : 153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308048>" ]
+      }, {
+        "name" : "手机号已注册的场景",
+        "uid" : "c74420f9d18b36f",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808780198,
+          "stop" : 1646808780352,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1CC0>" ]
+      }, {
+        "name" : "确认密码区分大小写的场景",
+        "uid" : "cc932fabb1384cab",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808779357,
+          "stop" : 1646808779519,
+          "duration" : 162
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1BA8>" ]
+      }, {
+        "name" : "密码为空的场景",
+        "uid" : "97ce723e79dcfae3",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808777614,
+          "stop" : 1646808777766,
+          "duration" : 152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1860>" ]
+      }, {
+        "name" : "测试促销结束时间格式不正确的场景",
+        "uid" : "56c18460082b0417",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808788757,
+          "stop" : 1646808788943,
+          "duration" : 186
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223E23C8>" ]
+      }, {
+        "name" : "商品录入正常流程",
+        "uid" : "5005f81502c87c53",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808783857,
+          "stop" : 1646808784025,
+          "duration" : 168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832226E668>" ]
+      }, {
+        "name" : "生日为不合理的时间",
+        "uid" : "63848b5475725bc6",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808781526,
+          "stop" : 1646808781676,
+          "duration" : 150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221E2358>" ]
+      }, {
+        "name" : "商品信息查询—token区分大小写",
+        "uid" : "9eb8d30a60b72357",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808790275,
+          "stop" : 1646808790437,
+          "duration" : 162
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832226E1D0>" ]
+      }, {
+        "name" : "测试商品名称为空的场景",
+        "uid" : "4381846cfc2c80ca",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808784349,
+          "stop" : 1646808784503,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221EBB00>" ]
+      }, {
+        "name" : "正确流程",
+        "uid" : "26cd6a1d3b13841a",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808775806,
+          "stop" : 1646808775994,
+          "duration" : 188
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028321D48630>" ]
+      }, {
+        "name" : "测试商品价格为非小数的场景",
+        "uid" : "c41a203a85361206",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808786740,
+          "stop" : 1646808786896,
+          "duration" : 156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223089B0>" ]
+      }, {
+        "name" : "用户名为空场景",
+        "uid" : "3046e521ed5aaa7c",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808794375,
+          "stop" : 1646808794524,
+          "duration" : 149
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE710>" ]
+      }, {
+        "name" : "goodsId为5位数字场景",
+        "uid" : "4b37b7dbd9dc435b",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808783186,
+          "stop" : 1646808783343,
+          "duration" : 157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222B3400>" ]
+      }, {
+        "name" : "测试商品库存为空的场景",
+        "uid" : "c3eec013f951bda7",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808785747,
+          "stop" : 1646808785903,
+          "duration" : 156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308E80>" ]
+      }, {
+        "name" : "测试商品价格带空格的场景",
+        "uid" : "d9622898f1e1773d",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808787416,
+          "stop" : 1646808787574,
+          "duration" : 158
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308470>" ]
+      }, {
+        "name" : "测试商品不存在的场景",
+        "uid" : "301b0fadf5d10d6c",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808789441,
+          "stop" : 1646808789601,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223E2B70>" ]
+      }, {
+        "name" : "goodsId为空场景",
+        "uid" : "ad193592bd4e5e50",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808782867,
+          "stop" : 1646808783020,
+          "duration" : 153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222B3390>" ]
+      }, {
+        "name" : "密码为空场景",
+        "uid" : "ac07374f3e6da4eb",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808794530,
+          "stop" : 1646808794679,
+          "duration" : 149
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE1D0>" ]
+      }, {
+        "name" : "token为空场景",
+        "uid" : "4ca13ae5f8d5df78",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808782711,
+          "stop" : 1646808782861,
+          "duration" : 150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222B33C8>" ]
+      }, {
+        "name" : "测试商品名称带空格的场景",
+        "uid" : "e371b9a9bf117fe2",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808784675,
+          "stop" : 1646808784849,
+          "duration" : 174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221EC780>" ]
+      }, {
+        "name" : "商品信息查询—上一次token值",
+        "uid" : "a95213dd3bdb573d",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808790443,
+          "stop" : 1646808790655,
+          "duration" : 212
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222BF390>" ]
+      }, {
+        "name" : "邮箱格式错误的场景",
+        "uid" : "d989c04a0a2b7957",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808782215,
+          "stop" : 1646808782368,
+          "duration" : 153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221E2400>" ]
+      }, {
+        "name" : "goodsId为不存在的场景",
+        "uid" : "1f8399bd8393afc1",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808783026,
+          "stop" : 1646808783179,
+          "duration" : 153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222B3438>" ]
+      }, {
+        "name" : "商品为未下架场景",
+        "uid" : "f61e309a270cdc24",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808783512,
+          "stop" : 1646808783694,
+          "duration" : 182
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222B34A8>" ]
+      }, {
+        "name" : "密码为错误场景",
+        "uid" : "5e7562b195fd31d3",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808794998,
+          "stop" : 1646808795151,
+          "duration" : 153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE5C0>" ]
+      }, {
+        "name" : "测试token值为空的场景",
+        "uid" : "fcf72ff0045ca002",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808787914,
+          "stop" : 1646808788069,
+          "duration" : 155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222D5940>" ]
+      }, {
+        "name" : "性别为非枚举值的场景",
+        "uid" : "39fef23a484ad31c",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808780540,
+          "stop" : 1646808780696,
+          "duration" : 156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A18D0>" ]
+      }, {
+        "name" : "密码大小写不区分",
+        "uid" : "7da3b0a12d02a0a4",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808795471,
+          "stop" : 1646808795626,
+          "duration" : 155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE198>" ]
+      }, {
+        "name" : "测试商品价格为负数的场景",
+        "uid" : "fab9061d2c78eff2",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808787069,
+          "stop" : 1646808787244,
+          "duration" : 175
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308EF0>" ]
+      }, {
+        "name" : "确认密码为空的场景",
+        "uid" : "1cf548d99d5211de",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808779031,
+          "stop" : 1646808779199,
+          "duration" : 168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1B38>" ]
+      }, {
+        "name" : "商品信息查询—不存在的商品编号（6位数字）",
+        "uid" : "e489bdf57d4ace7e",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808794029,
+          "stop" : 1646808794210,
+          "duration" : 181
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223338D0>" ]
+      }, {
+        "name" : "用户名不区分大小写",
+        "uid" : "d8831c7941a171ff",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808795637,
+          "stop" : 1646808795826,
+          "duration" : 189
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE588>" ]
+      }, {
+        "name" : "用户名前包含空格的场景",
+        "uid" : "2c42f902a25303f8",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808776984,
+          "stop" : 1646808777135,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322203C50>" ]
+      }, {
+        "name" : "测试时间促销开始格式不正确的场景",
+        "uid" : "2897393a92a913a7",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808788592,
+          "stop" : 1646808788751,
+          "duration" : 159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223E2278>" ]
+      }, {
+        "name" : "测试商品描述为无效边界值的场景",
+        "uid" : "86bb2d7c0ca75196",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808785568,
+          "stop" : 1646808785741,
+          "duration" : 173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223086D8>" ]
+      }, {
+        "name" : "goodsId为7位数字场景",
+        "uid" : "6dc8d11135855494",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808783349,
+          "stop" : 1646808783506,
+          "duration" : 157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222B3F28>" ]
+      }, {
+        "name" : "测试商品库存格式不正确的场景",
+        "uid" : "65c36e2b46d63fbb",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808786409,
+          "stop" : 1646808786569,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308978>" ]
+      }, {
+        "name" : "测试商品名称为无效边界值的场景",
+        "uid" : "62d7ac82f55f5df",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808784509,
+          "stop" : 1646808784669,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222032E8>" ]
+      }, {
+        "name" : "商品信息查询—（带商品）促销状态为1",
+        "uid" : "2988865628574486",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808792553,
+          "stop" : 1646808792716,
+          "duration" : 163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224CF98>" ]
+      }, {
+        "name" : "手机号为非11位数字的场景",
+        "uid" : "123fcf051e73f993",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808779687,
+          "stop" : 1646808779844,
+          "duration" : 157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1C18>" ]
+      }, {
+        "name" : "用户名为8位有效边界值的场景",
+        "uid" : "54741061e49023c8",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808776155,
+          "stop" : 1646808776310,
+          "duration" : 155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221DD630>" ]
+      }, {
+        "name" : "测试商品类别带空格的场景",
+        "uid" : "a387dfb3e357a2eb",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808785058,
+          "stop" : 1646808785209,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224C278>" ]
+      }, {
+        "name" : "生日为空的场景",
+        "uid" : "f903e8a7b7ef9a4b",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808780861,
+          "stop" : 1646808781019,
+          "duration" : 158
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1518>" ]
+      }, {
+        "name" : "用户名以非字母开头的场景",
+        "uid" : "9d060a555e2c802a",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808777455,
+          "stop" : 1646808777609,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1358>" ]
+      }, {
+        "name" : "邮箱已注册的场景",
+        "uid" : "f26277fcf7778a14",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808782374,
+          "stop" : 1646808782534,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221E2080>" ]
+      }, {
+        "name" : "测试促销结束时间为空的场景",
+        "uid" : "f254931be12e9ba1",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808788263,
+          "stop" : 1646808788419,
+          "duration" : 156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223E2BA8>" ]
+      }, {
+        "name" : "用户类型为不存在场景",
+        "uid" : "99d5e8f0b84a76a2",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808795157,
+          "stop" : 1646808795307,
+          "duration" : 150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE160>" ]
+      }, {
+        "name" : "用户类型为其他类型用户场景",
+        "uid" : "467c7a758e307aa1",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808795313,
+          "stop" : 1646808795464,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE5F8>" ]
+      }, {
+        "name" : "邮箱为空的场景",
+        "uid" : "40b1ec047ff81878",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808782041,
+          "stop" : 1646808782208,
+          "duration" : 167
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221E2048>" ]
+      }, {
+        "name" : "商品信息查询—（带商品）销售状态为1、促销状态为0",
+        "uid" : "d0aaa8e2fcb47249",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808793050,
+          "stop" : 1646808793204,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223330B8>" ]
+      }, {
+        "name" : "商品信息查询—（不带商品）促销状态为0",
+        "uid" : "3ed758f28af23bf0",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808791007,
+          "stop" : 1646808791182,
+          "duration" : 175
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224CE10>" ]
+      }, {
+        "name" : "测试商品名称重复的场景",
+        "uid" : "9ef24f03069c635b",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808784031,
+          "stop" : 1646808784186,
+          "duration" : 155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283210767F0>" ]
+      }, {
+        "name" : "测试商品库存为小数的场景",
+        "uid" : "232f768e9195f2c6",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808786079,
+          "stop" : 1646808786236,
+          "duration" : 157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223083C8>" ]
+      }, {
+        "name" : "测试token为失效值的场景",
+        "uid" : "12ab9f611cf2b503",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808796332,
+          "stop" : 1646808796517,
+          "duration" : 185
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832259A0F0>" ]
+      }, {
+        "name" : "商品信息查询—存在的商品编号（6位数字）",
+        "uid" : "6c13760906a8933e",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808793701,
+          "stop" : 1646808793860,
+          "duration" : 159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322333F28>" ]
+      }, {
+        "name" : "qq为空的场景",
+        "uid" : "cf59b347d951276e",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808781687,
+          "stop" : 1646808781853,
+          "duration" : 166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221E2390>" ]
+      }, {
+        "name" : "商品信息查询—（带商品）销售状态为0",
+        "uid" : "a5d4da935a204bd1",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808792031,
+          "stop" : 1646808792185,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224C898>" ]
+      }, {
+        "name" : "商品信息查询—token为空",
+        "uid" : "e0c6bda9c574eb3",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808790117,
+          "stop" : 1646808790269,
+          "duration" : 152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832226EB70>" ]
+      }, {
+        "name" : "测试促销开始时间为空的场景",
+        "uid" : "19ea4b1c8bf331c5",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808788075,
+          "stop" : 1646808788257,
+          "duration" : 182
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222B3FD0>" ]
+      }, {
+        "name" : "生日为非时间格式的场景",
+        "uid" : "5cc6eaf1aed78f83",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808781026,
+          "stop" : 1646808781197,
+          "duration" : 171
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1908>" ]
+      }, {
+        "name" : "测试token为空的场景",
+        "uid" : "ad3ffb12d84e64ef",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808784192,
+          "stop" : 1646808784343,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221EBBA8>" ]
+      }, {
+        "name" : "测试token为空的场景",
+        "uid" : "7b6d0d13f4a9c513",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808796001,
+          "stop" : 1646808796160,
+          "duration" : 159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832259A710>" ]
+      }, {
+        "name" : "商品信息查询—（不带商品）销售状态为1",
+        "uid" : "2dd6b267097a8c38",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808790829,
+          "stop" : 1646808791000,
+          "duration" : 171
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224CFD0>" ]
+      }, {
+        "name" : "测试商品价格为无效边界值的场景",
+        "uid" : "f83fbc66ba8f07a0",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808786902,
+          "stop" : 1646808787062,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308198>" ]
+      }, {
+        "name" : "正常登录流程",
+        "uid" : "d73bafe6452a6f3a",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808794217,
+          "stop" : 1646808794369,
+          "duration" : 152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE278>" ]
+      }, {
+        "name" : "密码为12位无效边界值的场景",
+        "uid" : "9ce961afd556d2e6",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808778095,
+          "stop" : 1646808778241,
+          "duration" : 146
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1A20>" ]
+      }, {
+        "name" : "测试商品编号为空的场景",
+        "uid" : "c77886ebbda8239f",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808788425,
+          "stop" : 1646808788586,
+          "duration" : 161
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223E2550>" ]
+      }, {
+        "name" : "测试商品库存为无效边界值的场景",
+        "uid" : "c9263e1d03f352f9",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808785909,
+          "stop" : 1646808786073,
+          "duration" : 164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308DD8>" ]
+      }, {
+        "name" : "正常流程",
+        "uid" : "910f1ff7fe311a95",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808795839,
+          "stop" : 1646808795994,
+          "duration" : 155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832259A470>" ]
+      }, {
+        "name" : "商品促销设置正确流程",
+        "uid" : "f14c52aef6fe7475",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808787740,
+          "stop" : 1646808787908,
+          "duration" : 168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222D58D0>" ]
+      }, {
+        "name" : "商品信息查询—促销状态为非枚举",
+        "uid" : "ff72a8f8911b92bb",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808793537,
+          "stop" : 1646808793695,
+          "duration" : 158
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322333E80>" ]
+      }, {
+        "name" : "密码包含特殊符号的场景",
+        "uid" : "94d5ef8b5c0dcac4",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808778247,
+          "stop" : 1646808778427,
+          "duration" : 180
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1A58>" ]
+      }, {
+        "name" : "手机号为非数字的场景",
+        "uid" : "dbb3f975945f15c7",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808779851,
+          "stop" : 1646808780001,
+          "duration" : 150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1C50>" ]
+      }, {
+        "name" : "商品信息查询—（不带商品）促销状态为1",
+        "uid" : "9fec6145f3b3a000",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808791188,
+          "stop" : 1646808791355,
+          "duration" : 167
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224C2E8>" ]
+      }, {
+        "name" : "测试商品编号格式不正确的场景",
+        "uid" : "907ad4d4b5b2c31d",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808788949,
+          "stop" : 1646808789108,
+          "duration" : 159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223E2630>" ]
+      }, {
+        "name" : "商品信息查询—商品编号非6位数字",
+        "uid" : "6a046be714cae6bc",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808793866,
+          "stop" : 1646808794023,
+          "duration" : 157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322333710>" ]
+      }, {
+        "name" : "确认密码与密码不一致的场景",
+        "uid" : "ec4a168341f6797d",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808779205,
+          "stop" : 1646808779351,
+          "duration" : 146
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1B70>" ]
+      }, {
+        "name" : "商品信息查询—（带商品）销售状态为1",
+        "uid" : "fa6d3b0802cb9950",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808792191,
+          "stop" : 1646808792355,
+          "duration" : 164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224C240>" ]
+      }, {
+        "name" : "测试商品类别为不存在的类别的场景",
+        "uid" : "4d4f339a5e8ba3c6",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808785215,
+          "stop" : 1646808785372,
+          "duration" : 157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308240>" ]
+      }, {
+        "name" : "测试订单编号为不存在id的场景",
+        "uid" : "4cf1a7e348f2f7b8",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808796859,
+          "stop" : 1646808797014,
+          "duration" : 155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832259A6A0>" ]
+      }, {
+        "name" : "测试促销开始时间小于当前时间的场景",
+        "uid" : "416a114a49443e33",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808789114,
+          "stop" : 1646808789273,
+          "duration" : 159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223E2668>" ]
+      }, {
+        "name" : "用户名已存在的场景",
+        "uid" : "59dc9b136c82f39d",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808776642,
+          "stop" : 1646808776820,
+          "duration" : 178
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028321D4EF28>" ]
+      }, {
+        "name" : "手机号为不支持的号段的场景",
+        "uid" : "81c6f17d6015c881",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808780007,
+          "stop" : 1646808780186,
+          "duration" : 179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1C88>" ]
+      }, {
+        "name" : "测试商品价格为非数字的场景",
+        "uid" : "4a0c9d3725d8860",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808787250,
+          "stop" : 1646808787410,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308080>" ]
+      }, {
+        "name" : "用户名为错误场景",
+        "uid" : "f9b517c9462d29c2",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808794843,
+          "stop" : 1646808794991,
+          "duration" : 148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE208>" ]
+      }, {
+        "name" : "商品信息查询—（不带商品）销售状态为1、促销状态为1",
+        "uid" : "32c326266f5351ca",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808791861,
+          "stop" : 1646808792024,
+          "duration" : 163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224CA20>" ]
+      }, {
+        "name" : "生日为非数字",
+        "uid" : "6c960b7ba6915974",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808781203,
+          "stop" : 1646808781353,
+          "duration" : 150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A16A0>" ]
+      }, {
+        "name" : "生日超出当前时间",
+        "uid" : "2715e2e5f4df02a5",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808781360,
+          "stop" : 1646808781514,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1438>" ]
+      }, {
+        "name" : "商品信息查询—（不带商品）销售状态为0、促销状态为0",
+        "uid" : "8639c50a8a66e5eb",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808791362,
+          "stop" : 1646808791522,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224C3C8>" ]
+      }, {
+        "name" : "商品删除正确流程",
+        "uid" : "e49de312f7dc0e04",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808782541,
+          "stop" : 1646808782705,
+          "duration" : 164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222B32B0>" ]
+      }, {
+        "name" : "goodsId格式不正确的场景",
+        "uid" : "917ba1aaa5444bd4",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808783700,
+          "stop" : 1646808783851,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222B3780>" ]
+      }, {
+        "name" : "测试促销结束时间等于促销开始时间的场景",
+        "uid" : "775606fcae70aedb",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808789782,
+          "stop" : 1646808789947,
+          "duration" : 165
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283223E2B38>" ]
+      }, {
+        "name" : "qq为非数字",
+        "uid" : "332bbcb677c109ae",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808781860,
+          "stop" : 1646808782035,
+          "duration" : 175
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221E23C8>" ]
+      }, {
+        "name" : "密码纯字母的场景",
+        "uid" : "c7d598888dde238",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808778434,
+          "stop" : 1646808778625,
+          "duration" : 191
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1A90>" ]
+      }, {
+        "name" : "性别为空的场景的场景",
+        "uid" : "67cc53e28f870e89",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808780359,
+          "stop" : 1646808780532,
+          "duration" : 173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1CF8>" ]
+      }, {
+        "name" : "测试订单编号为空的场景",
+        "uid" : "c8a606b2d75aae92",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808796531,
+          "stop" : 1646808796682,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832259A358>" ]
+      }, {
+        "name" : "用户名为5位无效边界值的场景",
+        "uid" : "206e5d90814e76ba",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808776316,
+          "stop" : 1646808776477,
+          "duration" : 161
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221DDF98>" ]
+      }, {
+        "name" : "商品信息查询—（不带商品）销售状态为1、促销状态为0",
+        "uid" : "ab0f0466ad099d7f",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808791692,
+          "stop" : 1646808791855,
+          "duration" : 163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224C9E8>" ]
+      }, {
+        "name" : "商品信息查询—（带商品）销售状态为0、促销状态为0",
+        "uid" : "f3742b8fcd5fc4ff",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808792722,
+          "stop" : 1646808792876,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224C2B0>" ]
+      }, {
+        "name" : "商品信息查询主流程",
+        "uid" : "f081c349a58bf451",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808789953,
+          "stop" : 1646808790111,
+          "duration" : 158
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832226E748>" ]
+      }, {
+        "name" : "手机号为空的场景",
+        "uid" : "59bd38108517fcad",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808779526,
+          "stop" : 1646808779681,
+          "duration" : 155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1BE0>" ]
+      }, {
+        "name" : "密码为8位有效边界值的场景",
+        "uid" : "3489e7b7c66f09e9",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808777773,
+          "stop" : 1646808777928,
+          "duration" : 155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A19B0>" ]
+      }, {
+        "name" : "密码纯数字的场景",
+        "uid" : "4be854c6fb15bfd0",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808778671,
+          "stop" : 1646808778837,
+          "duration" : 166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1AC8>" ]
+      }, {
+        "name" : "商品信息查询—（不带商品）销售状态为0",
+        "uid" : "e3d0f55799e88a4f",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808790670,
+          "stop" : 1646808790823,
+          "duration" : 153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224CF28>" ]
+      }, {
+        "name" : "商品信息查询—（不带商品）销售状态为0、促销状态为1",
+        "uid" : "182d3798a3eb1424",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808791528,
+          "stop" : 1646808791686,
+          "duration" : 158
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224C9B0>" ]
+      }, {
+        "name" : "测试token为错误值的场景",
+        "uid" : "3016f4850aaa261f",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808796166,
+          "stop" : 1646808796326,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832259A320>" ]
+      }, {
+        "name" : "测试商品库存带空格的场景",
+        "uid" : "d15caefa7032d03e",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808786242,
+          "stop" : 1646808786403,
+          "duration" : 161
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308160>" ]
+      }, {
+        "name" : "商品信息查询—（带商品）促销状态为0",
+        "uid" : "ef865917f562aa3c",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808792361,
+          "stop" : 1646808792547,
+          "duration" : 186
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832224C4A8>" ]
+      }, {
+        "name" : "测试商品价格为空的场景",
+        "uid" : "177b7e23e51e6420",
+        "parentUid" : "8bc5d5de78b2cc4222bde1224ce0b0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646808786575,
+          "stop" : 1646808786734,
+          "duration" : 159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308390>" ]
+      } ],
+      "uid" : "8bc5d5de78b2cc4222bde1224ce0b0a5"
+    } ],
+    "uid" : "8e27c612219f6c073d689700efa13ed4"
+  } ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert {'code': 9999, 'msg': '注册成功'} == {'code': 1008...sg': '用户名已存在'}\n  Differing items:\n  {'msg': '注册成功'} != {'msg': '用户名已存在'}\n  {'code': 9999} != {'code': 1008}\n  Use -v to get the full diff",
+      "children" : [ {
+        "name" : "test_register[case0]",
+        "uid" : "575be6d23075e67b",
+        "parentUid" : "4f99aab38392d18da11a6d7d8edb21b8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1645788800868,
+          "stop" : 1645788800874,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaowu','password':'a123456','re_password':'a123456','email':'789@163.com','phone':'18688995566'}\", 'exp': '{\"code\": 9999, \"msg\": \"注册成功\"}'}" ]
+      } ],
+      "uid" : "4f99aab38392d18da11a6d7d8edb21b8"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

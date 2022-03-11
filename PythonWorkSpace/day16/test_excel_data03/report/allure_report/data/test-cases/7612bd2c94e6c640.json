@@ -1,0 +1,98 @@
+{
+  "uid" : "7612bd2c94e6c640",
+  "name" : "测试用户名输出错误的场景",
+  "fullName" : "test_login.TestLogin#test_login",
+  "historyId" : "9e59e38f75c692b8b2657fbe9ccbbea2",
+  "time" : {
+    "start" : 1646041927728,
+    "stop" : 1646041927770,
+    "duration" : 42
+  },
+  "description" : "京东小程序入口登录接口",
+  "descriptionHtml" : "<p>京东小程序入口登录接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "京东小程序入口登录接口",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "de6205bcef234801",
+      "name" : "接口路径",
+      "source" : "de6205bcef234801.attach",
+      "type" : "text/plain",
+      "size" : 32
+    }, {
+      "uid" : "bda62192fbce7688",
+      "name" : "接口参数",
+      "source" : "bda62192fbce7688.attach",
+      "type" : "text/plain",
+      "size" : 48
+    }, {
+      "uid" : "68147ff27209c44d",
+      "name" : "响应结果",
+      "source" : "68147ff27209c44d.attach",
+      "type" : "text/plain",
+      "size" : 49
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "story",
+    "value" : "登录的子模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "12100-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<excel_utils.CaseData object at 0x000002C62A037C88>"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7612bd2c94e6c640.json",
+  "parameterValues" : [ "<excel_utils.CaseData object at 0x000002C62A037C88>" ]
+}

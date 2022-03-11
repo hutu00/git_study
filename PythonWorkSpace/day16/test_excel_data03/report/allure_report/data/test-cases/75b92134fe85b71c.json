@@ -1,0 +1,186 @@
+{
+  "uid" : "75b92134fe85b71c",
+  "name" : "测试用户名输出错误的场景",
+  "fullName" : "test_login.TestLogin#test_login",
+  "historyId" : "9e59e38f75c692b8b2657fbe9ccbbea2",
+  "time" : {
+    "start" : 1646042168366,
+    "stop" : 1646042168408,
+    "duration" : 42
+  },
+  "description" : "京东小程序入口登录接口",
+  "descriptionHtml" : "<p>京东小程序入口登录接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "京东小程序入口登录接口",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6703bf64311cabc8",
+      "name" : "接口路径",
+      "source" : "6703bf64311cabc8.attach",
+      "type" : "text/plain",
+      "size" : 32
+    }, {
+      "uid" : "763a5a770600cc2c",
+      "name" : "接口参数",
+      "source" : "763a5a770600cc2c.attach",
+      "type" : "text/plain",
+      "size" : 48
+    }, {
+      "uid" : "dde90ffbaf673b71",
+      "name" : "响应结果",
+      "source" : "dde90ffbaf673b71.attach",
+      "type" : "text/plain",
+      "size" : 49
+    }, {
+      "uid" : "ba90aa460fc35136",
+      "name" : "log",
+      "source" : "ba90aa460fc35136.txt",
+      "type" : "text/plain",
+      "size" : 327
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "story",
+    "value" : "登录的子模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "3560-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<excel_utils.CaseData object at 0x000001365B074CF8>"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "b4ec982d0278d9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646042141978,
+        "stop" : 1646042142016,
+        "duration" : 38
+      }
+    }, {
+      "uid" : "7612bd2c94e6c640",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646041927728,
+        "stop" : 1646041927770,
+        "duration" : 42
+      }
+    }, {
+      "uid" : "2bdd3088fb0661ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646041678513,
+        "stop" : 1646041678554,
+        "duration" : 41
+      }
+    }, {
+      "uid" : "b861cc178b1fee07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646041413241,
+        "stop" : 1646041413301,
+        "duration" : 60
+      }
+    }, {
+      "uid" : "89d04cbd96c3828",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646041328897,
+        "stop" : 1646041328947,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "61e68183ccb9981c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646041202933,
+        "stop" : 1646041202981,
+        "duration" : 48
+      }
+    }, {
+      "uid" : "a19d2690be659ae8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646041014112,
+        "stop" : 1646041014160,
+        "duration" : 48
+      }
+    }, {
+      "uid" : "b8ca72fc2f688715",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646040915447,
+        "stop" : 1646040915497,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "14f5957aabd98351",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646040729449,
+        "stop" : 1646040729494,
+        "duration" : 45
+      }
+    }, {
+      "uid" : "7df1690733b2cb03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646040606350,
+        "stop" : 1646040606393,
+        "duration" : 43
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75b92134fe85b71c.json",
+  "parameterValues" : [ "<excel_utils.CaseData object at 0x000001365B074CF8>" ]
+}

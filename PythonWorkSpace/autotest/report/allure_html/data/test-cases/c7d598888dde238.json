@@ -1,0 +1,144 @@
+{
+  "uid" : "c7d598888dde238",
+  "name" : "密码纯字母的场景",
+  "fullName" : "testcases.test_business_register03.test_business_register03.TestRegister#test_register",
+  "historyId" : "aa18a147cc65dbafa49cebb47b46e555",
+  "time" : {
+    "start" : 1646808778434,
+    "stop" : 1646808778625,
+    "duration" : 191
+  },
+  "description" : "商品注册模块接口测试用例",
+  "descriptionHtml" : "<p>商品注册模块接口测试用例</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}\n  Differing items:\n  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}\n  {'code': 1006} != {'code': 1013}\n  Full diff:\n  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}\n  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}",
+  "statusTrace" : "self = <autotest.testcases.test_business_register03.test_business_register03.TestRegister object at 0x000002832220DCC0>\ncase = <comms.excel_utils.CaseData object at 0x00000283221A1A90>\n\n    @allure.severity(\"critical\")\n    @allure.description(\"商品注册模块接口测试用例\")\n    @pytest.mark.parametrize(\"case\", cases)\n    def test_register(self, case):\n        allure.dynamic.title(case.case_title)\n        allure.attach(body=case.url, name='接口路径')\n        allure.attach(body=case.case_data, name='接口参数')\n    \n        uname = eval(case.case_data)[\"username\"]\n        email = eval(case.case_data)[\"email\"]\n        phone = eval(case.case_data)[\"phone\"]\n        # 正确流程\n        if case.case_id in (1, 3, 13, 28, 31, 36, 38):\n            self.db.cud('delete from tb_user where name = %s or email = %s or phone = %s;', (uname, email, phone))\n        if case.case_id == 6:  # 用户名已存在的场景\n            self.db.cud('delete from tb_user where email = %s or phone = %s;', (email, phone))\n        if case.case_id == 27:  # 手机号已存在的场景\n            self.db.cud('delete from tb_user where email = %s or name = %s;', (email, uname))\n        if case.case_id == 40:\n            self.db.cud('delete from tb_user where name = %s or phone = %s;', (uname, phone))\n    \n        response = requests.post(url=case.url, data=eval(case.case_data))\n        res = response.json()\n        allure.attach(body=str(res), name='响应结果')\n    \n        try:\n            assert eval(case.expect) == res\n            # 数据验证\n            if case.case_id in (1, 3, 13, 28, 31, 36, 38):\n                count = self.db.find_count('select * from tb_user where name = %s;', (uname,))\n                assert count == 1\n        except AssertionError as e:\n            ReadExcel.write_data(DATA_FILE, 'business_register', case.case_id, 7, '失败')\n            logger.error('测试编号{},测试标题{},执行失败!实际结果{}'.format(case.case_id, case.case_title, res))\n            logger.exception(e)\n>           raise e\n\ntestcases\\test_business_register03\\test_business_register03.py:70: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <autotest.testcases.test_business_register03.test_business_register03.TestRegister object at 0x000002832220DCC0>\ncase = <comms.excel_utils.CaseData object at 0x00000283221A1A90>\n\n    @allure.severity(\"critical\")\n    @allure.description(\"商品注册模块接口测试用例\")\n    @pytest.mark.parametrize(\"case\", cases)\n    def test_register(self, case):\n        allure.dynamic.title(case.case_title)\n        allure.attach(body=case.url, name='接口路径')\n        allure.attach(body=case.case_data, name='接口参数')\n    \n        uname = eval(case.case_data)[\"username\"]\n        email = eval(case.case_data)[\"email\"]\n        phone = eval(case.case_data)[\"phone\"]\n        # 正确流程\n        if case.case_id in (1, 3, 13, 28, 31, 36, 38):\n            self.db.cud('delete from tb_user where name = %s or email = %s or phone = %s;', (uname, email, phone))\n        if case.case_id == 6:  # 用户名已存在的场景\n            self.db.cud('delete from tb_user where email = %s or phone = %s;', (email, phone))\n        if case.case_id == 27:  # 手机号已存在的场景\n            self.db.cud('delete from tb_user where email = %s or name = %s;', (email, uname))\n        if case.case_id == 40:\n            self.db.cud('delete from tb_user where name = %s or phone = %s;', (uname, phone))\n    \n        response = requests.post(url=case.url, data=eval(case.case_data))\n        res = response.json()\n        allure.attach(body=str(res), name='响应结果')\n    \n        try:\n>           assert eval(case.expect) == res\nE           AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}\nE             Differing items:\nE             {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}\nE             {'code': 1006} != {'code': 1013}\nE             Full diff:\nE             - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}\nE             + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}\n\ntestcases\\test_business_register03\\test_business_register03.py:61: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "connect_db",
+    "time" : {
+      "start" : 1646808778431,
+      "stop" : 1646808778433,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "商品注册模块接口测试用例",
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}\n  Differing items:\n  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}\n  {'code': 1006} != {'code': 1013}\n  Full diff:\n  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}\n  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}",
+    "statusTrace" : "self = <autotest.testcases.test_business_register03.test_business_register03.TestRegister object at 0x000002832220DCC0>\ncase = <comms.excel_utils.CaseData object at 0x00000283221A1A90>\n\n    @allure.severity(\"critical\")\n    @allure.description(\"商品注册模块接口测试用例\")\n    @pytest.mark.parametrize(\"case\", cases)\n    def test_register(self, case):\n        allure.dynamic.title(case.case_title)\n        allure.attach(body=case.url, name='接口路径')\n        allure.attach(body=case.case_data, name='接口参数')\n    \n        uname = eval(case.case_data)[\"username\"]\n        email = eval(case.case_data)[\"email\"]\n        phone = eval(case.case_data)[\"phone\"]\n        # 正确流程\n        if case.case_id in (1, 3, 13, 28, 31, 36, 38):\n            self.db.cud('delete from tb_user where name = %s or email = %s or phone = %s;', (uname, email, phone))\n        if case.case_id == 6:  # 用户名已存在的场景\n            self.db.cud('delete from tb_user where email = %s or phone = %s;', (email, phone))\n        if case.case_id == 27:  # 手机号已存在的场景\n            self.db.cud('delete from tb_user where email = %s or name = %s;', (email, uname))\n        if case.case_id == 40:\n            self.db.cud('delete from tb_user where name = %s or phone = %s;', (uname, phone))\n    \n        response = requests.post(url=case.url, data=eval(case.case_data))\n        res = response.json()\n        allure.attach(body=str(res), name='响应结果')\n    \n        try:\n            assert eval(case.expect) == res\n            # 数据验证\n            if case.case_id in (1, 3, 13, 28, 31, 36, 38):\n                count = self.db.find_count('select * from tb_user where name = %s;', (uname,))\n                assert count == 1\n        except AssertionError as e:\n            ReadExcel.write_data(DATA_FILE, 'business_register', case.case_id, 7, '失败')\n            logger.error('测试编号{},测试标题{},执行失败!实际结果{}'.format(case.case_id, case.case_title, res))\n            logger.exception(e)\n>           raise e\n\ntestcases\\test_business_register03\\test_business_register03.py:70: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <autotest.testcases.test_business_register03.test_business_register03.TestRegister object at 0x000002832220DCC0>\ncase = <comms.excel_utils.CaseData object at 0x00000283221A1A90>\n\n    @allure.severity(\"critical\")\n    @allure.description(\"商品注册模块接口测试用例\")\n    @pytest.mark.parametrize(\"case\", cases)\n    def test_register(self, case):\n        allure.dynamic.title(case.case_title)\n        allure.attach(body=case.url, name='接口路径')\n        allure.attach(body=case.case_data, name='接口参数')\n    \n        uname = eval(case.case_data)[\"username\"]\n        email = eval(case.case_data)[\"email\"]\n        phone = eval(case.case_data)[\"phone\"]\n        # 正确流程\n        if case.case_id in (1, 3, 13, 28, 31, 36, 38):\n            self.db.cud('delete from tb_user where name = %s or email = %s or phone = %s;', (uname, email, phone))\n        if case.case_id == 6:  # 用户名已存在的场景\n            self.db.cud('delete from tb_user where email = %s or phone = %s;', (email, phone))\n        if case.case_id == 27:  # 手机号已存在的场景\n            self.db.cud('delete from tb_user where email = %s or name = %s;', (email, uname))\n        if case.case_id == 40:\n            self.db.cud('delete from tb_user where name = %s or phone = %s;', (uname, phone))\n    \n        response = requests.post(url=case.url, data=eval(case.case_data))\n        res = response.json()\n        allure.attach(body=str(res), name='响应结果')\n    \n        try:\n>           assert eval(case.expect) == res\nE           AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}\nE             Differing items:\nE             {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}\nE             {'code': 1006} != {'code': 1013}\nE             Full diff:\nE             - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}\nE             + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}\n\ntestcases\\test_business_register03\\test_business_register03.py:61: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b245cdd03a1637ed",
+      "name" : "接口路径",
+      "source" : "b245cdd03a1637ed.attach",
+      "type" : "text/plain",
+      "size" : 42
+    }, {
+      "uid" : "a1aeff5030de62c8",
+      "name" : "接口参数",
+      "source" : "a1aeff5030de62c8.attach",
+      "type" : "text/plain",
+      "size" : 162
+    }, {
+      "uid" : "8f6727281028bd2e",
+      "name" : "响应结果",
+      "source" : "8f6727281028bd2e.attach",
+      "type" : "text/plain",
+      "size" : 73
+    }, {
+      "uid" : "8d6d9c5b63082c74",
+      "name" : "log",
+      "source" : "8d6d9c5b63082c74.txt",
+      "type" : "text/plain",
+      "size" : 1554
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "connect_db::0",
+    "time" : {
+      "start" : 1646808778665,
+      "stop" : 1646808778665,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "商品注册模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.test_business_register03"
+  }, {
+    "name" : "suite",
+    "value" : "test_business_register03"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "10028-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_business_register03.test_business_register03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<comms.excel_utils.CaseData object at 0x00000283221A1A90>"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c7d598888dde238.json",
+  "parameterValues" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1A90>" ]
+}

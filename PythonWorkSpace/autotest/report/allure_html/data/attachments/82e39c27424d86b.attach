@@ -1,0 +1,1 @@
+{'code': 1000, 'msg': '查询成功', 'name': 'xiaohei', 'phone': '18755662234', 'status': '已发货', 'value': 10.0, 'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0}, {'goods_name': '华为P30', 'goods_price': 59999.0}]}

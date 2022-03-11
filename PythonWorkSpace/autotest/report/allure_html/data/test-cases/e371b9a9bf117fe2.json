@@ -1,0 +1,144 @@
+{
+  "uid" : "e371b9a9bf117fe2",
+  "name" : "测试商品名称带空格的场景",
+  "fullName" : "testcases.test_business_token_goods_input06.test_business_goods_input03.TestGoodsInput#test_goods_input",
+  "historyId" : "378a0eb4186f82c6a5a5b28dfa6031a1",
+  "time" : {
+    "start" : 1646808784675,
+    "stop" : 1646808784849,
+    "duration" : 174
+  },
+  "description" : "商品模块商品信息录入接口测试用例",
+  "descriptionHtml" : "<p>商品模块商品信息录入接口测试用例</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}\n  Differing items:\n  {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}\n  {'code': 1006} != {'code': 1013}\n  Full diff:\n  - {'code': 1013, 'msg': '产品名称不能重复'}\n  ?            ^^          ^    ^^^\n  + {'code': 1006, 'msg': '商品名称格式不正确'}...\n  \n  ...Full output truncated (2 lines hidden), use '-vv' to show",
+  "statusTrace" : "self = <autotest.testcases.test_business_token_goods_input06.test_business_goods_input03.TestGoodsInput object at 0x0000028322353A90>\ncase = <comms.excel_utils.CaseData object at 0x00000283221EC780>\n\n    @allure.severity(\"critical\")\n    @allure.description(\"商品模块商品信息录入接口测试用例\")\n    @pytest.mark.parametrize('case', cases)\n    def test_goods_input(self, case):\n        allure.dynamic.title(case.case_title)\n        allure.attach(body=case.url, name=\"接口路径\")\n    \n        if case.case_id == 1:\n            self.db.cud(\"delete from tb_goods where goodsName = %s;\", (eval(case.case_data)[\"goodsName\"],))\n        if '#token#' in case.case_data:\n            case.case_data = replace_data(case.case_data, 'token', get_token())\n        allure.attach(body=case.case_data, name='请求参数')\n    \n        response = requests.post(url=case.url, data=eval(case.case_data))\n        res = response.json()\n        allure.attach(body=str(res), name='响应结果')\n    \n        try:\n            assert eval(case.expect) == res\n            if case.case_id == 1:\n                count = self.db.find_count('select * from tb_goods where goodsName = %s;',\n                                           (eval(case.case_data)[\"goodsName\"],))\n                assert count == 1\n        except AssertionError as e:\n            ReadExcel.write_data(DATA_FILE, 'business_token_goods_input', case.case_id, 7, '失败')\n            logger.error(\"测试编号{},测试标题{},执行失败!实际结果{}\".format(case.case_id, case.case_title, res))\n            logger.exception(e)\n>           raise e\n\ntestcases\\test_business_token_goods_input06\\test_business_goods_input03.py:61: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <autotest.testcases.test_business_token_goods_input06.test_business_goods_input03.TestGoodsInput object at 0x0000028322353A90>\ncase = <comms.excel_utils.CaseData object at 0x00000283221EC780>\n\n    @allure.severity(\"critical\")\n    @allure.description(\"商品模块商品信息录入接口测试用例\")\n    @pytest.mark.parametrize('case', cases)\n    def test_goods_input(self, case):\n        allure.dynamic.title(case.case_title)\n        allure.attach(body=case.url, name=\"接口路径\")\n    \n        if case.case_id == 1:\n            self.db.cud(\"delete from tb_goods where goodsName = %s;\", (eval(case.case_data)[\"goodsName\"],))\n        if '#token#' in case.case_data:\n            case.case_data = replace_data(case.case_data, 'token', get_token())\n        allure.attach(body=case.case_data, name='请求参数')\n    \n        response = requests.post(url=case.url, data=eval(case.case_data))\n        res = response.json()\n        allure.attach(body=str(res), name='响应结果')\n    \n        try:\n>           assert eval(case.expect) == res\nE           AssertionError: assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}\nE             Differing items:\nE             {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}\nE             {'code': 1006} != {'code': 1013}\nE             Full diff:\nE             - {'code': 1013, 'msg': '产品名称不能重复'}\nE             ?            ^^          ^    ^^^\nE             + {'code': 1006, 'msg': '商品名称格式不正确'}...\nE             \nE             ...Full output truncated (2 lines hidden), use '-vv' to show\n\ntestcases\\test_business_token_goods_input06\\test_business_goods_input03.py:52: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "connect_db",
+    "time" : {
+      "start" : 1646808784672,
+      "stop" : 1646808784675,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "商品模块商品信息录入接口测试用例",
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}\n  Differing items:\n  {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}\n  {'code': 1006} != {'code': 1013}\n  Full diff:\n  - {'code': 1013, 'msg': '产品名称不能重复'}\n  ?            ^^          ^    ^^^\n  + {'code': 1006, 'msg': '商品名称格式不正确'}...\n  \n  ...Full output truncated (2 lines hidden), use '-vv' to show",
+    "statusTrace" : "self = <autotest.testcases.test_business_token_goods_input06.test_business_goods_input03.TestGoodsInput object at 0x0000028322353A90>\ncase = <comms.excel_utils.CaseData object at 0x00000283221EC780>\n\n    @allure.severity(\"critical\")\n    @allure.description(\"商品模块商品信息录入接口测试用例\")\n    @pytest.mark.parametrize('case', cases)\n    def test_goods_input(self, case):\n        allure.dynamic.title(case.case_title)\n        allure.attach(body=case.url, name=\"接口路径\")\n    \n        if case.case_id == 1:\n            self.db.cud(\"delete from tb_goods where goodsName = %s;\", (eval(case.case_data)[\"goodsName\"],))\n        if '#token#' in case.case_data:\n            case.case_data = replace_data(case.case_data, 'token', get_token())\n        allure.attach(body=case.case_data, name='请求参数')\n    \n        response = requests.post(url=case.url, data=eval(case.case_data))\n        res = response.json()\n        allure.attach(body=str(res), name='响应结果')\n    \n        try:\n            assert eval(case.expect) == res\n            if case.case_id == 1:\n                count = self.db.find_count('select * from tb_goods where goodsName = %s;',\n                                           (eval(case.case_data)[\"goodsName\"],))\n                assert count == 1\n        except AssertionError as e:\n            ReadExcel.write_data(DATA_FILE, 'business_token_goods_input', case.case_id, 7, '失败')\n            logger.error(\"测试编号{},测试标题{},执行失败!实际结果{}\".format(case.case_id, case.case_title, res))\n            logger.exception(e)\n>           raise e\n\ntestcases\\test_business_token_goods_input06\\test_business_goods_input03.py:61: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <autotest.testcases.test_business_token_goods_input06.test_business_goods_input03.TestGoodsInput object at 0x0000028322353A90>\ncase = <comms.excel_utils.CaseData object at 0x00000283221EC780>\n\n    @allure.severity(\"critical\")\n    @allure.description(\"商品模块商品信息录入接口测试用例\")\n    @pytest.mark.parametrize('case', cases)\n    def test_goods_input(self, case):\n        allure.dynamic.title(case.case_title)\n        allure.attach(body=case.url, name=\"接口路径\")\n    \n        if case.case_id == 1:\n            self.db.cud(\"delete from tb_goods where goodsName = %s;\", (eval(case.case_data)[\"goodsName\"],))\n        if '#token#' in case.case_data:\n            case.case_data = replace_data(case.case_data, 'token', get_token())\n        allure.attach(body=case.case_data, name='请求参数')\n    \n        response = requests.post(url=case.url, data=eval(case.case_data))\n        res = response.json()\n        allure.attach(body=str(res), name='响应结果')\n    \n        try:\n>           assert eval(case.expect) == res\nE           AssertionError: assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}\nE             Differing items:\nE             {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}\nE             {'code': 1006} != {'code': 1013}\nE             Full diff:\nE             - {'code': 1013, 'msg': '产品名称不能重复'}\nE             ?            ^^          ^    ^^^\nE             + {'code': 1006, 'msg': '商品名称格式不正确'}...\nE             \nE             ...Full output truncated (2 lines hidden), use '-vv' to show\n\ntestcases\\test_business_token_goods_input06\\test_business_goods_input03.py:52: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3eac78d672b1a43",
+      "name" : "接口路径",
+      "source" : "3eac78d672b1a43.attach",
+      "type" : "text/plain",
+      "size" : 42
+    }, {
+      "uid" : "e7ec08ef2c0573c8",
+      "name" : "请求参数",
+      "source" : "e7ec08ef2c0573c8.attach",
+      "type" : "text/plain",
+      "size" : 199
+    }, {
+      "uid" : "a5bf2471abe38ee9",
+      "name" : "响应结果",
+      "source" : "a5bf2471abe38ee9.attach",
+      "type" : "text/plain",
+      "size" : 49
+    }, {
+      "uid" : "cb9323000d52fe9a",
+      "name" : "log",
+      "source" : "cb9323000d52fe9a.txt",
+      "type" : "text/plain",
+      "size" : 1849
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "connect_db::0",
+    "time" : {
+      "start" : 1646808784854,
+      "stop" : 1646808784855,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "商品模块商品信息录入接口"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.test_business_token_goods_input06"
+  }, {
+    "name" : "suite",
+    "value" : "test_business_goods_input03"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGoodsInput"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "10028-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_business_token_goods_input06.test_business_goods_input03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<comms.excel_utils.CaseData object at 0x00000283221EC780>"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e371b9a9bf117fe2.json",
+  "parameterValues" : [ "<comms.excel_utils.CaseData object at 0x00000283221EC780>" ]
+}

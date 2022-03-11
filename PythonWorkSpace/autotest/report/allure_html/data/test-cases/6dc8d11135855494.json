@@ -1,0 +1,136 @@
+{
+  "uid" : "6dc8d11135855494",
+  "name" : "goodsId为7位数字场景",
+  "fullName" : "testcases.test_business_token_goods_delete08.test_business_goods_delete03.TestGoodsDelete#test_goods_delete",
+  "historyId" : "a00c7924088f0510db3d1510d4d20ee0",
+  "time" : {
+    "start" : 1646808783349,
+    "stop" : 1646808783506,
+    "duration" : 157
+  },
+  "description" : "商品信息删除模块接口测试用例",
+  "descriptionHtml" : "<p>商品信息删除模块接口测试用例</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "connect_db",
+    "time" : {
+      "start" : 1646808783346,
+      "stop" : 1646808783348,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "商品信息删除模块接口测试用例",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "82356303ec4e1770",
+      "name" : "接口路径",
+      "source" : "82356303ec4e1770.attach",
+      "type" : "text/plain",
+      "size" : 43
+    }, {
+      "uid" : "27e65123f4d018",
+      "name" : "请求参数",
+      "source" : "27e65123f4d018.attach",
+      "type" : "text/plain",
+      "size" : 38
+    }, {
+      "uid" : "455282972eb7b8e9",
+      "name" : "响应结果",
+      "source" : "455282972eb7b8e9.attach",
+      "type" : "text/plain",
+      "size" : 52
+    }, {
+      "uid" : "447c8d887a6ffbd3",
+      "name" : "log",
+      "source" : "447c8d887a6ffbd3.txt",
+      "type" : "text/plain",
+      "size" : 340
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "connect_db::0",
+    "time" : {
+      "start" : 1646808783507,
+      "stop" : 1646808783507,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "商品信息删除模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.test_business_token_goods_delete08"
+  }, {
+    "name" : "suite",
+    "value" : "test_business_goods_delete03"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGoodsDelete"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "10028-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_business_token_goods_delete08.test_business_goods_delete03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<comms.excel_utils.CaseData object at 0x00000283222B3F28>"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6dc8d11135855494.json",
+  "parameterValues" : [ "<comms.excel_utils.CaseData object at 0x00000283222B3F28>" ]
+}

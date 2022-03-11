@@ -1,0 +1,95 @@
+{
+  "uid" : "e6aa1375a94a1fd0",
+  "name" : "用户名入参无效边界值的场景",
+  "fullName" : "test_register.TestRegister#test_register",
+  "historyId" : "85da3d1a3da93594d55110bbd2b55aec",
+  "time" : {
+    "start" : 1646041927999,
+    "stop" : 1646041928032,
+    "duration" : 33
+  },
+  "description" : "京东小程序入口注册接口",
+  "descriptionHtml" : "<p>京东小程序入口注册接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "京东小程序入口注册接口",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b037f75fa80fd48f",
+      "name" : "接口路径",
+      "source" : "b037f75fa80fd48f.attach",
+      "type" : "text/plain",
+      "size" : 30
+    }, {
+      "uid" : "db26aa15a5a48ef0",
+      "name" : "接口参数",
+      "source" : "db26aa15a5a48ef0.attach",
+      "type" : "text/plain",
+      "size" : 106
+    }, {
+      "uid" : "c313ba44ac397bf0",
+      "name" : "响应结果",
+      "source" : "c313ba44ac397bf0.attach",
+      "type" : "text/plain",
+      "size" : 65
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "注册模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_register"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "12100-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<excel_utils.CaseData object at 0x000002C62AC513C8>"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6aa1375a94a1fd0.json",
+  "parameterValues" : [ "<excel_utils.CaseData object at 0x000002C62AC513C8>" ]
+}

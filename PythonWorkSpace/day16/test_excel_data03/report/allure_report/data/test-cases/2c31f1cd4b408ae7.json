@@ -1,0 +1,107 @@
+{
+  "uid" : "2c31f1cd4b408ae7",
+  "name" : "用户名为空的场景",
+  "fullName" : "test_register.TestRegister#test_register",
+  "historyId" : "8eb0e624922c904af93bc0b4d85aa29f",
+  "time" : {
+    "start" : 1646042142208,
+    "stop" : 1646042142244,
+    "duration" : 36
+  },
+  "description" : "京东小程序入口注册接口",
+  "descriptionHtml" : "<p>京东小程序入口注册接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "京东小程序入口注册接口",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "98215593cfdbcf28",
+      "name" : "接口路径",
+      "source" : "98215593cfdbcf28.attach",
+      "type" : "text/plain",
+      "size" : 30
+    }, {
+      "uid" : "5b6e20129d9d4423",
+      "name" : "接口参数",
+      "source" : "5b6e20129d9d4423.attach",
+      "type" : "text/plain",
+      "size" : 101
+    }, {
+      "uid" : "4ff6b3dc555b837c",
+      "name" : "响应结果",
+      "source" : "4ff6b3dc555b837c.attach",
+      "type" : "text/plain",
+      "size" : 46
+    }, {
+      "uid" : "ad051c135876a228",
+      "name" : "log",
+      "source" : "ad051c135876a228.txt",
+      "type" : "text/plain",
+      "size" : 316
+    }, {
+      "uid" : "b78b13c103873036",
+      "name" : "stderr",
+      "source" : "b78b13c103873036.txt",
+      "type" : "text/plain",
+      "size" : 352
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 5
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "注册模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_register"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "12124-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<excel_utils.CaseData object at 0x00000259034680F0>"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c31f1cd4b408ae7.json",
+  "parameterValues" : [ "<excel_utils.CaseData object at 0x00000259034680F0>" ]
+}

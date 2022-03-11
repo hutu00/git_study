@@ -1,0 +1,2249 @@
+2022-03-02 11:52:03,473 - [test_login.py - 52] - INFO:测试编号1,测试用例标题正常流程,执行成功!
+2022-03-02 11:52:03,516 - [test_login.py - 52] - INFO:测试编号2,测试用例标题测试用户名输出错误的场景,执行成功!
+2022-03-02 11:52:03,556 - [test_login.py - 52] - INFO:测试编号3,测试用例标题测试用户名为空的场景,执行成功!
+2022-03-02 11:52:03,596 - [test_login.py - 52] - INFO:测试编号4,测试用例标题测试密码输入错误的场景,执行成功!
+2022-03-02 11:52:03,633 - [test_login.py - 52] - INFO:测试编号5,测试用例标题测试密码为空的场景,执行成功!
+2022-03-02 11:52:03,707 - [test_register.py - 59] - INFO:测试编号1,测试用例标题正常流程,执行成功!
+2022-03-02 11:52:03,758 - [test_register.py - 59] - INFO:测试编号2,测试用例标题用户名为空的场景,执行成功!
+2022-03-02 11:52:03,800 - [test_register.py - 59] - INFO:测试编号3,测试用例标题用户名入参无效边界值的场景,执行成功!
+2022-03-02 11:52:03,845 - [test_register.py - 59] - INFO:测试编号4,测试用例标题密码入参为空的场景,执行成功!
+2022-03-02 11:52:03,884 - [test_register.py - 59] - INFO:测试编号5,测试用例标题密码入参无效边界值的场景,执行成功!
+2022-03-02 11:52:03,929 - [test_register.py - 59] - INFO:测试编号6,测试用例标题确认密码与密码入参不一致的场景,执行成功!
+2022-03-02 11:52:03,971 - [test_register.py - 59] - INFO:测试编号7,测试用例标题邮箱注册为空的场景,执行成功!
+2022-03-02 11:52:04,012 - [test_register.py - 59] - INFO:测试编号8,测试用例标题邮箱入参格式错误的场景,执行成功!
+2022-03-02 11:52:04,058 - [test_register.py - 59] - INFO:测试编号9,测试用例标题测试用户名已注册的场景,执行成功!
+2022-03-02 11:52:04,103 - [test_register.py - 59] - INFO:测试编号10,测试用例标题测试手机号为空的场景,执行成功!
+2022-03-02 11:53:57,854 - [test_login.py - 52] - INFO:测试编号1,测试用例标题正常流程,执行成功!
+2022-03-02 11:53:57,901 - [test_login.py - 52] - INFO:测试编号2,测试用例标题测试用户名输出错误的场景,执行成功!
+2022-03-02 11:53:57,941 - [test_login.py - 52] - INFO:测试编号3,测试用例标题测试用户名为空的场景,执行成功!
+2022-03-02 11:53:57,979 - [test_login.py - 52] - INFO:测试编号4,测试用例标题测试密码输入错误的场景,执行成功!
+2022-03-02 11:53:58,015 - [test_login.py - 52] - INFO:测试编号5,测试用例标题测试密码为空的场景,执行成功!
+2022-03-02 11:53:58,099 - [test_register.py - 59] - INFO:测试编号1,测试用例标题正常流程,执行成功!
+2022-03-02 11:53:58,144 - [test_register.py - 59] - INFO:测试编号2,测试用例标题用户名为空的场景,执行成功!
+2022-03-02 11:53:58,184 - [test_register.py - 59] - INFO:测试编号3,测试用例标题用户名入参无效边界值的场景,执行成功!
+2022-03-02 11:53:58,225 - [test_register.py - 59] - INFO:测试编号4,测试用例标题密码入参为空的场景,执行成功!
+2022-03-02 11:53:58,264 - [test_register.py - 59] - INFO:测试编号5,测试用例标题密码入参无效边界值的场景,执行成功!
+2022-03-02 11:53:58,306 - [test_register.py - 59] - INFO:测试编号6,测试用例标题确认密码与密码入参不一致的场景,执行成功!
+2022-03-02 11:53:58,345 - [test_register.py - 59] - INFO:测试编号7,测试用例标题邮箱注册为空的场景,执行成功!
+2022-03-02 11:53:58,389 - [test_register.py - 59] - INFO:测试编号8,测试用例标题邮箱入参格式错误的场景,执行成功!
+2022-03-02 11:53:58,433 - [test_register.py - 59] - INFO:测试编号9,测试用例标题测试用户名已注册的场景,执行成功!
+2022-03-02 11:53:58,473 - [test_register.py - 59] - INFO:测试编号10,测试用例标题测试手机号为空的场景,执行成功!
+2022-03-02 11:54:25,899 - [test_login.py - 52] - INFO:测试编号1,测试用例标题正常流程,执行成功!
+2022-03-02 11:54:25,939 - [test_login.py - 52] - INFO:测试编号2,测试用例标题测试用户名输出错误的场景,执行成功!
+2022-03-02 11:54:25,978 - [test_login.py - 52] - INFO:测试编号3,测试用例标题测试用户名为空的场景,执行成功!
+2022-03-02 11:54:26,017 - [test_login.py - 52] - INFO:测试编号4,测试用例标题测试密码输入错误的场景,执行成功!
+2022-03-02 11:54:26,056 - [test_login.py - 52] - INFO:测试编号5,测试用例标题测试密码为空的场景,执行成功!
+2022-03-02 11:54:26,135 - [test_register.py - 59] - INFO:测试编号1,测试用例标题正常流程,执行成功!
+2022-03-02 11:54:26,178 - [test_register.py - 59] - INFO:测试编号2,测试用例标题用户名为空的场景,执行成功!
+2022-03-02 11:54:26,219 - [test_register.py - 59] - INFO:测试编号3,测试用例标题用户名入参无效边界值的场景,执行成功!
+2022-03-02 11:54:26,261 - [test_register.py - 59] - INFO:测试编号4,测试用例标题密码入参为空的场景,执行成功!
+2022-03-02 11:54:26,300 - [test_register.py - 59] - INFO:测试编号5,测试用例标题密码入参无效边界值的场景,执行成功!
+2022-03-02 11:54:26,339 - [test_register.py - 59] - INFO:测试编号6,测试用例标题确认密码与密码入参不一致的场景,执行成功!
+2022-03-02 11:54:26,379 - [test_register.py - 59] - INFO:测试编号7,测试用例标题邮箱注册为空的场景,执行成功!
+2022-03-02 11:54:26,422 - [test_register.py - 59] - INFO:测试编号8,测试用例标题邮箱入参格式错误的场景,执行成功!
+2022-03-02 11:54:26,465 - [test_register.py - 59] - INFO:测试编号9,测试用例标题测试用户名已注册的场景,执行成功!
+2022-03-02 11:54:26,505 - [test_register.py - 59] - INFO:测试编号10,测试用例标题测试手机号为空的场景,执行成功!
+2022-03-02 11:55:13,938 - [test_login.py - 52] - INFO:测试编号1,测试用例标题正常流程,执行成功!
+2022-03-02 11:55:14,003 - [test_login.py - 52] - INFO:测试编号2,测试用例标题测试用户名输出错误的场景,执行成功!
+2022-03-02 11:55:14,050 - [test_login.py - 52] - INFO:测试编号3,测试用例标题测试用户名为空的场景,执行成功!
+2022-03-02 11:55:14,097 - [test_login.py - 52] - INFO:测试编号4,测试用例标题测试密码输入错误的场景,执行成功!
+2022-03-02 11:55:14,133 - [test_login.py - 52] - INFO:测试编号5,测试用例标题测试密码为空的场景,执行成功!
+2022-03-02 11:55:14,208 - [test_register.py - 59] - INFO:测试编号1,测试用例标题正常流程,执行成功!
+2022-03-02 11:55:14,246 - [test_register.py - 59] - INFO:测试编号2,测试用例标题用户名为空的场景,执行成功!
+2022-03-02 11:55:14,286 - [test_register.py - 59] - INFO:测试编号3,测试用例标题用户名入参无效边界值的场景,执行成功!
+2022-03-02 11:55:14,326 - [test_register.py - 59] - INFO:测试编号4,测试用例标题密码入参为空的场景,执行成功!
+2022-03-02 11:55:14,364 - [test_register.py - 59] - INFO:测试编号5,测试用例标题密码入参无效边界值的场景,执行成功!
+2022-03-02 11:55:14,411 - [test_register.py - 59] - INFO:测试编号6,测试用例标题确认密码与密码入参不一致的场景,执行成功!
+2022-03-02 11:55:14,457 - [test_register.py - 59] - INFO:测试编号7,测试用例标题邮箱注册为空的场景,执行成功!
+2022-03-02 11:55:14,504 - [test_register.py - 59] - INFO:测试编号8,测试用例标题邮箱入参格式错误的场景,执行成功!
+2022-03-02 11:55:14,545 - [test_register.py - 59] - INFO:测试编号9,测试用例标题测试用户名已注册的场景,执行成功!
+2022-03-02 11:55:14,585 - [test_register.py - 59] - INFO:测试编号10,测试用例标题测试手机号为空的场景,执行成功!
+2022-03-02 16:53:09,038 - [test_login01.py - 39] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-02 17:00:51,664 - [test_login02.py - 57] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-03 09:39:46,535 - [test_login03.py - 66] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-03 09:39:46,582 - [test_login03.py - 66] - INFO:测试编号2,测试标题用户名为空场景,执行成功!
+2022-03-03 09:39:46,644 - [test_login03.py - 66] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-03 09:39:46,691 - [test_login03.py - 66] - INFO:测试编号4,测试标题用户类型为空场景,执行成功!
+2022-03-03 09:39:46,753 - [test_login03.py - 66] - INFO:测试编号5,测试标题用户名为错误场景,执行成功!
+2022-03-03 09:39:46,800 - [test_login03.py - 66] - INFO:测试编号6,测试标题密码为错误场景,执行成功!
+2022-03-03 09:39:46,863 - [test_login03.py - 66] - INFO:测试编号7,测试标题用户类型为不存在场景,执行成功!
+2022-03-03 09:39:46,925 - [test_login03.py - 66] - INFO:测试编号8,测试标题用户类型为其他类型用户场景,执行成功!
+2022-03-03 09:39:46,988 - [test_login03.py - 61] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwMTU4Ni45MjU3NzY1OmJiM2MwNzRjNzI3YTAxYmY5MTA2ODA0OGFmZWJmY2Y4NjRmZmFhNTc='}
+2022-03-03 09:39:46,988 - [test_login03.py - 62] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjRmZmFhNTc='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTU4Ni45MjU3NzY1OmJiM2MwNzRjNzI3YTAxYmY5MTA2ODA0OGFmZWJmY2Y4NjRmZmFhNTc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 58, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjRmZmFhNTc='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTU4Ni45MjU3NzY1OmJiM2MwNzRjNzI3YTAxYmY5MTA2ODA0OGFmZWJmY2Y4NjRmZmFhNTc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 09:39:47,066 - [test_login03.py - 61] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwMTU4Ny4wMTk1MDI5OjczZWUxYTllZjg0YjE5NmI3NGVkNmUwYmMzMWYyMDg4YjQ2ZTkxNTg='}
+2022-03-03 09:39:47,066 - [test_login03.py - 62] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YjQ2ZTkxNTg='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTU4Ny4wMTk1MDI5OjczZWUxYTllZjg0YjE5NmI3NGVkNmUwYmMzMWYyMDg4YjQ2ZTkxNTg='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 58, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YjQ2ZTkxNTg='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTU4Ny4wMTk1MDI5OjczZWUxYTllZjg0YjE5NmI3NGVkNmUwYmMzMWYyMDg4YjQ2ZTkxNTg='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 09:40:19,824 - [test_login03.py - 66] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-03 09:40:19,902 - [test_login03.py - 66] - INFO:测试编号2,测试标题用户名为空场景,执行成功!
+2022-03-03 09:40:19,996 - [test_login03.py - 66] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-03 09:40:20,089 - [test_login03.py - 66] - INFO:测试编号4,测试标题用户类型为空场景,执行成功!
+2022-03-03 09:40:20,152 - [test_login03.py - 66] - INFO:测试编号5,测试标题用户名为错误场景,执行成功!
+2022-03-03 09:40:20,199 - [test_login03.py - 66] - INFO:测试编号6,测试标题密码为错误场景,执行成功!
+2022-03-03 09:40:20,277 - [test_login03.py - 66] - INFO:测试编号7,测试标题用户类型为不存在场景,执行成功!
+2022-03-03 09:40:20,339 - [test_login03.py - 66] - INFO:测试编号8,测试标题用户类型为其他类型用户场景,执行成功!
+2022-03-03 09:40:20,386 - [test_login03.py - 61] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwMTYyMC4zMzk4MDI6MTBkMTNmYjBmMmFhMjlkZGFiNGY5Y2UyNTNjY2M3MzY0N2Y3MTFkZQ=='}
+2022-03-03 09:40:20,386 - [test_login03.py - 62] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...N2Y3MTFkZQ=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTYyMC4zMzk4MDI6MTBkMTNmYjBmMmFhMjlkZGFiNGY5Y2UyNTNjY2M3MzY0N2Y3MTFkZQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 58, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...N2Y3MTFkZQ=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTYyMC4zMzk4MDI6MTBkMTNmYjBmMmFhMjlkZGFiNGY5Y2UyNTNjY2M3MzY0N2Y3MTFkZQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 09:40:20,449 - [test_login03.py - 61] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwMTYyMC40MDIyODM6ZGY2MjAzOTk0ZGU3MTMxYjY1Yzk2YjJjMzhkYjA1ZDgwNzY0NDhkYw=='}
+2022-03-03 09:40:20,449 - [test_login03.py - 62] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NzY0NDhkYw=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTYyMC40MDIyODM6ZGY2MjAzOTk0ZGU3MTMxYjY1Yzk2YjJjMzhkYjA1ZDgwNzY0NDhkYw=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 58, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NzY0NDhkYw=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTYyMC40MDIyODM6ZGY2MjAzOTk0ZGU3MTMxYjY1Yzk2YjJjMzhkYjA1ZDgwNzY0NDhkYw=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:23:35,509 - [Ftest_login03.py - 68] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-03 10:23:35,573 - [Ftest_login03.py - 68] - INFO:测试编号2,测试标题用户名为空场景,执行成功!
+2022-03-03 10:23:35,635 - [Ftest_login03.py - 68] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-03 10:23:35,698 - [Ftest_login03.py - 68] - INFO:测试编号4,测试标题用户类型为空场景,执行成功!
+2022-03-03 10:23:35,764 - [Ftest_login03.py - 68] - INFO:测试编号5,测试标题用户名为错误场景,执行成功!
+2022-03-03 10:23:35,826 - [Ftest_login03.py - 68] - INFO:测试编号6,测试标题密码为错误场景,执行成功!
+2022-03-03 10:23:35,890 - [Ftest_login03.py - 68] - INFO:测试编号7,测试标题用户类型为不存在场景,执行成功!
+2022-03-03 10:23:35,954 - [Ftest_login03.py - 68] - INFO:测试编号8,测试标题用户类型为其他类型用户场景,执行成功!
+2022-03-03 10:23:36,021 - [Ftest_login03.py - 63] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDIxNS45NjU1Nzk3OjQ0NjhiNWFhOTU0MWEyZmNkMDUwNGMwYTBmMmM1NDVkY2U5MDgwMjQ='}
+2022-03-03 10:23:36,021 - [Ftest_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2U5MDgwMjQ='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIxNS45NjU1Nzk3OjQ0NjhiNWFhOTU0MWEyZmNkMDUwNGMwYTBmMmM1NDVkY2U5MDgwMjQ='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\Ftest_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2U5MDgwMjQ='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIxNS45NjU1Nzk3OjQ0NjhiNWFhOTU0MWEyZmNkMDUwNGMwYTBmMmM1NDVkY2U5MDgwMjQ='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:23:36,088 - [Ftest_login03.py - 63] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDIxNi4wMzM0MDQ0OjljYTIzZWQ3ZTM0OTZkM2E0OTZhNTJmZjAxZjVlOGIwNjUzZWExMzc='}
+2022-03-03 10:23:36,088 - [Ftest_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjUzZWExMzc='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIxNi4wMzM0MDQ0OjljYTIzZWQ3ZTM0OTZkM2E0OTZhNTJmZjAxZjVlOGIwNjUzZWExMzc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\Ftest_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjUzZWExMzc='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIxNi4wMzM0MDQ0OjljYTIzZWQ3ZTM0OTZkM2E0OTZhNTJmZjAxZjVlOGIwNjUzZWExMzc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:23:49,754 - [test_login04.py - 64] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-03 10:23:49,818 - [test_login04.py - 64] - INFO:测试编号2,测试标题用户名为空场景,执行成功!
+2022-03-03 10:23:49,881 - [test_login04.py - 64] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-03 10:23:49,945 - [test_login04.py - 64] - INFO:测试编号4,测试标题用户类型为空场景,执行成功!
+2022-03-03 10:23:50,012 - [test_login04.py - 64] - INFO:测试编号5,测试标题用户名为错误场景,执行成功!
+2022-03-03 10:23:50,074 - [test_login04.py - 64] - INFO:测试编号6,测试标题密码为错误场景,执行成功!
+2022-03-03 10:23:50,139 - [test_login04.py - 64] - INFO:测试编号7,测试标题用户类型为不存在场景,执行成功!
+2022-03-03 10:23:50,204 - [test_login04.py - 64] - INFO:测试编号8,测试标题用户类型为其他类型用户场景,执行成功!
+2022-03-03 10:23:50,272 - [test_login04.py - 59] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDIzMC4yMTQ0Nzc6ODhkNDkwODJmNzE5Y2E0NTY0ZjU0Y2QyMDQ1MDIwZDQ3ZGQ2NzRkMA=='}
+2022-03-03 10:23:50,272 - [test_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZGQ2NzRkMA=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIzMC4yMTQ0Nzc6ODhkNDkwODJmNzE5Y2E0NTY0ZjU0Y2QyMDQ1MDIwZDQ3ZGQ2NzRkMA=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZGQ2NzRkMA=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIzMC4yMTQ0Nzc6ODhkNDkwODJmNzE5Y2E0NTY0ZjU0Y2QyMDQ1MDIwZDQ3ZGQ2NzRkMA=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:23:50,338 - [test_login04.py - 59] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDIzMC4yODMyOTI4OjdmOTJhOGU3ZDFhYzUyMGQwZGQyNjlkOGYzNzg1NTQxMDQ2MTUxZTM='}
+2022-03-03 10:23:50,338 - [test_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MDQ2MTUxZTM='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIzMC4yODMyOTI4OjdmOTJhOGU3ZDFhYzUyMGQwZGQyNjlkOGYzNzg1NTQxMDQ2MTUxZTM='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MDQ2MTUxZTM='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIzMC4yODMyOTI4OjdmOTJhOGU3ZDFhYzUyMGQwZGQyNjlkOGYzNzg1NTQxMDQ2MTUxZTM='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:24:02,366 - [test_login04.py - 64] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-03 10:24:02,431 - [test_login04.py - 64] - INFO:测试编号2,测试标题用户名为空场景,执行成功!
+2022-03-03 10:24:02,493 - [test_login04.py - 64] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-03 10:24:02,561 - [test_login04.py - 64] - INFO:测试编号4,测试标题用户类型为空场景,执行成功!
+2022-03-03 10:24:02,630 - [test_login04.py - 64] - INFO:测试编号5,测试标题用户名为错误场景,执行成功!
+2022-03-03 10:24:02,695 - [test_login04.py - 64] - INFO:测试编号6,测试标题密码为错误场景,执行成功!
+2022-03-03 10:24:02,766 - [test_login04.py - 64] - INFO:测试编号7,测试标题用户类型为不存在场景,执行成功!
+2022-03-03 10:24:02,838 - [test_login04.py - 64] - INFO:测试编号8,测试标题用户类型为其他类型用户场景,执行成功!
+2022-03-03 10:24:02,909 - [test_login04.py - 59] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDI0Mi44NDc2OTU6MzM3NTY5NGY5NTU2MTRiYmU5YTFhYjlkZDQxNjQyZmRjY2Q5YmRmOQ=='}
+2022-03-03 10:24:02,909 - [test_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2Q5YmRmOQ=='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDI0Mi44NDc2OTU6MzM3NTY5NGY5NTU2MTRiYmU5YTFhYjlkZDQxNjQyZmRjY2Q5YmRmOQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2Q5YmRmOQ=='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDI0Mi44NDc2OTU6MzM3NTY5NGY5NTU2MTRiYmU5YTFhYjlkZDQxNjQyZmRjY2Q5YmRmOQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:24:02,978 - [test_login04.py - 59] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDI0Mi45MjE0OTczOmRmNTljMTNiOThmODk2Y2VmOGEyMDg5NGY3YWQ2MWJkZDgyZTVhMTM='}
+2022-03-03 10:24:02,978 - [test_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZDgyZTVhMTM='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDI0Mi45MjE0OTczOmRmNTljMTNiOThmODk2Y2VmOGEyMDg5NGY3YWQ2MWJkZDgyZTVhMTM='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZDgyZTVhMTM='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDI0Mi45MjE0OTczOmRmNTljMTNiOThmODk2Y2VmOGEyMDg5NGY3YWQ2MWJkZDgyZTVhMTM='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:34:51,386 - [Ftest_login04.py - 64] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-03 10:34:51,456 - [Ftest_login04.py - 64] - INFO:测试编号2,测试标题用户名为空场景,执行成功!
+2022-03-03 10:34:51,527 - [Ftest_login04.py - 64] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-03 10:34:51,595 - [Ftest_login04.py - 64] - INFO:测试编号4,测试标题用户类型为空场景,执行成功!
+2022-03-03 10:34:51,664 - [Ftest_login04.py - 64] - INFO:测试编号5,测试标题用户名为错误场景,执行成功!
+2022-03-03 10:34:51,736 - [Ftest_login04.py - 64] - INFO:测试编号6,测试标题密码为错误场景,执行成功!
+2022-03-03 10:34:51,812 - [Ftest_login04.py - 64] - INFO:测试编号7,测试标题用户类型为不存在场景,执行成功!
+2022-03-03 10:34:51,886 - [Ftest_login04.py - 64] - INFO:测试编号8,测试标题用户类型为其他类型用户场景,执行成功!
+2022-03-03 10:34:51,959 - [Ftest_login04.py - 59] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDg5MS44OTcwODE2OmRkYWE3ZjkzZTdjOWYyMTA1NTJmMTM4ODM5OGQwMjM4YmEzZWYyZWE='}
+2022-03-03 10:34:51,959 - [Ftest_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YmEzZWYyZWE='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDg5MS44OTcwODE2OmRkYWE3ZjkzZTdjOWYyMTA1NTJmMTM4ODM5OGQwMjM4YmEzZWYyZWE='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\Ftest_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YmEzZWYyZWE='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDg5MS44OTcwODE2OmRkYWE3ZjkzZTdjOWYyMTA1NTJmMTM4ODM5OGQwMjM4YmEzZWYyZWE='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:34:52,035 - [Ftest_login04.py - 59] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDg5MS45NzI4NzkyOmUwYTZlNDI2ZWQ5NDYzZjljZGM2M2RkYTM1ZTcwNjUxMzMwMDg1MGQ='}
+2022-03-03 10:34:52,035 - [Ftest_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MzMwMDg1MGQ='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDg5MS45NzI4NzkyOmUwYTZlNDI2ZWQ5NDYzZjljZGM2M2RkYTM1ZTcwNjUxMzMwMDg1MGQ='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\Ftest_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MzMwMDg1MGQ='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDg5MS45NzI4NzkyOmUwYTZlNDI2ZWQ5NDYzZjljZGM2M2RkYTM1ZTcwNjUxMzMwMDg1MGQ='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:35:06,648 - [test_login05.py - 70] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-03 10:35:06,719 - [test_login05.py - 70] - INFO:测试编号2,测试标题用户名为空场景,执行成功!
+2022-03-03 10:35:06,789 - [test_login05.py - 70] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-03 10:35:06,857 - [test_login05.py - 70] - INFO:测试编号4,测试标题用户类型为空场景,执行成功!
+2022-03-03 10:35:06,925 - [test_login05.py - 70] - INFO:测试编号5,测试标题用户名为错误场景,执行成功!
+2022-03-03 10:35:06,993 - [test_login05.py - 70] - INFO:测试编号6,测试标题密码为错误场景,执行成功!
+2022-03-03 10:35:07,062 - [test_login05.py - 70] - INFO:测试编号7,测试标题用户类型为不存在场景,执行成功!
+2022-03-03 10:35:07,131 - [test_login05.py - 70] - INFO:测试编号8,测试标题用户类型为其他类型用户场景,执行成功!
+2022-03-03 10:35:07,202 - [test_login05.py - 65] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDkwNy4xNDAzMjpkZmViYTJjYTNjMDY4ZGZmZDU3MzY3MTE1OTg4YmM4MGUyYTQzNzI4'}
+2022-03-03 10:35:07,203 - [test_login05.py - 66] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MGUyYTQzNzI4'}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDkwNy4xNDAzMjpkZmViYTJjYTNjMDY4ZGZmZDU3MzY3MTE1OTg4YmM4MGUyYTQzNzI4'}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login05.py", line 62, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MGUyYTQzNzI4'}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDkwNy4xNDAzMjpkZmViYTJjYTNjMDY4ZGZmZDU3MzY3MTE1OTg4YmM4MGUyYTQzNzI4'}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:35:07,278 - [test_login05.py - 65] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDkwNy4yMTMxMjUyOjI1NjJlYmEwNjU3YTVmNTBiMmUzNzllYTA4M2QzMzY1ZjUxYzRlNGE='}
+2022-03-03 10:35:07,278 - [test_login05.py - 66] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZjUxYzRlNGE='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDkwNy4yMTMxMjUyOjI1NjJlYmEwNjU3YTVmNTBiMmUzNzllYTA4M2QzMzY1ZjUxYzRlNGE='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login05.py", line 62, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZjUxYzRlNGE='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDkwNy4yMTMxMjUyOjI1NjJlYmEwNjU3YTVmNTBiMmUzNzllYTA4M2QzMzY1ZjUxYzRlNGE='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 11:33:56,648 - [test_business_register01.py - 37] - INFO:测试编号1,测试标题正常流程,执行成功
+2022-03-03 11:35:02,609 - [test_business_register01.py - 32] - ERROR:测试编号1,测试标题正常流程,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-03 11:35:02,610 - [test_business_register01.py - 33] - ERROR:assert {'code': 1000, 'msg': '注册成功'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1000} != {'code': 1013}
+  {'msg': '注册成功'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1000, 'msg': '注册成功'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register01.py", line 29, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1000, 'msg': '注册成功'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1000} != {'code': 1013}
+  {'msg': '注册成功'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1000, 'msg': '注册成功'}
+2022-03-03 11:41:14,698 - [Ftest_business_register01.py - 32] - ERROR:测试编号1,测试标题正常流程,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-03 11:41:14,698 - [Ftest_business_register01.py - 33] - ERROR:assert {'code': 1000, 'msg': '注册成功'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '注册成功'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1000} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1000, 'msg': '注册成功'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\Ftest_business_register01.py", line 29, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1000, 'msg': '注册成功'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '注册成功'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1000} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1000, 'msg': '注册成功'}
+2022-03-03 11:41:31,548 - [test_business_register02.py - 59] - INFO:测试编号1,测试标题正常流程,执行成功
+2022-03-03 11:41:45,383 - [test_business_register02.py - 59] - INFO:测试编号1,测试标题正常流程,执行成功
+2022-03-03 11:41:50,312 - [test_business_register02.py - 59] - INFO:测试编号1,测试标题正常流程,执行成功
+2022-03-03 11:41:53,218 - [test_business_register02.py - 59] - INFO:测试编号1,测试标题正常流程,执行成功
+2022-03-03 20:31:28,434 - [Ftest_business_register02.py - 59] - INFO:测试编号1,测试标题正常流程,执行成功
+2022-03-03 20:31:54,563 - [test_business_register03.py - 68] - INFO:测试编号1,测试标题正常流程,执行成功
+2022-03-03 20:37:27,075 - [test_business_register03.py - 68] - INFO:测试编号1,测试标题正常流程,执行成功
+2022-03-03 20:41:31,203 - [test_business_register03.py - 68] - INFO:测试编号1,测试标题正常流程,执行成功
+2022-03-03 20:57:35,263 - [test_business_register03.py - 68] - INFO:测试编号1,测试标题正常流程,执行成功
+2022-03-04 10:48:30,737 - [test_business_register03.py - 67] - INFO:测试编号1,测试标题正确流程,执行成功
+2022-03-04 10:48:48,057 - [test_business_register03.py - 67] - INFO:测试编号1,测试标题正确流程,执行成功
+2022-03-04 10:53:34,480 - [test_business_register03.py - 73] - INFO:测试编号1,测试标题正确流程,执行成功
+2022-03-04 10:53:34,564 - [test_business_register03.py - 73] - INFO:测试编号2,测试标题用户名为空的场景,执行成功
+2022-03-04 10:53:34,653 - [test_business_register03.py - 73] - INFO:测试编号3,测试标题用户名为8位有效边界值的场景,执行成功
+2022-03-04 10:53:34,757 - [test_business_register03.py - 73] - INFO:测试编号4,测试标题用户名为5位无效边界值的场景,执行成功
+2022-03-04 10:53:34,889 - [test_business_register03.py - 73] - INFO:测试编号5,测试标题用户名为9位无效边界值的场景,执行成功
+2022-03-04 10:53:35,011 - [test_business_register03.py - 73] - INFO:测试编号6,测试标题用户名已存在的场景,执行成功
+2022-03-04 10:53:35,103 - [test_business_register03.py - 73] - INFO:测试编号7,测试标题用户名包含特殊符号的场景,执行成功
+2022-03-04 10:53:35,191 - [test_business_register03.py - 73] - INFO:测试编号8,测试标题用户名前包含空格的场景,执行成功
+2022-03-04 10:53:35,281 - [test_business_register03.py - 73] - INFO:测试编号9,测试标题用户名中包含空格的场景,执行成功
+2022-03-04 10:53:35,373 - [test_business_register03.py - 73] - INFO:测试编号10,测试标题用户名后包含空格的场景,执行成功
+2022-03-04 10:53:35,459 - [test_business_register03.py - 73] - INFO:测试编号11,测试标题用户名以非字母开头的场景,执行成功
+2022-03-04 10:53:35,545 - [test_business_register03.py - 73] - INFO:测试编号12,测试标题密码为空的场景,执行成功
+2022-03-04 10:53:35,641 - [test_business_register03.py - 73] - INFO:测试编号13,测试标题密码为8位有效边界值的场景,执行成功
+2022-03-04 10:53:35,727 - [test_business_register03.py - 73] - INFO:测试编号14,测试标题密码为6位无效边界值的场景,执行成功
+2022-03-04 10:53:35,824 - [test_business_register03.py - 73] - INFO:测试编号15,测试标题密码为12位无效边界值的场景,执行成功
+2022-03-04 10:53:35,912 - [test_business_register03.py - 73] - INFO:测试编号16,测试标题密码包含特殊符号的场景,执行成功
+2022-03-04 10:53:36,010 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1000, 'msg': '注册成功'}
+2022-03-04 10:53:36,011 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '注册成功'}
+  {'code': 1006} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '注册成功'}
+  {'code': 1006} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-04 10:53:36,154 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:53:36,155 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-04 10:53:36,248 - [test_business_register03.py - 73] - INFO:测试编号19,测试标题密码区分大小写的场景,执行成功
+2022-03-04 10:53:36,355 - [test_business_register03.py - 73] - INFO:测试编号20,测试标题确认密码为空的场景,执行成功
+2022-03-04 10:53:36,453 - [test_business_register03.py - 73] - INFO:测试编号21,测试标题确认密码与密码不一致的场景,执行成功
+2022-03-04 10:53:36,544 - [test_business_register03.py - 73] - INFO:测试编号22,测试标题确认密码区分大小写的场景,执行成功
+2022-03-04 10:53:36,633 - [test_business_register03.py - 73] - INFO:测试编号23,测试标题手机号为空的场景,执行成功
+2022-03-04 10:53:36,721 - [test_business_register03.py - 73] - INFO:测试编号24,测试标题手机号为非11位数字的场景,执行成功
+2022-03-04 10:53:36,814 - [test_business_register03.py - 73] - INFO:测试编号25,测试标题手机号为非数字的场景,执行成功
+2022-03-04 10:53:36,918 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1000, 'msg': '注册成功'}
+2022-03-04 10:53:36,919 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '注册成功'}
+  {'code': 1008} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?             ^          ^^^^
+  + {'code': 1008, 'msg': '手机号格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '注册成功'}
+  {'code': 1008} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?             ^          ^^^^
+  + {'code': 1008, 'msg': '手机号格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-04 10:53:37,017 - [test_business_register03.py - 73] - INFO:测试编号27,测试标题手机号已注册的场景,执行成功
+2022-03-04 10:53:37,115 - [test_business_register03.py - 73] - INFO:测试编号28,测试标题性别为空的场景的场景,执行成功
+2022-03-04 10:53:37,208 - [test_business_register03.py - 73] - INFO:测试编号29,测试标题性别为非枚举值的场景,执行成功
+2022-03-04 10:53:37,304 - [test_business_register03.py - 73] - INFO:测试编号30,测试标题性别为男+女的场景,执行成功
+2022-03-04 10:53:37,395 - [test_business_register03.py - 73] - INFO:测试编号31,测试标题生日为空的场景,执行成功
+2022-03-04 10:53:37,487 - [test_business_register03.py - 73] - INFO:测试编号32,测试标题生日为非时间格式的场景,执行成功
+2022-03-04 10:53:37,577 - [test_business_register03.py - 73] - INFO:测试编号33,测试标题生日为非数字,执行成功
+2022-03-04 10:53:37,663 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1000, 'msg': '注册成功'}
+2022-03-04 10:53:37,663 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '注册成功'}
+  {'code': 1010} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?            ^           ^^^^
+  + {'code': 1010, 'msg': '生日格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '注册成功'}
+  {'code': 1010} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?            ^           ^^^^
+  + {'code': 1010, 'msg': '生日格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-04 10:53:37,763 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1000, 'msg': '注册成功'}
+2022-03-04 10:53:37,763 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '注册成功'}
+  {'code': 1010} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?            ^           ^^^^
+  + {'code': 1010, 'msg': '生日格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '注册成功'}
+  {'code': 1010} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?            ^           ^^^^
+  + {'code': 1010, 'msg': '生日格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-04 10:53:37,864 - [test_business_register03.py - 73] - INFO:测试编号36,测试标题qq为空的场景,执行成功
+2022-03-04 10:53:37,952 - [test_business_register03.py - 73] - INFO:测试编号37,测试标题qq为非数字,执行成功
+2022-03-04 10:53:38,048 - [test_business_register03.py - 73] - INFO:测试编号38,测试标题邮箱为空的场景,执行成功
+2022-03-04 10:53:38,141 - [test_business_register03.py - 73] - INFO:测试编号39,测试标题邮箱格式错误的场景,执行成功
+2022-03-04 10:53:38,228 - [test_business_register03.py - 73] - INFO:测试编号40,测试标题邮箱已注册的场景,执行成功
+2022-03-04 10:56:13,653 - [test_business_register03.py - 73] - INFO:测试编号1,测试标题正确流程,执行成功
+2022-03-04 10:56:13,740 - [test_business_register03.py - 73] - INFO:测试编号2,测试标题用户名为空的场景,执行成功
+2022-03-04 10:56:13,833 - [test_business_register03.py - 73] - INFO:测试编号3,测试标题用户名为8位有效边界值的场景,执行成功
+2022-03-04 10:56:13,919 - [test_business_register03.py - 73] - INFO:测试编号4,测试标题用户名为5位无效边界值的场景,执行成功
+2022-03-04 10:56:14,020 - [test_business_register03.py - 73] - INFO:测试编号5,测试标题用户名为9位无效边界值的场景,执行成功
+2022-03-04 10:56:14,144 - [test_business_register03.py - 73] - INFO:测试编号6,测试标题用户名已存在的场景,执行成功
+2022-03-04 10:56:14,266 - [test_business_register03.py - 73] - INFO:测试编号7,测试标题用户名包含特殊符号的场景,执行成功
+2022-03-04 10:56:14,372 - [test_business_register03.py - 73] - INFO:测试编号8,测试标题用户名前包含空格的场景,执行成功
+2022-03-04 10:56:14,466 - [test_business_register03.py - 73] - INFO:测试编号9,测试标题用户名中包含空格的场景,执行成功
+2022-03-04 10:56:14,559 - [test_business_register03.py - 73] - INFO:测试编号10,测试标题用户名后包含空格的场景,执行成功
+2022-03-04 10:56:14,649 - [test_business_register03.py - 73] - INFO:测试编号11,测试标题用户名以非字母开头的场景,执行成功
+2022-03-04 10:56:14,738 - [test_business_register03.py - 73] - INFO:测试编号12,测试标题密码为空的场景,执行成功
+2022-03-04 10:56:14,834 - [test_business_register03.py - 73] - INFO:测试编号13,测试标题密码为8位有效边界值的场景,执行成功
+2022-03-04 10:56:14,926 - [test_business_register03.py - 73] - INFO:测试编号14,测试标题密码为6位无效边界值的场景,执行成功
+2022-03-04 10:56:15,016 - [test_business_register03.py - 73] - INFO:测试编号15,测试标题密码为12位无效边界值的场景,执行成功
+2022-03-04 10:56:15,106 - [test_business_register03.py - 73] - INFO:测试编号16,测试标题密码包含特殊符号的场景,执行成功
+2022-03-04 10:56:15,201 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:56:15,202 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-04 10:56:15,297 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:56:15,297 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-04 10:56:15,384 - [test_business_register03.py - 73] - INFO:测试编号19,测试标题密码区分大小写的场景,执行成功
+2022-03-04 10:56:15,476 - [test_business_register03.py - 73] - INFO:测试编号20,测试标题确认密码为空的场景,执行成功
+2022-03-04 10:56:15,569 - [test_business_register03.py - 73] - INFO:测试编号21,测试标题确认密码与密码不一致的场景,执行成功
+2022-03-04 10:56:15,658 - [test_business_register03.py - 73] - INFO:测试编号22,测试标题确认密码区分大小写的场景,执行成功
+2022-03-04 10:56:15,742 - [test_business_register03.py - 73] - INFO:测试编号23,测试标题手机号为空的场景,执行成功
+2022-03-04 10:56:15,833 - [test_business_register03.py - 73] - INFO:测试编号24,测试标题手机号为非11位数字的场景,执行成功
+2022-03-04 10:56:15,935 - [test_business_register03.py - 73] - INFO:测试编号25,测试标题手机号为非数字的场景,执行成功
+2022-03-04 10:56:16,033 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:56:16,033 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+2022-03-04 10:56:16,126 - [test_business_register03.py - 73] - INFO:测试编号27,测试标题手机号已注册的场景,执行成功
+2022-03-04 10:56:16,215 - [test_business_register03.py - 73] - INFO:测试编号28,测试标题性别为空的场景的场景,执行成功
+2022-03-04 10:56:16,305 - [test_business_register03.py - 73] - INFO:测试编号29,测试标题性别为非枚举值的场景,执行成功
+2022-03-04 10:56:16,401 - [test_business_register03.py - 73] - INFO:测试编号30,测试标题性别为男+女的场景,执行成功
+2022-03-04 10:56:16,492 - [test_business_register03.py - 73] - INFO:测试编号31,测试标题生日为空的场景,执行成功
+2022-03-04 10:56:16,579 - [test_business_register03.py - 73] - INFO:测试编号32,测试标题生日为非时间格式的场景,执行成功
+2022-03-04 10:56:16,669 - [test_business_register03.py - 73] - INFO:测试编号33,测试标题生日为非数字,执行成功
+2022-03-04 10:56:16,757 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:56:16,758 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-04 10:56:16,853 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:56:16,853 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-04 10:56:16,947 - [test_business_register03.py - 73] - INFO:测试编号36,测试标题qq为空的场景,执行成功
+2022-03-04 10:56:17,038 - [test_business_register03.py - 73] - INFO:测试编号37,测试标题qq为非数字,执行成功
+2022-03-04 10:56:17,136 - [test_business_register03.py - 73] - INFO:测试编号38,测试标题邮箱为空的场景,执行成功
+2022-03-04 10:56:17,223 - [test_business_register03.py - 73] - INFO:测试编号39,测试标题邮箱格式错误的场景,执行成功
+2022-03-04 10:56:17,311 - [test_business_register03.py - 73] - INFO:测试编号40,测试标题邮箱已注册的场景,执行成功
+2022-03-04 11:43:16,435 - [test_business_token_goodsinfo.py - 40] - INFO:测试编号1,测试标题正常流程,执行成功!
+2022-03-04 11:49:36,388 - [test_business_token_goodsinfo02.py - 58] - INFO:测试编号1,测试标题正常流程,执行成功!
+2022-03-04 11:49:40,474 - [test_business_token_goodsinfo02.py - 58] - INFO:测试编号1,测试标题正常流程,执行成功!
+2022-03-05 11:56:32,118 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号1,测试标题商品信息查询主流程,执行成功!
+2022-03-05 11:56:32,229 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号2,测试标题商品信息查询—token为空,执行成功!
+2022-03-05 11:56:32,355 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号3,测试标题商品信息查询—token区分大小写,执行成功!
+2022-03-05 11:56:32,498 - [test_business_token_goodsinfo03.py - 82] - ERROR:测试编号4,测试标题商品信息查询—上一次token值,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'goods_tiems': [{'goodsName': '预留数据', 'shopPrice': 100.0, 'promotePrice': 0.0, 'num': 1000}, {'goodsName': '小米手机', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone5', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone13', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '帝王蟹', 'shopPrice': 999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '老八汉堡', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '三文鱼', 'shopPrice': 99.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '华为P30', 'shopPrice': 59999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac pro', 'shopPrice': 9999.0, 'promotePrice': 0.0, 'num': 99999}]}
+2022-03-05 11:56:32,499 - [test_business_token_goodsinfo03.py - 83] - ERROR:assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (79 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goodsinfo04\test_business_token_goodsinfo03.py", line 79, in test_goods_info
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (79 lines hidden), use '-vv' to show
+2022-03-05 11:56:32,619 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号5,测试标题商品信息查询—（不带商品）销售状态为0,执行成功!
+2022-03-05 11:56:32,751 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号6,测试标题商品信息查询—（不带商品）销售状态为1,执行成功!
+2022-03-05 11:56:32,870 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号7,测试标题商品信息查询—（不带商品）促销状态为0,执行成功!
+2022-03-05 11:56:33,025 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号8,测试标题商品信息查询—（不带商品）促销状态为1,执行成功!
+2022-03-05 11:56:33,207 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号9,测试标题商品信息查询—（不带商品）销售状态为0、促销状态为0,执行成功!
+2022-03-05 11:56:33,352 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号10,测试标题商品信息查询—（不带商品）销售状态为0、促销状态为1,执行成功!
+2022-03-05 11:56:33,479 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号11,测试标题商品信息查询—（不带商品）销售状态为1、促销状态为0,执行成功!
+2022-03-05 11:56:33,607 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号12,测试标题商品信息查询—（不带商品）销售状态为1、促销状态为1,执行成功!
+2022-03-05 11:56:33,730 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号13,测试标题商品信息查询—（带商品）销售状态为0,执行成功!
+2022-03-05 11:56:33,851 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号14,测试标题商品信息查询—（带商品）销售状态为1,执行成功!
+2022-03-05 11:56:33,970 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号15,测试标题商品信息查询—（带商品）促销状态为0,执行成功!
+2022-03-05 11:56:34,112 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号16,测试标题商品信息查询—（带商品）促销状态为1,执行成功!
+2022-03-05 11:56:34,229 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号17,测试标题商品信息查询—（带商品）销售状态为0、促销状态为0,执行成功!
+2022-03-05 11:56:34,359 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号18,测试标题商品信息查询—（带商品）销售状态为0、促销状态为1,执行成功!
+2022-03-05 11:56:34,474 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号19,测试标题商品信息查询—（带商品）销售状态为1、促销状态为0,执行成功!
+2022-03-05 11:56:34,591 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号20,测试标题商品信息查询—（带商品）销售状态为1、促销状态为1,执行成功!
+2022-03-05 11:56:34,706 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号21,测试标题商品信息查询—销售状态为非枚举,执行成功!
+2022-03-05 11:56:34,824 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号22,测试标题商品信息查询—促销状态为非枚举,执行成功!
+2022-03-05 11:56:34,938 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号23,测试标题商品信息查询—存在的商品编号（6位数字）,执行成功!
+2022-03-05 11:56:35,055 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号24,测试标题商品信息查询—商品编号非6位数字,执行成功!
+2022-03-05 11:56:35,164 - [test_business_token_goodsinfo03.py - 87] - INFO:测试编号25,测试标题商品信息查询—不存在的商品编号（6位数字）,执行成功!
+2022-03-05 14:42:55,801 - [test_business_token_order_items01.py - 64] - INFO:测试编号1,测试标题正常流程,执行成功!
+2022-03-05 14:45:51,123 - [test_business_token_order_items01.py - 64] - INFO:测试编号1,测试标题正常流程,执行成功!
+2022-03-05 14:45:55,297 - [test_business_token_order_items01.py - 64] - INFO:测试编号1,测试标题正常流程,执行成功!
+2022-03-05 14:46:54,762 - [test_business_register03.py - 73] - INFO:测试编号1,测试标题正确流程,执行成功
+2022-03-05 14:46:54,872 - [test_business_register03.py - 73] - INFO:测试编号2,测试标题用户名为空的场景,执行成功
+2022-03-05 14:46:54,986 - [test_business_register03.py - 73] - INFO:测试编号3,测试标题用户名为8位有效边界值的场景,执行成功
+2022-03-05 14:46:55,095 - [test_business_register03.py - 73] - INFO:测试编号4,测试标题用户名为5位无效边界值的场景,执行成功
+2022-03-05 14:46:55,210 - [test_business_register03.py - 73] - INFO:测试编号5,测试标题用户名为9位无效边界值的场景,执行成功
+2022-03-05 14:46:55,326 - [test_business_register03.py - 73] - INFO:测试编号6,测试标题用户名已存在的场景,执行成功
+2022-03-05 14:46:55,442 - [test_business_register03.py - 73] - INFO:测试编号7,测试标题用户名包含特殊符号的场景,执行成功
+2022-03-05 14:46:55,554 - [test_business_register03.py - 73] - INFO:测试编号8,测试标题用户名前包含空格的场景,执行成功
+2022-03-05 14:46:55,671 - [test_business_register03.py - 73] - INFO:测试编号9,测试标题用户名中包含空格的场景,执行成功
+2022-03-05 14:46:55,784 - [test_business_register03.py - 73] - INFO:测试编号10,测试标题用户名后包含空格的场景,执行成功
+2022-03-05 14:46:55,901 - [test_business_register03.py - 73] - INFO:测试编号11,测试标题用户名以非字母开头的场景,执行成功
+2022-03-05 14:46:56,015 - [test_business_register03.py - 73] - INFO:测试编号12,测试标题密码为空的场景,执行成功
+2022-03-05 14:46:56,135 - [test_business_register03.py - 73] - INFO:测试编号13,测试标题密码为8位有效边界值的场景,执行成功
+2022-03-05 14:46:56,250 - [test_business_register03.py - 73] - INFO:测试编号14,测试标题密码为6位无效边界值的场景,执行成功
+2022-03-05 14:46:56,388 - [test_business_register03.py - 73] - INFO:测试编号15,测试标题密码为12位无效边界值的场景,执行成功
+2022-03-05 14:46:56,505 - [test_business_register03.py - 73] - INFO:测试编号16,测试标题密码包含特殊符号的场景,执行成功
+2022-03-05 14:46:56,623 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-05 14:46:56,623 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-05 14:46:56,794 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-05 14:46:56,795 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-05 14:46:56,920 - [test_business_register03.py - 73] - INFO:测试编号19,测试标题密码区分大小写的场景,执行成功
+2022-03-05 14:46:57,038 - [test_business_register03.py - 73] - INFO:测试编号20,测试标题确认密码为空的场景,执行成功
+2022-03-05 14:46:57,170 - [test_business_register03.py - 73] - INFO:测试编号21,测试标题确认密码与密码不一致的场景,执行成功
+2022-03-05 14:46:57,284 - [test_business_register03.py - 73] - INFO:测试编号22,测试标题确认密码区分大小写的场景,执行成功
+2022-03-05 14:46:57,410 - [test_business_register03.py - 73] - INFO:测试编号23,测试标题手机号为空的场景,执行成功
+2022-03-05 14:46:57,528 - [test_business_register03.py - 73] - INFO:测试编号24,测试标题手机号为非11位数字的场景,执行成功
+2022-03-05 14:46:57,658 - [test_business_register03.py - 73] - INFO:测试编号25,测试标题手机号为非数字的场景,执行成功
+2022-03-05 14:46:57,776 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-05 14:46:57,777 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1008} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1008} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+2022-03-05 14:46:57,907 - [test_business_register03.py - 73] - INFO:测试编号27,测试标题手机号已注册的场景,执行成功
+2022-03-05 14:46:58,032 - [test_business_register03.py - 73] - INFO:测试编号28,测试标题性别为空的场景的场景,执行成功
+2022-03-05 14:46:58,160 - [test_business_register03.py - 73] - INFO:测试编号29,测试标题性别为非枚举值的场景,执行成功
+2022-03-05 14:46:58,273 - [test_business_register03.py - 73] - INFO:测试编号30,测试标题性别为男+女的场景,执行成功
+2022-03-05 14:46:58,396 - [test_business_register03.py - 73] - INFO:测试编号31,测试标题生日为空的场景,执行成功
+2022-03-05 14:46:58,511 - [test_business_register03.py - 73] - INFO:测试编号32,测试标题生日为非时间格式的场景,执行成功
+2022-03-05 14:46:58,631 - [test_business_register03.py - 73] - INFO:测试编号33,测试标题生日为非数字,执行成功
+2022-03-05 14:46:58,770 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-05 14:46:58,770 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-05 14:46:58,897 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-05 14:46:58,897 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-05 14:46:59,028 - [test_business_register03.py - 73] - INFO:测试编号36,测试标题qq为空的场景,执行成功
+2022-03-05 14:46:59,150 - [test_business_register03.py - 73] - INFO:测试编号37,测试标题qq为非数字,执行成功
+2022-03-05 14:46:59,271 - [test_business_register03.py - 73] - INFO:测试编号38,测试标题邮箱为空的场景,执行成功
+2022-03-05 14:46:59,394 - [test_business_register03.py - 73] - INFO:测试编号39,测试标题邮箱格式错误的场景,执行成功
+2022-03-05 14:46:59,512 - [test_business_register03.py - 73] - INFO:测试编号40,测试标题邮箱已注册的场景,执行成功
+2022-03-05 14:46:59,644 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号1,测试标题商品信息查询主流程,执行成功!
+2022-03-05 14:46:59,765 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号2,测试标题商品信息查询—token为空,执行成功!
+2022-03-05 14:46:59,918 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号3,测试标题商品信息查询—token区分大小写,执行成功!
+2022-03-05 14:47:00,059 - [test_business_token_goodsinfo03.py - 91] - ERROR:测试编号4,测试标题商品信息查询—上一次token值,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'goods_tiems': [{'goodsName': '预留数据', 'shopPrice': 100.0, 'promotePrice': 0.0, 'num': 1000}, {'goodsName': '小米手机', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone5', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone13', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '帝王蟹', 'shopPrice': 999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '老八汉堡', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '三文鱼', 'shopPrice': 99.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '华为P30', 'shopPrice': 59999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac pro', 'shopPrice': 9999.0, 'promotePrice': 0.0, 'num': 99999}]}
+2022-03-05 14:47:00,059 - [test_business_token_goodsinfo03.py - 92] - ERROR:assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (79 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goodsinfo04\test_business_token_goodsinfo03.py", line 88, in test_goods_info
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (79 lines hidden), use '-vv' to show
+2022-03-05 14:47:00,195 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号5,测试标题商品信息查询—（不带商品）销售状态为0,执行成功!
+2022-03-05 14:47:00,320 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号6,测试标题商品信息查询—（不带商品）销售状态为1,执行成功!
+2022-03-05 14:47:00,450 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号7,测试标题商品信息查询—（不带商品）促销状态为0,执行成功!
+2022-03-05 14:47:00,576 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号8,测试标题商品信息查询—（不带商品）促销状态为1,执行成功!
+2022-03-05 14:47:00,702 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号9,测试标题商品信息查询—（不带商品）销售状态为0、促销状态为0,执行成功!
+2022-03-05 14:47:00,827 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号10,测试标题商品信息查询—（不带商品）销售状态为0、促销状态为1,执行成功!
+2022-03-05 14:47:00,979 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号11,测试标题商品信息查询—（不带商品）销售状态为1、促销状态为0,执行成功!
+2022-03-05 14:47:01,105 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号12,测试标题商品信息查询—（不带商品）销售状态为1、促销状态为1,执行成功!
+2022-03-05 14:47:01,233 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号13,测试标题商品信息查询—（带商品）销售状态为0,执行成功!
+2022-03-05 14:47:01,356 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号14,测试标题商品信息查询—（带商品）销售状态为1,执行成功!
+2022-03-05 14:47:01,511 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号15,测试标题商品信息查询—（带商品）促销状态为0,执行成功!
+2022-03-05 14:47:01,636 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号16,测试标题商品信息查询—（带商品）促销状态为1,执行成功!
+2022-03-05 14:47:01,760 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号17,测试标题商品信息查询—（带商品）销售状态为0、促销状态为0,执行成功!
+2022-03-05 14:47:01,881 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号18,测试标题商品信息查询—（带商品）销售状态为0、促销状态为1,执行成功!
+2022-03-05 14:47:02,012 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号19,测试标题商品信息查询—（带商品）销售状态为1、促销状态为0,执行成功!
+2022-03-05 14:47:02,146 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号20,测试标题商品信息查询—（带商品）销售状态为1、促销状态为1,执行成功!
+2022-03-05 14:47:02,274 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号21,测试标题商品信息查询—销售状态为非枚举,执行成功!
+2022-03-05 14:47:02,396 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号22,测试标题商品信息查询—促销状态为非枚举,执行成功!
+2022-03-05 14:47:02,519 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号23,测试标题商品信息查询—存在的商品编号（6位数字）,执行成功!
+2022-03-05 14:47:02,640 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号24,测试标题商品信息查询—商品编号非6位数字,执行成功!
+2022-03-05 14:47:02,766 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号25,测试标题商品信息查询—不存在的商品编号（6位数字）,执行成功!
+2022-03-05 14:47:02,887 - [test_login03.py - 68] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-05 14:47:03,009 - [test_login03.py - 68] - INFO:测试编号2,测试标题用户名为空场景,执行成功!
+2022-03-05 14:47:03,124 - [test_login03.py - 68] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-05 14:47:03,278 - [test_login03.py - 68] - INFO:测试编号4,测试标题用户类型为空场景,执行成功!
+2022-03-05 14:47:03,398 - [test_login03.py - 68] - INFO:测试编号5,测试标题用户名为错误场景,执行成功!
+2022-03-05 14:47:03,524 - [test_login03.py - 68] - INFO:测试编号6,测试标题密码为错误场景,执行成功!
+2022-03-05 14:47:03,635 - [test_login03.py - 68] - INFO:测试编号7,测试标题用户类型为不存在场景,执行成功!
+2022-03-05 14:47:03,755 - [test_login03.py - 68] - INFO:测试编号8,测试标题用户类型为其他类型用户场景,执行成功!
+2022-03-05 14:47:03,870 - [test_login03.py - 63] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjQ5MjgyMy43Njg1MDE6MGM1ZTI0YjVkNzEzNjI0YmRiYmUxZTBhZTAxMTg4NjVmYzhkMjhjNQ=='}
+2022-03-05 14:47:03,870 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YzhkMjhjNQ=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjQ5MjgyMy43Njg1MDE6MGM1ZTI0YjVkNzEzNjI0YmRiYmUxZTBhZTAxMTg4NjVmYzhkMjhjNQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YzhkMjhjNQ=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjQ5MjgyMy43Njg1MDE6MGM1ZTI0YjVkNzEzNjI0YmRiYmUxZTBhZTAxMTg4NjVmYzhkMjhjNQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-05 14:47:04,001 - [test_login03.py - 63] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjQ5MjgyMy44ODkxNzkyOjBjZWZmYmJhNmFkNTY5MzQyYjFjMTVmOGJmOGI3YmE3OWI3MWI4N2E='}
+2022-03-05 14:47:04,002 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...OWI3MWI4N2E='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjQ5MjgyMy44ODkxNzkyOjBjZWZmYmJhNmFkNTY5MzQyYjFjMTVmOGJmOGI3YmE3OWI3MWI4N2E='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...OWI3MWI4N2E='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjQ5MjgyMy44ODkxNzkyOjBjZWZmYmJhNmFkNTY5MzQyYjFjMTVmOGJmOGI3YmE3OWI3MWI4N2E='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-05 14:47:04,142 - [test_business_token_order_items01.py - 64] - INFO:测试编号1,测试标题正常流程,执行成功!
+2022-03-07 09:49:45,214 - [test_business_token_order_items02.py - 83] - INFO:测试编号1,测试标题正常流程,执行成功!
+2022-03-07 09:49:45,336 - [test_business_token_order_items02.py - 83] - INFO:测试编号2,测试标题测试token为空的场景,执行成功!
+2022-03-07 09:49:45,465 - [test_business_token_order_items02.py - 83] - INFO:测试编号3,测试标题测试token为错误值的场景,执行成功!
+2022-03-07 09:49:45,617 - [test_business_token_order_items02.py - 78] - ERROR:测试编号4,测试标题测试token为失效值的场景,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'name': 'xiaohei', 'phone': '18755662234', 'status': '已发货', 'value': 10.0, 'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0}, {'goods_name': '华为P30', 'goods_price': 59999.0}]}
+2022-03-07 09:49:45,617 - [test_business_token_order_items02.py - 79] - ERROR:assert {'code': 1004...请检查token是否失效'} == {'code': 1000...xiaohei', ...}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1004} != {'code': 1000}
+  Right contains 5 more items:
+  {'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0},
+                   {'goods_name': '华为P30', 'goods_price': 59999.0}],
+   'name': 'xiaohei',...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_order_items05\test_business_token_order_items02.py", line 75, in test_order_items
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1004...请检查token是否失效'} == {'code': 1000...xiaohei', ...}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1004} != {'code': 1000}
+  Right contains 5 more items:
+  {'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0},
+                   {'goods_name': '华为P30', 'goods_price': 59999.0}],
+   'name': 'xiaohei',...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show
+2022-03-07 09:49:45,795 - [test_business_token_order_items02.py - 83] - INFO:测试编号5,测试标题测试订单编号为空的场景,执行成功!
+2022-03-07 09:49:45,926 - [test_business_token_order_items02.py - 83] - INFO:测试编号6,测试标题测试订单编号格式不正确的场景,执行成功!
+2022-03-07 09:49:46,056 - [test_business_token_order_items02.py - 83] - INFO:测试编号7,测试标题测试订单编号为不存在id的场景,执行成功!
+2022-03-08 11:29:52,095 - [test_business_goods_input01.py - 40] - INFO:测试编号1,测试标题商品录入正常流程,执行成功!
+2022-03-08 11:30:13,817 - [test_business_goods_input01.py - 35] - ERROR:测试编号1,测试标题商品录入正常流程,执行失败!实际结果{'code': 1013, 'msg': '产品名称不能重复'}
+2022-03-08 11:30:13,818 - [test_business_goods_input01.py - 36] - ERROR:assert {'code': 1000...sg': '商品录入成功'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'code': 1000} != {'code': 1013}
+  {'msg': '商品录入成功'} != {'msg': '产品名称不能重复'}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^ ^^^^^^
+  + {'code': 1000, 'msg': '商品录入成功'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input01.py", line 32, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1000...sg': '商品录入成功'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'code': 1000} != {'code': 1013}
+  {'msg': '商品录入成功'} != {'msg': '产品名称不能重复'}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^ ^^^^^^
+  + {'code': 1000, 'msg': '商品录入成功'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-08 11:37:49,542 - [test_business_goods_input02.py - 55] - INFO:测试编号1,测试标题商品录入正常流程,执行成功!
+2022-03-08 11:37:52,428 - [test_business_goods_input02.py - 55] - INFO:测试编号1,测试标题商品录入正常流程,执行成功!
+2022-03-08 11:37:54,475 - [test_business_goods_input02.py - 55] - INFO:测试编号1,测试标题商品录入正常流程,执行成功!
+2022-03-08 11:37:56,336 - [test_business_goods_input02.py - 55] - INFO:测试编号1,测试标题商品录入正常流程,执行成功!
+2022-03-08 11:37:58,217 - [test_business_goods_input02.py - 55] - INFO:测试编号1,测试标题商品录入正常流程,执行成功!
+2022-03-08 14:22:59,990 - [test_business_goods_input03.py - 56] - INFO:测试编号1,测试标题商品录入正常流程,执行成功!
+2022-03-08 14:23:00,132 - [test_business_goods_input03.py - 56] - INFO:测试编号2,测试标题测试商品名称重复的场景,执行成功!
+2022-03-08 14:23:00,264 - [test_business_goods_input03.py - 56] - INFO:测试编号3,测试标题测试token为空的场景,执行成功!
+2022-03-08 14:23:00,407 - [test_business_goods_input03.py - 56] - INFO:测试编号4,测试标题测试商品名称为空的场景,执行成功!
+2022-03-08 14:23:00,548 - [test_business_goods_input03.py - 56] - INFO:测试编号5,测试标题测试商品名称为无效边界值的场景,执行成功!
+2022-03-08 14:23:00,711 - [test_business_goods_input03.py - 51] - ERROR:测试编号6,测试标题测试商品名称带空格的场景,执行失败!实际结果{'code': 1000, 'msg': '商品录入成功'}
+2022-03-08 14:23:00,711 - [test_business_goods_input03.py - 52] - ERROR:assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1000...sg': '商品录入成功'}
+  Differing items:
+  {'code': 1006} != {'code': 1000}
+  {'msg': '商品名称格式不正确'} != {'msg': '商品录入成功'}
+  Full diff:
+  - {'code': 1000, 'msg': '商品录入成功'}
+  ?             ^            ^^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 44, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1000...sg': '商品录入成功'}
+  Differing items:
+  {'code': 1006} != {'code': 1000}
+  {'msg': '商品名称格式不正确'} != {'msg': '商品录入成功'}
+  Full diff:
+  - {'code': 1000, 'msg': '商品录入成功'}
+  ?             ^            ^^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-08 14:23:00,860 - [test_business_goods_input03.py - 56] - INFO:测试编号7,测试标题测试商品类别为空的场景,执行成功!
+2022-03-08 14:23:00,999 - [test_business_goods_input03.py - 56] - INFO:测试编号8,测试标题测试商品类别带空格的场景,执行成功!
+2022-03-08 14:23:01,140 - [test_business_goods_input03.py - 56] - INFO:测试编号9,测试标题测试商品类别为不存在的类别的场景,执行成功!
+2022-03-08 14:23:01,282 - [test_business_goods_input03.py - 51] - ERROR:测试编号10,测试标题测试商品类别格式不正确的场景,执行失败!实际结果{'code': 1012, 'msg': '商品分类不存在'}
+2022-03-08 14:23:01,283 - [test_business_goods_input03.py - 52] - ERROR:assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'code': 1007} != {'code': 1012}
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 44, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'code': 1007} != {'code': 1012}
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-08 14:23:01,430 - [test_business_goods_input03.py - 56] - INFO:测试编号11,测试标题测试商品描述为无效边界值的场景,执行成功!
+2022-03-08 14:23:01,597 - [test_business_goods_input03.py - 56] - INFO:测试编号12,测试标题测试商品库存为空的场景,执行成功!
+2022-03-08 14:23:01,737 - [test_business_goods_input03.py - 56] - INFO:测试编号13,测试标题测试商品库存为无效边界值的场景,执行成功!
+2022-03-08 14:23:01,880 - [test_business_goods_input03.py - 56] - INFO:测试编号14,测试标题测试商品库存为小数的场景,执行成功!
+2022-03-08 14:23:02,018 - [test_business_goods_input03.py - 56] - INFO:测试编号15,测试标题测试商品库存带空格的场景,执行成功!
+2022-03-08 14:23:02,160 - [test_business_goods_input03.py - 56] - INFO:测试编号16,测试标题测试商品库存格式不正确的场景,执行成功!
+2022-03-08 14:23:02,298 - [test_business_goods_input03.py - 56] - INFO:测试编号17,测试标题测试商品价格为空的场景,执行成功!
+2022-03-08 14:23:02,439 - [test_business_goods_input03.py - 56] - INFO:测试编号18,测试标题测试商品价格为非小数的场景,执行成功!
+2022-03-08 14:23:02,579 - [test_business_goods_input03.py - 56] - INFO:测试编号19,测试标题测试商品价格为无效边界值的场景,执行成功!
+2022-03-08 14:23:02,719 - [test_business_goods_input03.py - 56] - INFO:测试编号20,测试标题测试商品价格为负数的场景,执行成功!
+2022-03-08 14:23:02,859 - [test_business_goods_input03.py - 56] - INFO:测试编号21,测试标题测试商品价格为非数字的场景,执行成功!
+2022-03-08 14:23:02,998 - [test_business_goods_input03.py - 56] - INFO:测试编号22,测试标题测试商品价格带空格的场景,执行成功!
+2022-03-08 14:23:03,140 - [test_business_goods_input03.py - 56] - INFO:测试编号23,测试标题测试商品价格格式不正确的场景,执行成功!
+2022-03-08 16:52:17,129 - [test_business_goods_promote01.py - 54] - INFO:测试编号1,测试标题商品促销设置正确流程,执行成功!
+2022-03-08 17:00:46,178 - [test_business_goods_promote02.py - 59] - INFO:测试编号1,测试标题商品促销设置正确流程,执行成功!
+2022-03-08 17:01:07,494 - [test_business_goods_promote02.py - 59] - INFO:测试编号1,测试标题商品促销设置正确流程,执行成功!
+2022-03-08 17:01:20,007 - [test_business_goods_promote02.py - 60] - INFO:测试编号1,测试标题商品促销设置正确流程,执行成功!
+2022-03-08 17:43:31,962 - [test_business_goods_promote03.py - 64] - INFO:测试编号1,测试标题商品促销设置正确流程,执行成功!
+2022-03-08 17:43:32,110 - [test_business_goods_promote03.py - 64] - INFO:测试编号2,测试标题测试token值为空的场景,执行成功!
+2022-03-08 17:43:32,274 - [test_business_goods_promote03.py - 64] - INFO:测试编号3,测试标题测试促销开始时间为空的场景,执行成功!
+2022-03-08 17:43:32,430 - [test_business_goods_promote03.py - 64] - INFO:测试编号4,测试标题测试促销结束时间为空的场景,执行成功!
+2022-03-08 17:43:32,583 - [test_business_goods_promote03.py - 64] - INFO:测试编号5,测试标题测试商品编号为空的场景,执行成功!
+2022-03-08 17:43:32,744 - [test_business_goods_promote03.py - 64] - INFO:测试编号6,测试标题测试时间促销开始格式不正确的场景,执行成功!
+2022-03-08 17:43:32,901 - [test_business_goods_promote03.py - 64] - INFO:测试编号7,测试标题测试促销结束时间格式不正确的场景,执行成功!
+2022-03-08 17:43:33,059 - [test_business_goods_promote03.py - 64] - INFO:测试编号8,测试标题测试商品编号格式不正确的场景,执行成功!
+2022-03-08 17:43:33,219 - [test_business_goods_promote03.py - 64] - INFO:测试编号9,测试标题测试促销开始时间小于当前时间的场景,执行成功!
+2022-03-08 17:43:33,401 - [test_business_goods_promote03.py - 64] - INFO:测试编号10,测试标题测试促销结束时间小于促销开始时间的场景,执行成功!
+2022-03-08 17:43:33,555 - [test_business_goods_promote03.py - 64] - INFO:测试编号11,测试标题测试商品不存在的场景,执行成功!
+2022-03-08 17:43:33,715 - [test_business_goods_promote03.py - 64] - INFO:测试编号12,测试标题测试促销已打开，再次开启促销的场景,执行成功!
+2022-03-08 17:43:33,882 - [test_business_goods_promote03.py - 64] - INFO:测试编号13,测试标题测试促销结束时间等于促销开始时间的场景,执行成功!
+2022-03-08 17:44:41,682 - [test_business_goods_promote03.py - 64] - INFO:测试编号1,测试标题商品促销设置正确流程,执行成功!
+2022-03-08 17:44:41,829 - [test_business_goods_promote03.py - 64] - INFO:测试编号2,测试标题测试token值为空的场景,执行成功!
+2022-03-08 17:44:41,984 - [test_business_goods_promote03.py - 64] - INFO:测试编号3,测试标题测试促销开始时间为空的场景,执行成功!
+2022-03-08 17:44:42,137 - [test_business_goods_promote03.py - 64] - INFO:测试编号4,测试标题测试促销结束时间为空的场景,执行成功!
+2022-03-08 17:44:42,320 - [test_business_goods_promote03.py - 64] - INFO:测试编号5,测试标题测试商品编号为空的场景,执行成功!
+2022-03-08 17:44:42,499 - [test_business_goods_promote03.py - 64] - INFO:测试编号6,测试标题测试时间促销开始格式不正确的场景,执行成功!
+2022-03-08 17:44:42,657 - [test_business_goods_promote03.py - 64] - INFO:测试编号7,测试标题测试促销结束时间格式不正确的场景,执行成功!
+2022-03-08 17:44:42,810 - [test_business_goods_promote03.py - 64] - INFO:测试编号8,测试标题测试商品编号格式不正确的场景,执行成功!
+2022-03-08 17:44:42,964 - [test_business_goods_promote03.py - 64] - INFO:测试编号9,测试标题测试促销开始时间小于当前时间的场景,执行成功!
+2022-03-08 17:44:43,135 - [test_business_goods_promote03.py - 64] - INFO:测试编号10,测试标题测试促销结束时间小于促销开始时间的场景,执行成功!
+2022-03-08 17:44:43,290 - [test_business_goods_promote03.py - 64] - INFO:测试编号11,测试标题测试商品不存在的场景,执行成功!
+2022-03-08 17:44:43,443 - [test_business_goods_promote03.py - 64] - INFO:测试编号12,测试标题测试促销已打开，再次开启促销的场景,执行成功!
+2022-03-08 17:44:43,602 - [test_business_goods_promote03.py - 64] - INFO:测试编号13,测试标题测试促销结束时间等于促销开始时间的场景,执行成功!
+2022-03-08 17:47:29,366 - [test_business_register03.py - 73] - INFO:测试编号1,测试标题正确流程,执行成功
+2022-03-08 17:47:29,516 - [test_business_register03.py - 73] - INFO:测试编号2,测试标题用户名为空的场景,执行成功
+2022-03-08 17:47:29,664 - [test_business_register03.py - 73] - INFO:测试编号3,测试标题用户名为8位有效边界值的场景,执行成功
+2022-03-08 17:47:29,816 - [test_business_register03.py - 73] - INFO:测试编号4,测试标题用户名为5位无效边界值的场景,执行成功
+2022-03-08 17:47:29,972 - [test_business_register03.py - 73] - INFO:测试编号5,测试标题用户名为9位无效边界值的场景,执行成功
+2022-03-08 17:47:30,160 - [test_business_register03.py - 73] - INFO:测试编号6,测试标题用户名已存在的场景,执行成功
+2022-03-08 17:47:30,341 - [test_business_register03.py - 73] - INFO:测试编号7,测试标题用户名包含特殊符号的场景,执行成功
+2022-03-08 17:47:30,515 - [test_business_register03.py - 73] - INFO:测试编号8,测试标题用户名前包含空格的场景,执行成功
+2022-03-08 17:47:30,668 - [test_business_register03.py - 73] - INFO:测试编号9,测试标题用户名中包含空格的场景,执行成功
+2022-03-08 17:47:30,816 - [test_business_register03.py - 73] - INFO:测试编号10,测试标题用户名后包含空格的场景,执行成功
+2022-03-08 17:47:30,967 - [test_business_register03.py - 73] - INFO:测试编号11,测试标题用户名以非字母开头的场景,执行成功
+2022-03-08 17:47:31,119 - [test_business_register03.py - 73] - INFO:测试编号12,测试标题密码为空的场景,执行成功
+2022-03-08 17:47:31,274 - [test_business_register03.py - 73] - INFO:测试编号13,测试标题密码为8位有效边界值的场景,执行成功
+2022-03-08 17:47:31,421 - [test_business_register03.py - 73] - INFO:测试编号14,测试标题密码为6位无效边界值的场景,执行成功
+2022-03-08 17:47:31,571 - [test_business_register03.py - 73] - INFO:测试编号15,测试标题密码为12位无效边界值的场景,执行成功
+2022-03-08 17:47:31,721 - [test_business_register03.py - 73] - INFO:测试编号16,测试标题密码包含特殊符号的场景,执行成功
+2022-03-08 17:47:31,876 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:47:31,876 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-08 17:47:32,069 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:47:32,070 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-08 17:47:32,236 - [test_business_register03.py - 73] - INFO:测试编号19,测试标题密码区分大小写的场景,执行成功
+2022-03-08 17:47:32,408 - [test_business_register03.py - 73] - INFO:测试编号20,测试标题确认密码为空的场景,执行成功
+2022-03-08 17:47:32,552 - [test_business_register03.py - 73] - INFO:测试编号21,测试标题确认密码与密码不一致的场景,执行成功
+2022-03-08 17:47:32,700 - [test_business_register03.py - 73] - INFO:测试编号22,测试标题确认密码区分大小写的场景,执行成功
+2022-03-08 17:47:32,851 - [test_business_register03.py - 73] - INFO:测试编号23,测试标题手机号为空的场景,执行成功
+2022-03-08 17:47:33,000 - [test_business_register03.py - 73] - INFO:测试编号24,测试标题手机号为非11位数字的场景,执行成功
+2022-03-08 17:47:33,146 - [test_business_register03.py - 73] - INFO:测试编号25,测试标题手机号为非数字的场景,执行成功
+2022-03-08 17:47:33,298 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:47:33,298 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+2022-03-08 17:47:33,453 - [test_business_register03.py - 73] - INFO:测试编号27,测试标题手机号已注册的场景,执行成功
+2022-03-08 17:47:33,612 - [test_business_register03.py - 73] - INFO:测试编号28,测试标题性别为空的场景的场景,执行成功
+2022-03-08 17:47:33,759 - [test_business_register03.py - 73] - INFO:测试编号29,测试标题性别为非枚举值的场景,执行成功
+2022-03-08 17:47:33,910 - [test_business_register03.py - 73] - INFO:测试编号30,测试标题性别为男+女的场景,执行成功
+2022-03-08 17:47:34,063 - [test_business_register03.py - 73] - INFO:测试编号31,测试标题生日为空的场景,执行成功
+2022-03-08 17:47:34,232 - [test_business_register03.py - 73] - INFO:测试编号32,测试标题生日为非时间格式的场景,执行成功
+2022-03-08 17:47:34,379 - [test_business_register03.py - 73] - INFO:测试编号33,测试标题生日为非数字,执行成功
+2022-03-08 17:47:34,528 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:47:34,529 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-08 17:47:34,688 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:47:34,688 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-08 17:47:34,851 - [test_business_register03.py - 73] - INFO:测试编号36,测试标题qq为空的场景,执行成功
+2022-03-08 17:47:35,000 - [test_business_register03.py - 73] - INFO:测试编号37,测试标题qq为非数字,执行成功
+2022-03-08 17:47:35,159 - [test_business_register03.py - 73] - INFO:测试编号38,测试标题邮箱为空的场景,执行成功
+2022-03-08 17:47:35,308 - [test_business_register03.py - 73] - INFO:测试编号39,测试标题邮箱格式错误的场景,执行成功
+2022-03-08 17:47:35,461 - [test_business_register03.py - 73] - INFO:测试编号40,测试标题邮箱已注册的场景,执行成功
+2022-03-08 17:47:35,619 - [test_business_goods_input03.py - 64] - INFO:测试编号1,测试标题商品录入正常流程,执行成功!
+2022-03-08 17:47:35,777 - [test_business_goods_input03.py - 64] - INFO:测试编号2,测试标题测试商品名称重复的场景,执行成功!
+2022-03-08 17:47:35,928 - [test_business_goods_input03.py - 64] - INFO:测试编号3,测试标题测试token为空的场景,执行成功!
+2022-03-08 17:47:36,108 - [test_business_goods_input03.py - 64] - INFO:测试编号4,测试标题测试商品名称为空的场景,执行成功!
+2022-03-08 17:47:36,264 - [test_business_goods_input03.py - 64] - INFO:测试编号5,测试标题测试商品名称为无效边界值的场景,执行成功!
+2022-03-08 17:47:36,422 - [test_business_goods_input03.py - 59] - ERROR:测试编号6,测试标题测试商品名称带空格的场景,执行失败!实际结果{'code': 1013, 'msg': '产品名称不能重复'}
+2022-03-08 17:47:36,422 - [test_business_goods_input03.py - 60] - ERROR:assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^    ^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 52, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^    ^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-08 17:47:36,582 - [test_business_goods_input03.py - 64] - INFO:测试编号7,测试标题测试商品类别为空的场景,执行成功!
+2022-03-08 17:47:36,743 - [test_business_goods_input03.py - 64] - INFO:测试编号8,测试标题测试商品类别带空格的场景,执行成功!
+2022-03-08 17:47:36,902 - [test_business_goods_input03.py - 64] - INFO:测试编号9,测试标题测试商品类别为不存在的类别的场景,执行成功!
+2022-03-08 17:47:37,057 - [test_business_goods_input03.py - 59] - ERROR:测试编号10,测试标题测试商品类别格式不正确的场景,执行失败!实际结果{'code': 1012, 'msg': '商品分类不存在'}
+2022-03-08 17:47:37,058 - [test_business_goods_input03.py - 60] - ERROR:assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'code': 1007} != {'code': 1012}
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 52, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'code': 1007} != {'code': 1012}
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-08 17:47:37,216 - [test_business_goods_input03.py - 64] - INFO:测试编号11,测试标题测试商品描述为无效边界值的场景,执行成功!
+2022-03-08 17:47:37,377 - [test_business_goods_input03.py - 64] - INFO:测试编号12,测试标题测试商品库存为空的场景,执行成功!
+2022-03-08 17:47:37,530 - [test_business_goods_input03.py - 64] - INFO:测试编号13,测试标题测试商品库存为无效边界值的场景,执行成功!
+2022-03-08 17:47:37,685 - [test_business_goods_input03.py - 64] - INFO:测试编号14,测试标题测试商品库存为小数的场景,执行成功!
+2022-03-08 17:47:37,861 - [test_business_goods_input03.py - 64] - INFO:测试编号15,测试标题测试商品库存带空格的场景,执行成功!
+2022-03-08 17:47:38,024 - [test_business_goods_input03.py - 64] - INFO:测试编号16,测试标题测试商品库存格式不正确的场景,执行成功!
+2022-03-08 17:47:38,177 - [test_business_goods_input03.py - 64] - INFO:测试编号17,测试标题测试商品价格为空的场景,执行成功!
+2022-03-08 17:47:38,346 - [test_business_goods_input03.py - 64] - INFO:测试编号18,测试标题测试商品价格为非小数的场景,执行成功!
+2022-03-08 17:47:38,504 - [test_business_goods_input03.py - 64] - INFO:测试编号19,测试标题测试商品价格为无效边界值的场景,执行成功!
+2022-03-08 17:47:38,660 - [test_business_goods_input03.py - 64] - INFO:测试编号20,测试标题测试商品价格为负数的场景,执行成功!
+2022-03-08 17:47:38,820 - [test_business_goods_input03.py - 64] - INFO:测试编号21,测试标题测试商品价格为非数字的场景,执行成功!
+2022-03-08 17:47:38,973 - [test_business_goods_input03.py - 64] - INFO:测试编号22,测试标题测试商品价格带空格的场景,执行成功!
+2022-03-08 17:47:39,127 - [test_business_goods_input03.py - 64] - INFO:测试编号23,测试标题测试商品价格格式不正确的场景,执行成功!
+2022-03-08 17:47:39,292 - [test_business_goods_promote03.py - 73] - INFO:测试编号1,测试标题商品促销设置正确流程,执行成功!
+2022-03-08 17:47:39,442 - [test_business_goods_promote03.py - 73] - INFO:测试编号2,测试标题测试token值为空的场景,执行成功!
+2022-03-08 17:47:39,599 - [test_business_goods_promote03.py - 73] - INFO:测试编号3,测试标题测试促销开始时间为空的场景,执行成功!
+2022-03-08 17:47:39,777 - [test_business_goods_promote03.py - 73] - INFO:测试编号4,测试标题测试促销结束时间为空的场景,执行成功!
+2022-03-08 17:47:39,934 - [test_business_goods_promote03.py - 73] - INFO:测试编号5,测试标题测试商品编号为空的场景,执行成功!
+2022-03-08 17:47:40,092 - [test_business_goods_promote03.py - 73] - INFO:测试编号6,测试标题测试时间促销开始格式不正确的场景,执行成功!
+2022-03-08 17:47:40,251 - [test_business_goods_promote03.py - 73] - INFO:测试编号7,测试标题测试促销结束时间格式不正确的场景,执行成功!
+2022-03-08 17:47:40,407 - [test_business_goods_promote03.py - 73] - INFO:测试编号8,测试标题测试商品编号格式不正确的场景,执行成功!
+2022-03-08 17:47:40,563 - [test_business_goods_promote03.py - 73] - INFO:测试编号9,测试标题测试促销开始时间小于当前时间的场景,执行成功!
+2022-03-08 17:47:40,728 - [test_business_goods_promote03.py - 73] - INFO:测试编号10,测试标题测试促销结束时间小于促销开始时间的场景,执行成功!
+2022-03-08 17:47:40,885 - [test_business_goods_promote03.py - 73] - INFO:测试编号11,测试标题测试商品不存在的场景,执行成功!
+2022-03-08 17:47:41,045 - [test_business_goods_promote03.py - 73] - INFO:测试编号12,测试标题测试促销已打开，再次开启促销的场景,执行成功!
+2022-03-08 17:47:41,211 - [test_business_goods_promote03.py - 73] - INFO:测试编号13,测试标题测试促销结束时间等于促销开始时间的场景,执行成功!
+2022-03-08 17:47:41,373 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号1,测试标题商品信息查询主流程,执行成功!
+2022-03-08 17:47:41,525 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号2,测试标题商品信息查询—token为空,执行成功!
+2022-03-08 17:47:41,708 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号3,测试标题商品信息查询—token区分大小写,执行成功!
+2022-03-08 17:47:41,881 - [test_business_token_goodsinfo03.py - 91] - ERROR:测试编号4,测试标题商品信息查询—上一次token值,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'goods_tiems': [{'goodsName': '预留数据', 'shopPrice': 100.0, 'promotePrice': 0.0, 'num': 1000}, {'goodsName': '小米手机', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone5', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone13', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '帝王蟹', 'shopPrice': 999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '老八汉堡', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '三文鱼', 'shopPrice': 99.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '华为P30', 'shopPrice': 59999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac pro', 'shopPrice': 9999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac口红', 'shopPrice': 178.0, 'promotePrice': 0.0, 'num': 999}, {'goodsName': '笔 记本 ', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 5000}, {'goodsName': '小忍者', 'shopPrice': 1999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '金吉拉300', 'shopPrice': 15000.0, 'promotePrice': 0.0, 'num': 10}]}
+2022-03-08 17:47:41,882 - [test_business_token_goodsinfo03.py - 92] - ERROR:assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (111 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goodsinfo04\test_business_token_goodsinfo03.py", line 88, in test_goods_info
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (111 lines hidden), use '-vv' to show
+2022-03-08 17:47:42,059 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号5,测试标题商品信息查询—（不带商品）销售状态为0,执行成功!
+2022-03-08 17:47:42,226 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号6,测试标题商品信息查询—（不带商品）销售状态为1,执行成功!
+2022-03-08 17:47:42,385 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号7,测试标题商品信息查询—（不带商品）促销状态为0,执行成功!
+2022-03-08 17:47:42,544 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号8,测试标题商品信息查询—（不带商品）促销状态为1,执行成功!
+2022-03-08 17:47:42,700 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号9,测试标题商品信息查询—（不带商品）销售状态为0、促销状态为0,执行成功!
+2022-03-08 17:47:42,859 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号10,测试标题商品信息查询—（不带商品）销售状态为0、促销状态为1,执行成功!
+2022-03-08 17:47:43,018 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号11,测试标题商品信息查询—（不带商品）销售状态为1、促销状态为0,执行成功!
+2022-03-08 17:47:43,177 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号12,测试标题商品信息查询—（不带商品）销售状态为1、促销状态为1,执行成功!
+2022-03-08 17:47:43,334 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号13,测试标题商品信息查询—（带商品）销售状态为0,执行成功!
+2022-03-08 17:47:43,512 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号14,测试标题商品信息查询—（带商品）销售状态为1,执行成功!
+2022-03-08 17:47:43,665 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号15,测试标题商品信息查询—（带商品）促销状态为0,执行成功!
+2022-03-08 17:47:43,821 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号16,测试标题商品信息查询—（带商品）促销状态为1,执行成功!
+2022-03-08 17:47:43,976 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号17,测试标题商品信息查询—（带商品）销售状态为0、促销状态为0,执行成功!
+2022-03-08 17:47:44,136 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号18,测试标题商品信息查询—（带商品）销售状态为0、促销状态为1,执行成功!
+2022-03-08 17:47:44,293 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号19,测试标题商品信息查询—（带商品）销售状态为1、促销状态为0,执行成功!
+2022-03-08 17:47:44,449 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号20,测试标题商品信息查询—（带商品）销售状态为1、促销状态为1,执行成功!
+2022-03-08 17:47:44,606 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号21,测试标题商品信息查询—销售状态为非枚举,执行成功!
+2022-03-08 17:47:44,762 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号22,测试标题商品信息查询—促销状态为非枚举,执行成功!
+2022-03-08 17:47:44,916 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号23,测试标题商品信息查询—存在的商品编号（6位数字）,执行成功!
+2022-03-08 17:47:45,073 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号24,测试标题商品信息查询—商品编号非6位数字,执行成功!
+2022-03-08 17:47:45,229 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号25,测试标题商品信息查询—不存在的商品编号（6位数字）,执行成功!
+2022-03-08 17:47:45,415 - [test_login03.py - 68] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-08 17:47:45,563 - [test_login03.py - 68] - INFO:测试编号2,测试标题用户名为空场景,执行成功!
+2022-03-08 17:47:45,714 - [test_login03.py - 68] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-08 17:47:45,865 - [test_login03.py - 68] - INFO:测试编号4,测试标题用户类型为空场景,执行成功!
+2022-03-08 17:47:46,018 - [test_login03.py - 68] - INFO:测试编号5,测试标题用户名为错误场景,执行成功!
+2022-03-08 17:47:46,168 - [test_login03.py - 68] - INFO:测试编号6,测试标题密码为错误场景,执行成功!
+2022-03-08 17:47:46,318 - [test_login03.py - 68] - INFO:测试编号7,测试标题用户类型为不存在场景,执行成功!
+2022-03-08 17:47:46,468 - [test_login03.py - 68] - INFO:测试编号8,测试标题用户类型为其他类型用户场景,执行成功!
+2022-03-08 17:47:46,621 - [test_login03.py - 63] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0Njc2Mjg2Ni40Nzk3NTQ3OjEyMDkyMzQwNWZmMjEwMjE4YjZmMjY2MjNjMDYwNThjNWZlNmQ5OGY='}
+2022-03-08 17:47:46,621 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NWZlNmQ5OGY='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2Mjg2Ni40Nzk3NTQ3OjEyMDkyMzQwNWZmMjEwMjE4YjZmMjY2MjNjMDYwNThjNWZlNmQ5OGY='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NWZlNmQ5OGY='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2Mjg2Ni40Nzk3NTQ3OjEyMDkyMzQwNWZmMjEwMjE4YjZmMjY2MjNjMDYwNThjNWZlNmQ5OGY='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-08 17:47:46,777 - [test_login03.py - 63] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0Njc2Mjg2Ni42MzgzMzA3OjUwOGYwZjY5NDQ5ZmE2NjQ1M2JhYjMzZGM3YTcwZDdkY2JkMzliNTc='}
+2022-03-08 17:47:46,777 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2JkMzliNTc='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2Mjg2Ni42MzgzMzA3OjUwOGYwZjY5NDQ5ZmE2NjQ1M2JhYjMzZGM3YTcwZDdkY2JkMzliNTc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2JkMzliNTc='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2Mjg2Ni42MzgzMzA3OjUwOGYwZjY5NDQ5ZmE2NjQ1M2JhYjMzZGM3YTcwZDdkY2JkMzliNTc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-08 17:47:46,954 - [test_business_token_order_items02.py - 83] - INFO:测试编号1,测试标题正常流程,执行成功!
+2022-03-08 17:47:47,103 - [test_business_token_order_items02.py - 83] - INFO:测试编号2,测试标题测试token为空的场景,执行成功!
+2022-03-08 17:47:47,292 - [test_business_token_order_items02.py - 83] - INFO:测试编号3,测试标题测试token为错误值的场景,执行成功!
+2022-03-08 17:47:47,456 - [test_business_token_order_items02.py - 78] - ERROR:测试编号4,测试标题测试token为失效值的场景,执行失败!实际结果{'code': 1005, 'msg': '查询无结果'}
+2022-03-08 17:47:47,456 - [test_business_token_order_items02.py - 79] - ERROR:assert {'code': 1004...请检查token是否失效'} == {'code': 1005, 'msg': '查询无结果'}
+  Differing items:
+  {'code': 1004} != {'code': 1005}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询无结果'}
+  Full diff:
+  - {'code': 1005, 'msg': '查询无结果'}
+  + {'code': 1004, 'msg': '鉴权失败,请检查token是否失效'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_order_items05\test_business_token_order_items02.py", line 75, in test_order_items
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1004...请检查token是否失效'} == {'code': 1005, 'msg': '查询无结果'}
+  Differing items:
+  {'code': 1004} != {'code': 1005}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询无结果'}
+  Full diff:
+  - {'code': 1005, 'msg': '查询无结果'}
+  + {'code': 1004, 'msg': '鉴权失败,请检查token是否失效'}
+2022-03-08 17:47:47,625 - [test_business_token_order_items02.py - 83] - INFO:测试编号5,测试标题测试订单编号为空的场景,执行成功!
+2022-03-08 17:47:47,792 - [test_business_token_order_items02.py - 83] - INFO:测试编号6,测试标题测试订单编号格式不正确的场景,执行成功!
+2022-03-08 17:47:47,949 - [test_business_token_order_items02.py - 83] - INFO:测试编号7,测试标题测试订单编号为不存在id的场景,执行成功!
+2022-03-08 17:51:45,280 - [test_business_register03.py - 73] - INFO:测试编号2,测试标题用户名为空的场景,执行成功
+2022-03-08 17:51:45,465 - [test_business_register03.py - 73] - INFO:测试编号5,测试标题用户名为9位无效边界值的场景,执行成功
+2022-03-08 17:51:45,635 - [test_business_register03.py - 73] - INFO:测试编号8,测试标题用户名前包含空格的场景,执行成功
+2022-03-08 17:51:45,826 - [test_business_register03.py - 73] - INFO:测试编号11,测试标题用户名以非字母开头的场景,执行成功
+2022-03-08 17:51:45,827 - [test_business_register03.py - 73] - INFO:测试编号12,测试标题密码为空的场景,执行成功
+2022-03-08 17:51:46,025 - [test_business_register03.py - 73] - INFO:测试编号15,测试标题密码为12位无效边界值的场景,执行成功
+2022-03-08 17:51:46,025 - [test_business_register03.py - 73] - INFO:测试编号14,测试标题密码为6位无效边界值的场景,执行成功
+2022-03-08 17:51:46,234 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:51:46,234 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-08 17:51:46,235 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:51:46,235 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-08 17:51:46,436 - [test_business_register03.py - 73] - INFO:测试编号21,测试标题确认密码与密码不一致的场景,执行成功
+2022-03-08 17:51:46,621 - [test_business_register03.py - 73] - INFO:测试编号24,测试标题手机号为非11位数字的场景,执行成功
+2022-03-08 17:51:46,804 - [test_business_register03.py - 73] - INFO:测试编号27,测试标题手机号已注册的场景,执行成功
+2022-03-08 17:51:46,997 - [test_business_register03.py - 73] - INFO:测试编号30,测试标题性别为男+女的场景,执行成功
+2022-03-08 17:51:47,187 - [test_business_register03.py - 73] - INFO:测试编号31,测试标题生日为空的场景,执行成功
+2022-03-08 17:51:47,364 - [test_business_register03.py - 73] - INFO:测试编号32,测试标题生日为非时间格式的场景,执行成功
+2022-03-08 17:51:47,540 - [test_business_register03.py - 73] - INFO:测试编号33,测试标题生日为非数字,执行成功
+2022-03-08 17:51:47,729 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:51:47,730 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-08 17:51:47,913 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:51:47,913 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-08 17:51:48,085 - [test_business_goods_input03.py - 64] - INFO:测试编号20,测试标题测试商品价格为负数的场景,执行成功!
+2022-03-08 17:51:48,269 - [test_business_goods_input03.py - 64] - INFO:测试编号21,测试标题测试商品价格为非数字的场景,执行成功!
+2022-03-08 17:51:48,451 - [test_business_goods_input03.py - 64] - INFO:测试编号22,测试标题测试商品价格带空格的场景,执行成功!
+2022-03-08 17:51:48,631 - [test_business_register03.py - 73] - INFO:测试编号39,测试标题邮箱格式错误的场景,执行成功
+2022-03-08 17:51:48,807 - [test_business_register03.py - 73] - INFO:测试编号40,测试标题邮箱已注册的场景,执行成功
+2022-03-08 17:51:48,998 - [test_business_goods_input03.py - 64] - INFO:测试编号1,测试标题商品录入正常流程,执行成功!
+2022-03-08 17:51:49,003 - [test_business_goods_input03.py - 64] - INFO:测试编号13,测试标题测试商品库存为无效边界值的场景,执行成功!
+2022-03-08 17:51:49,197 - [test_business_goods_input03.py - 64] - INFO:测试编号2,测试标题测试商品名称重复的场景,执行成功!
+��成功!
+2022-03-08 17:51:49,356 - [test_business_goods_promote03.py - 73] - INFO:测试编号9,测试标题测试促销开始时间小于当前时间的场景,执行成功!
+2022-03-08 17:51:49,356 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号2,测试标题商品信息查询—token为空,执行成功!
+2022-03-08 17:51:49,542 - [test_business_goods_promote03.py - 73] - INFO:测试编号10,测试标题测试促销结束时间小于促销开始时间的场景,执行成功!
+2022-03-08 17:51:49,545 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号3,测试标题商品信息查询—token区分大小写,执行成功!
+2022-03-08 17:51:49,753 - [test_business_goods_promote03.py - 73] - INFO:测试编号11,测试标题测试商品不存在的场景,执行成功!
+2022-03-08 17:51:49,944 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号7,测试标题商品信息查询—（不带商品）促销状态为0,执行成功!
+2022-03-08 17:51:49,944 - [test_business_goods_promote03.py - 73] - INFO:测试编号12,测试标题测试促销已打开，再次开启促销的场景,执行成功!
+2022-03-08 17:51:50,130 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号6,测试标题商品信息查询—（不带商品）销售状态为1,执行成功!
+2022-03-08 17:51:50,135 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号8,测试标题商品信息查询—（不带商品）促销状态为1,执行成功!
+2022-03-08 17:51:50,325 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号12,测试标题商品信息查询—（不带商品）销售状态为1、促销状态为1,执行成功!
+2022-03-08 17:51:50,325 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号9,测试标题商品信息查询—（不带商品）销售状态为0、促销状态为0,执行成功!
+2022-03-08 17:51:50,503 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号13,测试标题商品信息查询—（带商品）销售状态为0,执行成功!
+2022-03-08 17:51:50,505 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号10,测试标题商品信息查询—（不带商品）销售状态为0、促销状态为1,执行成功!
+2022-03-08 17:51:50,741 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号14,测试标题商品信息查询—（带商品）销售状态为1,执行成功!
+2022-03-08 17:51:50,931 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号15,测试标题商品信息查询—（带商品）促销状态为0,执行成功!
+2022-03-08 17:51:51,119 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号22,测试标题商品信息查询—促销状态为非枚举,执行成功!
+2022-03-08 17:51:51,291 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号23,测试标题商品信息查询—存在的商品编号（6位数字）,执行成功!
+2022-03-08 17:51:51,497 - [test_login03.py - 68] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-08 17:51:51,678 - [test_login03.py - 68] - INFO:测试编号5,测试标题用户名为错误场景,执行成功!
+2022-03-08 17:51:51,842 - [test_login03.py - 63] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0Njc2MzExMS42ODI5MjE0OjJhNzU5NjczZTU4YTg5MzdhY2M3YTE0MDQzNzY0MGJhNjNmODRkM2Y='}
+2022-03-08 17:51:51,842 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjNmODRkM2Y='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2MzExMS42ODI5MjE0OjJhNzU5NjczZTU4YTg5MzdhY2M3YTE0MDQzNzY0MGJhNjNmODRkM2Y='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjNmODRkM2Y='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2MzExMS42ODI5MjE0OjJhNzU5NjczZTU4YTg5MzdhY2M3YTE0MDQzNzY0MGJhNjNmODRkM2Y='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-08 17:51:52,035 - [test_login03.py - 63] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0Njc2MzExMS44NzA0MTkzOjc3NjI4ZWU1MmUwNTZkZjZiODc5NTI4YjcxM2U2NWFiYmI0MDljMDg='}
+2022-03-08 17:51:52,035 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YmI0MDljMDg='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2MzExMS44NzA0MTkzOjc3NjI4ZWU1MmUwNTZkZjZiODc5NTI4YjcxM2U2NWFiYmI0MDljMDg='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YmI0MDljMDg='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2MzExMS44NzA0MTkzOjc3NjI4ZWU1MmUwNTZkZjZiODc5NTI4YjcxM2U2NWFiYmI0MDljMDg='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-08 17:51:52,243 - [test_business_token_order_items02.py - 83] - INFO:测试编号5,测试标题测试订单编号为空的场景,执行成功!
+2022-03-08 17:51:52,426 - [test_business_token_order_items02.py - 83] - INFO:测试编号7,测试标题测试订单编号为不存在id的场景,执行成功!
+2022-03-08 17:52:26,634 - [test_business_register03.py - 73] - INFO:测试编号1,测试标题正确流程,执行成功
+2022-03-08 17:52:26,638 - [test_business_register03.py - 73] - INFO:测试编号2,测试标题用户名为空的场景,执行成功
+2022-03-08 17:52:26,797 - [test_business_register03.py - 73] - INFO:测试编号3,测试标题用户名为8位有效边界值的场景,执行成功
+2022-03-08 17:52:26,797 - [test_business_register03.py - 73] - INFO:测试编号4,测试标题用户名为5位无效边界值的场景,执行成功
+2022-03-08 17:52:26,954 - [test_business_register03.py - 73] - INFO:测试编号6,测试标题用户名已存在的场景,执行成功
+2022-03-08 17:52:26,954 - [test_business_register03.py - 73] - INFO:测试编号5,测试标题用户名为9位无效边界值的场景,执行成功
+2022-03-08 17:52:27,114 - [test_business_register03.py - 73] - INFO:测试编号8,测试标题用户名前包含空格的场景,执行成功
+2022-03-08 17:52:27,114 - [test_business_register03.py - 73] - INFO:测试编号7,测试标题用户名包含特殊符号的场景,执行成功
+2022-03-08 17:52:27,270 - [test_business_register03.py - 73] - INFO:测试编号10,测试标题用户名后包含空格的场景,执行成功
+2022-03-08 17:52:27,432 - [test_business_register03.py - 73] - INFO:测试编号12,测试标题密码为空的场景,执行成功
+2022-03-08 17:52:27,586 - [test_business_register03.py - 73] - INFO:测试编号14,测试标题密码为6位无效边界值的场景,执行成功
+2022-03-08 17:52:27,747 - [test_business_register03.py - 73] - INFO:测试编号15,测试标题密码为12位无效边界值的场景,执行成功
+2022-03-08 17:52:27,901 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:52:27,902 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-08 17:52:28,073 - [test_business_register03.py - 73] - INFO:测试编号19,测试标题密码区分大小写的场景,执行成功
+2022-03-08 17:52:28,239 - [test_business_register03.py - 73] - INFO:测试编号21,测试标题确认密码与密码不一致的场景,执行成功
+2022-03-08 17:52:28,398 - [test_business_register03.py - 73] - INFO:测试编号24,测试标题手机号为非11位数字的场景,执行成功
+2022-03-08 17:52:28,398 - [test_business_register03.py - 73] - INFO:测试编号23,测试标题手机号为空的场景,执行成功
+2022-03-08 17:52:28,560 - [test_business_register03.py - 73] - INFO:测试编号25,测试标题手机号为非数字的场景,执行成功
+2022-03-08 17:52:28,560 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:52:28,560 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+2022-03-08 17:52:28,728 - [test_business_register03.py - 73] - INFO:测试编号27,测试标题手机号已注册的场景,执行成功
+2022-03-08 17:52:28,881 - [test_business_register03.py - 73] - INFO:测试编号29,测试标题性别为非枚举值的场景,执行成功
+2022-03-08 17:52:29,038 - [test_business_register03.py - 73] - INFO:测试编号30,测试标题性别为男+女的场景,执行成功
+2022-03-08 17:52:29,208 - [test_business_register03.py - 73] - INFO:测试编号31,测试标题生日为空的场景,执行成功
+2022-03-08 17:52:29,379 - [test_business_goods_input03.py - 64] - INFO:测试编号7,测试标题测试商品类别为空的场景,执行成功!
+2022-03-08 17:52:29,379 - [test_business_register03.py - 73] - INFO:测试编号32,测试标题生日为非时间格式的场景,执行成功
+2022-03-08 17:52:29,539 - [test_business_register03.py - 73] - INFO:测试编号33,测试标题生日为非数字,执行成功
+2022-03-08 17:52:29,706 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:52:29,707 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-08 17:52:29,885 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:52:29,885 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-08 17:52:30,063 - [test_business_register03.py - 73] - INFO:测试编号36,测试标题qq为空的场景,执行成功
+2022-03-08 17:52:30,262 - [test_business_register03.py - 73] - INFO:测试编号37,测试标题qq为非数字,执行成功
+2022-03-08 17:52:30,416 - [test_business_register03.py - 73] - INFO:测试编号38,测试标题邮箱为空的场景,执行成功
+2022-03-08 17:52:30,581 - [test_business_register03.py - 73] - INFO:测试编号39,测试标题邮箱格式错误的场景,执行成功
+2022-03-08 17:52:30,735 - [test_business_register03.py - 73] - INFO:测试编号40,测试标题邮箱已注册的场景,执行成功
+2022-03-08 17:52:30,906 - [test_business_goods_input03.py - 64] - INFO:测试编号1,测试标题商品录入正常流程,执行成功!
+2022-03-08 17:52:31,086 - [test_business_goods_input03.py - 64] - INFO:测试编号2,测试标题测试商品名称重复的场景,执行成功!
+2022-03-08 17:52:31,239 - [test_business_goods_input03.py - 64] - INFO:测试编号3,测试标题测试token为空的场景,执行成功!
+2022-03-08 17:52:31,406 - [test_business_goods_input03.py - 64] - INFO:测试编号19,测试标题测试商品价格为无效边界值的场景,执行成功!
+2022-03-08 17:52:31,406 - [test_business_goods_promote03.py - 73] - INFO:测试编号4,测试标题测试促销结束时间为空的场景,执行成功!
+2022-03-08 17:52:31,579 - [test_business_goods_promote03.py - 73] - INFO:测试编号5,测试标题测试商品编号为空的场景,执行成功!
+2022-03-08 17:52:31,579 - [test_business_goods_input03.py - 64] - INFO:测试编号20,测试标题测试商品价格为负数的场景,执行成功!
+2022-03-08 17:52:31,770 - [test_business_goods_input03.py - 64] - INFO:测试编号21,测试标题测试商品价格为非数字的场景,执行成功!
+2022-03-08 17:52:31,929 - [test_business_goods_input03.py - 64] - INFO:测试编号22,测试标题测试商品价格带空格的场景,执行成功!
+2022-03-08 17:52:32,110 - [test_business_goods_input03.py - 64] - INFO:测试编号23,测试标题测试商品价格格式不正确的场景,执行成功!
+2022-03-08 17:52:32,110 - [test_business_goods_promote03.py - 73] - INFO:测试编号8,测试标题测试商品编号格式不正确的场景,执行成功!
+2022-03-08 17:52:32,278 - [test_business_goods_promote03.py - 73] - INFO:测试编号9,测试标题测试促销开始时间小于当前时间的场景,执行成功!
+2022-03-08 17:52:32,278 - [test_business_goods_promote03.py - 73] - INFO:测试编号1,测试标题商品促销设置正确流程,执行成功!
+2022-03-08 17:52:32,454 - [test_business_goods_promote03.py - 73] - INFO:测试编号10,测试标题测试促销结束时间小于促销开始时间的场景,执行成功!
+2022-03-08 17:52:32,620 - [test_business_goods_promote03.py - 73] - INFO:测试编号11,测试标题测试商品不存在的场景,执行成功!
+2022-03-08 17:52:32,792 - [test_business_goods_promote03.py - 73] - INFO:测试编号12,测试标题测试促销已打开，再次开启促销的场景,执行成功!
+2022-03-08 17:52:32,963 - [test_business_goods_promote03.py - 73] - INFO:测试编号13,测试标题测试促销结束时间等于促销开始时间的场景,执行成功!
+2022-03-08 17:52:33,167 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号1,测试标题商品信息查询主流程,执行成功!
+2022-03-08 17:52:33,322 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号2,测试标题商品信息查询—token为空,执行成功!
+2022-03-08 17:52:33,491 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号7,测试标题商品信息查询—（不带商品）促销状态为0,执行成功!
+2022-03-08 17:52:33,492 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号12,测试标题商品信息查询—（不带商品）销售状态为1、促销状态为1,执行成功!
+2022-03-08 17:52:33,674 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号8,测试标题商品信息查询—（不带商品）促销状态为1,执行成功!
+2022-03-08 17:52:33,861 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号9,测试标题商品信息查询—（不带商品）销售状态为0、促销状态为0,执行成功!
+2022-03-08 17:52:34,031 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号15,测试标题商品信息查询—（带商品）促销状态为0,执行成功!
+2022-03-08 17:52:34,215 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号16,测试标题商品信息查询—（带商品）促销状态为1,执行成功!
+2022-03-08 17:52:34,397 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号18,测试标题商品信息查询—（带商品）销售状态为0、促销状态为1,执行成功!
+2022-03-08 17:52:34,559 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号19,测试标题商品信息查询—（带商品）销售状态为1、促销状态为0,执行成功!
+2022-03-08 17:52:34,560 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号23,测试标题商品信息查询—存在的商品编号（6位数字）,执行成功!
+2022-03-08 17:52:34,731 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号24,测试标题商品信息查询—商品编号非6位数字,执行成功!
+2022-03-08 17:52:34,731 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号20,测试标题商品信息查询—（带商品）销售状态为1、促销状态为1,执行成功!
+2022-03-08 17:52:34,918 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号21,测试标题商品信息查询—销售状态为非枚举,执行成功!
+2022-03-08 17:52:34,918 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号25,测试标题商品信息查询—不存在的商品编号（6位数字）,执行成功!
+2022-03-08 17:52:35,152 - [test_login03.py - 68] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-08 17:52:35,385 - [test_login03.py - 68] - INFO:测试编号2,测试标题用户名为空场景,执行成功!
+2022-03-08 17:52:35,605 - [test_login03.py - 68] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-08 17:52:35,852 - [test_login03.py - 68] - INFO:测试编号4,测试标题用户类型为空场景,执行成功!
+2022-03-08 17:52:36,104 - [test_login03.py - 68] - INFO:测试编号8,测试标题用户类型为其他类型用户场景,执行成功!
+2022-03-08 17:52:36,310 - [test_business_token_order_items02.py - 83] - INFO:测试编号1,测试标题正常流程,执行成功!
+2022-03-08 17:52:36,493 - [test_business_token_order_items02.py - 83] - INFO:测试编号2,测试标题测试token为空的场景,执行成功!
+2022-03-08 17:52:36,732 - [test_business_token_order_items02.py - 83] - INFO:测试编号5,测试标题测试订单编号为空的场景,执行成功!
+2022-03-08 17:52:36,942 - [test_business_token_order_items02.py - 83] - INFO:测试编号7,测试标题测试订单编号为不存在id的场景,执行成功!
+2022-03-08 17:52:36,942 - [test_business_token_order_items02.py - 83] - INFO:测试编号6,测试标题测试订单编号格式不正确的场景,执行成功!
+2022-03-09 14:32:29,625 - [test_business_goods_delete01.py - 43] - INFO:测试编号1,测试标题商品删除正确流程,执行成功!
+2022-03-09 14:32:49,829 - [test_business_goods_delete01.py - 38] - ERROR:测试编号1,测试标题商品删除正确流程,执行失败!实际结果{'code': 1004, 'msg': '该商品不存在'}
+2022-03-09 14:32:49,829 - [test_business_goods_delete01.py - 39] - ERROR:assert {'code': 1000...sg': '商品删除成功'} == {'code': 1004...sg': '该商品不存在'}
+  Differing items:
+  {'msg': '商品删除成功'} != {'msg': '该商品不存在'}
+  {'code': 1000} != {'code': 1004}
+  Full diff:
+  - {'code': 1004, 'msg': '该商品不存在'}
+  ?             ^          -  ^^^
+  + {'code': 1000, 'msg': '商品删除成功'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_delete08\test_business_goods_delete01.py", line 35, in test_goods_delete
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1000...sg': '商品删除成功'} == {'code': 1004...sg': '该商品不存在'}
+  Differing items:
+  {'msg': '商品删除成功'} != {'msg': '该商品不存在'}
+  {'code': 1000} != {'code': 1004}
+  Full diff:
+  - {'code': 1004, 'msg': '该商品不存在'}
+  ?             ^          -  ^^^
+  + {'code': 1000, 'msg': '商品删除成功'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-09 14:38:04,874 - [test_business_goods_delete02.py - 61] - INFO:测试编号1,测试标题商品删除正确流程,执行成功!
+2022-03-09 14:38:09,032 - [test_business_goods_delete02.py - 61] - INFO:测试编号1,测试标题商品删除正确流程,执行成功!
+2022-03-09 14:38:11,815 - [test_business_goods_delete02.py - 61] - INFO:测试编号1,测试标题商品删除正确流程,执行成功!
+2022-03-09 14:38:14,831 - [test_business_goods_delete02.py - 61] - INFO:测试编号1,测试标题商品删除正确流程,执行成功!
+2022-03-09 14:49:44,994 - [test_business_goods_delete03.py - 65] - INFO:测试编号1,测试标题商品删除正确流程,执行成功!
+2022-03-09 14:49:45,153 - [test_business_goods_delete03.py - 65] - INFO:测试编号2,测试标题token为空场景,执行成功!
+2022-03-09 14:49:45,313 - [test_business_goods_delete03.py - 65] - INFO:测试编号3,测试标题goodsId为空场景,执行成功!
+2022-03-09 14:49:45,473 - [test_business_goods_delete03.py - 65] - INFO:测试编号4,测试标题goodsId为不存在的场景,执行成功!
+2022-03-09 14:49:45,635 - [test_business_goods_delete03.py - 65] - INFO:测试编号5,测试标题goodsId为5位数字场景,执行成功!
+2022-03-09 14:49:45,791 - [test_business_goods_delete03.py - 65] - INFO:测试编号6,测试标题goodsId为7位数字场景,执行成功!
+2022-03-09 14:49:45,951 - [test_business_goods_delete03.py - 65] - INFO:测试编号7,测试标题商品为未下架场景,执行成功!
+2022-03-09 14:49:46,112 - [test_business_goods_delete03.py - 65] - INFO:测试编号8,测试标题goodsId格式不正确的场景,执行成功!
+2022-03-09 14:49:53,579 - [test_business_goods_delete03.py - 65] - INFO:测试编号1,测试标题商品删除正确流程,执行成功!
+2022-03-09 14:49:53,734 - [test_business_goods_delete03.py - 65] - INFO:测试编号2,测试标题token为空场景,执行成功!
+2022-03-09 14:49:53,893 - [test_business_goods_delete03.py - 65] - INFO:测试编号3,测试标题goodsId为空场景,执行成功!
+2022-03-09 14:49:54,043 - [test_business_goods_delete03.py - 65] - INFO:测试编号4,测试标题goodsId为不存在的场景,执行成功!
+2022-03-09 14:49:54,197 - [test_business_goods_delete03.py - 65] - INFO:测试编号5,测试标题goodsId为5位数字场景,执行成功!
+2022-03-09 14:49:54,367 - [test_business_goods_delete03.py - 65] - INFO:测试编号6,测试标题goodsId为7位数字场景,执行成功!
+2022-03-09 14:49:54,522 - [test_business_goods_delete03.py - 65] - INFO:测试编号7,测试标题商品为未下架场景,执行成功!
+2022-03-09 14:49:54,675 - [test_business_goods_delete03.py - 65] - INFO:测试编号8,测试标题goodsId格式不正确的场景,执行成功!
+2022-03-09 14:52:55,994 - [test_business_register03.py - 73] - INFO:测试编号1,测试标题正确流程,执行成功
+2022-03-09 14:52:56,148 - [test_business_register03.py - 73] - INFO:测试编号2,测试标题用户名为空的场景,执行成功
+2022-03-09 14:52:56,308 - [test_business_register03.py - 73] - INFO:测试编号3,测试标题用户名为8位有效边界值的场景,执行成功
+2022-03-09 14:52:56,477 - [test_business_register03.py - 73] - INFO:测试编号4,测试标题用户名为5位无效边界值的场景,执行成功
+2022-03-09 14:52:56,635 - [test_business_register03.py - 73] - INFO:测试编号5,测试标题用户名为9位无效边界值的场景,执行成功
+2022-03-09 14:52:56,819 - [test_business_register03.py - 73] - INFO:测试编号6,测试标题用户名已存在的场景,执行成功
+2022-03-09 14:52:56,976 - [test_business_register03.py - 73] - INFO:测试编号7,测试标题用户名包含特殊符号的场景,执行成功
+2022-03-09 14:52:57,135 - [test_business_register03.py - 73] - INFO:测试编号8,测试标题用户名前包含空格的场景,执行成功
+2022-03-09 14:52:57,288 - [test_business_register03.py - 73] - INFO:测试编号9,测试标题用户名中包含空格的场景,执行成功
+2022-03-09 14:52:57,447 - [test_business_register03.py - 73] - INFO:测试编号10,测试标题用户名后包含空格的场景,执行成功
+2022-03-09 14:52:57,608 - [test_business_register03.py - 73] - INFO:测试编号11,测试标题用户名以非字母开头的场景,执行成功
+2022-03-09 14:52:57,765 - [test_business_register03.py - 73] - INFO:测试编号12,测试标题密码为空的场景,执行成功
+2022-03-09 14:52:57,927 - [test_business_register03.py - 73] - INFO:测试编号13,测试标题密码为8位有效边界值的场景,执行成功
+2022-03-09 14:52:58,087 - [test_business_register03.py - 73] - INFO:测试编号14,测试标题密码为6位无效边界值的场景,执行成功
+2022-03-09 14:52:58,241 - [test_business_register03.py - 73] - INFO:测试编号15,测试标题密码为12位无效边界值的场景,执行成功
+2022-03-09 14:52:58,426 - [test_business_register03.py - 73] - INFO:测试编号16,测试标题密码包含特殊符号的场景,执行成功
+2022-03-09 14:52:58,618 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-09 14:52:58,618 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-09 14:52:58,836 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-09 14:52:58,836 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-09 14:52:59,025 - [test_business_register03.py - 73] - INFO:测试编号19,测试标题密码区分大小写的场景,执行成功
+2022-03-09 14:52:59,198 - [test_business_register03.py - 73] - INFO:测试编号20,测试标题确认密码为空的场景,执行成功
+2022-03-09 14:52:59,350 - [test_business_register03.py - 73] - INFO:测试编号21,测试标题确认密码与密码不一致的场景,执行成功
+2022-03-09 14:52:59,518 - [test_business_register03.py - 73] - INFO:测试编号22,测试标题确认密码区分大小写的场景,执行成功
+2022-03-09 14:52:59,679 - [test_business_register03.py - 73] - INFO:测试编号23,测试标题手机号为空的场景,执行成功
+2022-03-09 14:52:59,844 - [test_business_register03.py - 73] - INFO:测试编号24,测试标题手机号为非11位数字的场景,执行成功
+2022-03-09 14:53:00,000 - [test_business_register03.py - 73] - INFO:测试编号25,测试标题手机号为非数字的场景,执行成功
+2022-03-09 14:53:00,185 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-09 14:53:00,185 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1008} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1008} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+2022-03-09 14:53:00,351 - [test_business_register03.py - 73] - INFO:测试编号27,测试标题手机号已注册的场景,执行成功
+2022-03-09 14:53:00,531 - [test_business_register03.py - 73] - INFO:测试编号28,测试标题性别为空的场景的场景,执行成功
+2022-03-09 14:53:00,695 - [test_business_register03.py - 73] - INFO:测试编号29,测试标题性别为非枚举值的场景,执行成功
+2022-03-09 14:53:00,854 - [test_business_register03.py - 73] - INFO:测试编号30,测试标题性别为男+女的场景,执行成功
+2022-03-09 14:53:01,018 - [test_business_register03.py - 73] - INFO:测试编号31,测试标题生日为空的场景,执行成功
+2022-03-09 14:53:01,196 - [test_business_register03.py - 73] - INFO:测试编号32,测试标题生日为非时间格式的场景,执行成功
+2022-03-09 14:53:01,352 - [test_business_register03.py - 73] - INFO:测试编号33,测试标题生日为非数字,执行成功
+2022-03-09 14:53:01,513 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-09 14:53:01,513 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-09 14:53:01,676 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-09 14:53:01,676 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-09 14:53:01,852 - [test_business_register03.py - 73] - INFO:测试编号36,测试标题qq为空的场景,执行成功
+2022-03-09 14:53:02,034 - [test_business_register03.py - 73] - INFO:测试编号37,测试标题qq为非数字,执行成功
+2022-03-09 14:53:02,206 - [test_business_register03.py - 73] - INFO:测试编号38,测试标题邮箱为空的场景,执行成功
+2022-03-09 14:53:02,368 - [test_business_register03.py - 73] - INFO:测试编号39,测试标题邮箱格式错误的场景,执行成功
+2022-03-09 14:53:02,533 - [test_business_register03.py - 73] - INFO:测试编号40,测试标题邮箱已注册的场景,执行成功
+2022-03-09 14:53:02,704 - [test_business_goods_delete03.py - 74] - INFO:测试编号1,测试标题商品删除正确流程,执行成功!
+2022-03-09 14:53:02,861 - [test_business_goods_delete03.py - 74] - INFO:测试编号2,测试标题token为空场景,执行成功!
+2022-03-09 14:53:03,019 - [test_business_goods_delete03.py - 74] - INFO:测试编号3,测试标题goodsId为空场景,执行成功!
+2022-03-09 14:53:03,179 - [test_business_goods_delete03.py - 74] - INFO:测试编号4,测试标题goodsId为不存在的场景,执行成功!
+2022-03-09 14:53:03,342 - [test_business_goods_delete03.py - 74] - INFO:测试编号5,测试标题goodsId为5位数字场景,执行成功!
+2022-03-09 14:53:03,506 - [test_business_goods_delete03.py - 74] - INFO:测试编号6,测试标题goodsId为7位数字场景,执行成功!
+2022-03-09 14:53:03,693 - [test_business_goods_delete03.py - 74] - INFO:测试编号7,测试标题商品为未下架场景,执行成功!
+2022-03-09 14:53:03,850 - [test_business_goods_delete03.py - 74] - INFO:测试编号8,测试标题goodsId格式不正确的场景,执行成功!
+2022-03-09 14:53:04,023 - [test_business_goods_input03.py - 64] - INFO:测试编号1,测试标题商品录入正常流程,执行成功!
+2022-03-09 14:53:04,185 - [test_business_goods_input03.py - 64] - INFO:测试编号2,测试标题测试商品名称重复的场景,执行成功!
+2022-03-09 14:53:04,342 - [test_business_goods_input03.py - 64] - INFO:测试编号3,测试标题测试token为空的场景,执行成功!
+2022-03-09 14:53:04,502 - [test_business_goods_input03.py - 64] - INFO:测试编号4,测试标题测试商品名称为空的场景,执行成功!
+2022-03-09 14:53:04,669 - [test_business_goods_input03.py - 64] - INFO:测试编号5,测试标题测试商品名称为无效边界值的场景,执行成功!
+2022-03-09 14:53:04,840 - [test_business_goods_input03.py - 59] - ERROR:测试编号6,测试标题测试商品名称带空格的场景,执行失败!实际结果{'code': 1013, 'msg': '产品名称不能重复'}
+2022-03-09 14:53:04,841 - [test_business_goods_input03.py - 60] - ERROR:assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^    ^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 52, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^    ^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-09 14:53:05,050 - [test_business_goods_input03.py - 64] - INFO:测试编号7,测试标题测试商品类别为空的场景,执行成功!
+2022-03-09 14:53:05,208 - [test_business_goods_input03.py - 64] - INFO:测试编号8,测试标题测试商品类别带空格的场景,执行成功!
+2022-03-09 14:53:05,372 - [test_business_goods_input03.py - 64] - INFO:测试编号9,测试标题测试商品类别为不存在的类别的场景,执行成功!
+2022-03-09 14:53:05,556 - [test_business_goods_input03.py - 59] - ERROR:测试编号10,测试标题测试商品类别格式不正确的场景,执行失败!实际结果{'code': 1012, 'msg': '商品分类不存在'}
+2022-03-09 14:53:05,556 - [test_business_goods_input03.py - 60] - ERROR:assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  {'code': 1007} != {'code': 1012}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 52, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  {'code': 1007} != {'code': 1012}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-09 14:53:05,741 - [test_business_goods_input03.py - 64] - INFO:测试编号11,测试标题测试商品描述为无效边界值的场景,执行成功!
+2022-03-09 14:53:05,902 - [test_business_goods_input03.py - 64] - INFO:测试编号12,测试标题测试商品库存为空的场景,执行成功!
+2022-03-09 14:53:06,072 - [test_business_goods_input03.py - 64] - INFO:测试编号13,测试标题测试商品库存为无效边界值的场景,执行成功!
+2022-03-09 14:53:06,236 - [test_business_goods_input03.py - 64] - INFO:测试编号14,测试标题测试商品库存为小数的场景,执行成功!
+2022-03-09 14:53:06,402 - [test_business_goods_input03.py - 64] - INFO:测试编号15,测试标题测试商品库存带空格的场景,执行成功!
+2022-03-09 14:53:06,569 - [test_business_goods_input03.py - 64] - INFO:测试编号16,测试标题测试商品库存格式不正确的场景,执行成功!
+2022-03-09 14:53:06,732 - [test_business_goods_input03.py - 64] - INFO:测试编号17,测试标题测试商品价格为空的场景,执行成功!
+2022-03-09 14:53:06,896 - [test_business_goods_input03.py - 64] - INFO:测试编号18,测试标题测试商品价格为非小数的场景,执行成功!
+2022-03-09 14:53:07,060 - [test_business_goods_input03.py - 64] - INFO:测试编号19,测试标题测试商品价格为无效边界值的场景,执行成功!
+2022-03-09 14:53:07,244 - [test_business_goods_input03.py - 64] - INFO:测试编号20,测试标题测试商品价格为负数的场景,执行成功!
+2022-03-09 14:53:07,408 - [test_business_goods_input03.py - 64] - INFO:测试编号21,测试标题测试商品价格为非数字的场景,执行成功!
+2022-03-09 14:53:07,574 - [test_business_goods_input03.py - 64] - INFO:测试编号22,测试标题测试商品价格带空格的场景,执行成功!
+2022-03-09 14:53:07,733 - [test_business_goods_input03.py - 64] - INFO:测试编号23,测试标题测试商品价格格式不正确的场景,执行成功!
+2022-03-09 14:53:07,906 - [test_business_goods_promote03.py - 73] - INFO:测试编号1,测试标题商品促销设置正确流程,执行成功!
+2022-03-09 14:53:08,069 - [test_business_goods_promote03.py - 73] - INFO:测试编号2,测试标题测试token值为空的场景,执行成功!
+2022-03-09 14:53:08,255 - [test_business_goods_promote03.py - 73] - INFO:测试编号3,测试标题测试促销开始时间为空的场景,执行成功!
+2022-03-09 14:53:08,419 - [test_business_goods_promote03.py - 73] - INFO:测试编号4,测试标题测试促销结束时间为空的场景,执行成功!
+2022-03-09 14:53:08,585 - [test_business_goods_promote03.py - 73] - INFO:测试编号5,测试标题测试商品编号为空的场景,执行成功!
+2022-03-09 14:53:08,751 - [test_business_goods_promote03.py - 73] - INFO:测试编号6,测试标题测试时间促销开始格式不正确的场景,执行成功!
+2022-03-09 14:53:08,942 - [test_business_goods_promote03.py - 73] - INFO:测试编号7,测试标题测试促销结束时间格式不正确的场景,执行成功!
+2022-03-09 14:53:09,108 - [test_business_goods_promote03.py - 73] - INFO:测试编号8,测试标题测试商品编号格式不正确的场景,执行成功!
+2022-03-09 14:53:09,272 - [test_business_goods_promote03.py - 73] - INFO:测试编号9,测试标题测试促销开始时间小于当前时间的场景,执行成功!
+2022-03-09 14:53:09,434 - [test_business_goods_promote03.py - 73] - INFO:测试编号10,测试标题测试促销结束时间小于促销开始时间的场景,执行成功!
+2022-03-09 14:53:09,601 - [test_business_goods_promote03.py - 73] - INFO:测试编号11,测试标题测试商品不存在的场景,执行成功!
+2022-03-09 14:53:09,775 - [test_business_goods_promote03.py - 73] - INFO:测试编号12,测试标题测试促销已打开，再次开启促销的场景,执行成功!
+2022-03-09 14:53:09,946 - [test_business_goods_promote03.py - 73] - INFO:测试编号13,测试标题测试促销结束时间等于促销开始时间的场景,执行成功!
+2022-03-09 14:53:10,110 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号1,测试标题商品信息查询主流程,执行成功!
+2022-03-09 14:53:10,269 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号2,测试标题商品信息查询—token为空,执行成功!
+2022-03-09 14:53:10,436 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号3,测试标题商品信息查询—token区分大小写,执行成功!
+2022-03-09 14:53:10,648 - [test_business_token_goodsinfo03.py - 91] - ERROR:测试编号4,测试标题商品信息查询—上一次token值,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'goods_tiems': [{'goodsName': '预留数据', 'shopPrice': 100.0, 'promotePrice': 0.0, 'num': 1000}, {'goodsName': '小米手机', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone5', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone13', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '帝王蟹', 'shopPrice': 999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '老八汉堡', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '三文鱼', 'shopPrice': 99.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '华为P30', 'shopPrice': 59999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac pro', 'shopPrice': 9999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac口红', 'shopPrice': 178.0, 'promotePrice': 0.0, 'num': 999}, {'goodsName': '笔 记本 ', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 5000}, {'goodsName': '小忍者', 'shopPrice': 1999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '金吉拉300', 'shopPrice': 15000.0, 'promotePrice': 0.0, 'num': 10}]}
+2022-03-09 14:53:10,649 - [test_business_token_goodsinfo03.py - 92] - ERROR:assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (111 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goodsinfo04\test_business_token_goodsinfo03.py", line 88, in test_goods_info
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (111 lines hidden), use '-vv' to show
+2022-03-09 14:53:10,821 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号5,测试标题商品信息查询—（不带商品）销售状态为0,执行成功!
+2022-03-09 14:53:10,999 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号6,测试标题商品信息查询—（不带商品）销售状态为1,执行成功!
+2022-03-09 14:53:11,181 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号7,测试标题商品信息查询—（不带商品）促销状态为0,执行成功!
+2022-03-09 14:53:11,355 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号8,测试标题商品信息查询—（不带商品）促销状态为1,执行成功!
+2022-03-09 14:53:11,521 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号9,测试标题商品信息查询—（不带商品）销售状态为0、促销状态为0,执行成功!
+2022-03-09 14:53:11,685 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号10,测试标题商品信息查询—（不带商品）销售状态为0、促销状态为1,执行成功!
+2022-03-09 14:53:11,854 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号11,测试标题商品信息查询—（不带商品）销售状态为1、促销状态为0,执行成功!
+2022-03-09 14:53:12,023 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号12,测试标题商品信息查询—（不带商品）销售状态为1、促销状态为1,执行成功!
+2022-03-09 14:53:12,185 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号13,测试标题商品信息查询—（带商品）销售状态为0,执行成功!
+2022-03-09 14:53:12,353 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号14,测试标题商品信息查询—（带商品）销售状态为1,执行成功!
+2022-03-09 14:53:12,547 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号15,测试标题商品信息查询—（带商品）促销状态为0,执行成功!
+2022-03-09 14:53:12,715 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号16,测试标题商品信息查询—（带商品）促销状态为1,执行成功!
+2022-03-09 14:53:12,875 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号17,测试标题商品信息查询—（带商品）销售状态为0、促销状态为0,执行成功!
+2022-03-09 14:53:13,042 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号18,测试标题商品信息查询—（带商品）销售状态为0、促销状态为1,执行成功!
+2022-03-09 14:53:13,204 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号19,测试标题商品信息查询—（带商品）销售状态为1、促销状态为0,执行成功!
+2022-03-09 14:53:13,367 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号20,测试标题商品信息查询—（带商品）销售状态为1、促销状态为1,执行成功!
+2022-03-09 14:53:13,530 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号21,测试标题商品信息查询—销售状态为非枚举,执行成功!
+2022-03-09 14:53:13,695 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号22,测试标题商品信息查询—促销状态为非枚举,执行成功!
+2022-03-09 14:53:13,859 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号23,测试标题商品信息查询—存在的商品编号（6位数字）,执行成功!
+2022-03-09 14:53:14,022 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号24,测试标题商品信息查询—商品编号非6位数字,执行成功!
+2022-03-09 14:53:14,209 - [test_business_token_goodsinfo03.py - 96] - INFO:测试编号25,测试标题商品信息查询—不存在的商品编号（6位数字）,执行成功!
+2022-03-09 14:53:14,369 - [test_login03.py - 68] - INFO:测试编号1,测试标题正常登录流程,执行成功!
+2022-03-09 14:53:14,522 - [test_login03.py - 68] - INFO:测试编号2,测试标题用户名为空场景,执行成功!
+2022-03-09 14:53:14,679 - [test_login03.py - 68] - INFO:测试编号3,测试标题密码为空场景,执行成功!
+2022-03-09 14:53:14,836 - [test_login03.py - 68] - INFO:测试编号4,测试标题用户类型为空场景,执行成功!
+2022-03-09 14:53:14,990 - [test_login03.py - 68] - INFO:测试编号5,测试标题用户名为错误场景,执行成功!
+2022-03-09 14:53:15,151 - [test_login03.py - 68] - INFO:测试编号6,测试标题密码为错误场景,执行成功!
+2022-03-09 14:53:15,306 - [test_login03.py - 68] - INFO:测试编号7,测试标题用户类型为不存在场景,执行成功!
+2022-03-09 14:53:15,464 - [test_login03.py - 68] - INFO:测试编号8,测试标题用户类型为其他类型用户场景,执行成功!
+2022-03-09 14:53:15,619 - [test_login03.py - 63] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjgzODc5NS40NzczMzQzOmFkMTVjNGZjN2E2MTA0ZWQ3ZWY0M2JiZDkyMDk5MTA2NTdlOGU4MzU='}
+2022-03-09 14:53:15,619 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NTdlOGU4MzU='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjgzODc5NS40NzczMzQzOmFkMTVjNGZjN2E2MTA0ZWQ3ZWY0M2JiZDkyMDk5MTA2NTdlOGU4MzU='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NTdlOGU4MzU='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjgzODc5NS40NzczMzQzOmFkMTVjNGZjN2E2MTA0ZWQ3ZWY0M2JiZDkyMDk5MTA2NTdlOGU4MzU='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-09 14:53:15,825 - [test_login03.py - 63] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjgzODc5NS42NDE4OTQ6Y2E0ZGRkNGU2MzI1OTZiZmE2MTRiODAyMGMxN2ZjMmVjMDQ4NWFhNg=='}
+2022-03-09 14:53:15,825 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MDQ4NWFhNg=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjgzODc5NS42NDE4OTQ6Y2E0ZGRkNGU2MzI1OTZiZmE2MTRiODAyMGMxN2ZjMmVjMDQ4NWFhNg=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MDQ4NWFhNg=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjgzODc5NS42NDE4OTQ6Y2E0ZGRkNGU2MzI1OTZiZmE2MTRiODAyMGMxN2ZjMmVjMDQ4NWFhNg=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-09 14:53:15,993 - [test_business_token_order_items02.py - 83] - INFO:测试编号1,测试标题正常流程,执行成功!
+2022-03-09 14:53:16,159 - [test_business_token_order_items02.py - 83] - INFO:测试编号2,测试标题测试token为空的场景,执行成功!
+2022-03-09 14:53:16,326 - [test_business_token_order_items02.py - 83] - INFO:测试编号3,测试标题测试token为错误值的场景,执行成功!
+2022-03-09 14:53:16,508 - [test_business_token_order_items02.py - 78] - ERROR:测试编号4,测试标题测试token为失效值的场景,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'name': 'xiaohei', 'phone': '18755662234', 'status': '已发货', 'value': 10.0, 'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0}, {'goods_name': '华为P30', 'goods_price': 59999.0}]}
+2022-03-09 14:53:16,508 - [test_business_token_order_items02.py - 79] - ERROR:assert {'code': 1004...请检查token是否失效'} == {'code': 1000...xiaohei', ...}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1004} != {'code': 1000}
+  Right contains 5 more items:
+  {'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0},
+                   {'goods_name': '华为P30', 'goods_price': 59999.0}],
+   'name': 'xiaohei',...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_order_items05\test_business_token_order_items02.py", line 75, in test_order_items
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1004...请检查token是否失效'} == {'code': 1000...xiaohei', ...}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1004} != {'code': 1000}
+  Right contains 5 more items:
+  {'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0},
+                   {'goods_name': '华为P30', 'goods_price': 59999.0}],
+   'name': 'xiaohei',...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show
+2022-03-09 14:53:16,681 - [test_business_token_order_items02.py - 83] - INFO:测试编号5,测试标题测试订单编号为空的场景,执行成功!
+2022-03-09 14:53:16,851 - [test_business_token_order_items02.py - 83] - INFO:测试编号6,测试标题测试订单编号格式不正确的场景,执行成功!
+2022-03-09 14:53:17,014 - [test_business_token_order_items02.py - 83] - INFO:测试编号7,测试标题测试订单编号为不存在id的场景,执行成功!

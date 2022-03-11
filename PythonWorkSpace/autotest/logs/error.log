@@ -1,0 +1,1530 @@
+2022-03-03 09:39:46,988 - [test_login03.py - 61] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwMTU4Ni45MjU3NzY1OmJiM2MwNzRjNzI3YTAxYmY5MTA2ODA0OGFmZWJmY2Y4NjRmZmFhNTc='}
+2022-03-03 09:39:46,988 - [test_login03.py - 62] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjRmZmFhNTc='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTU4Ni45MjU3NzY1OmJiM2MwNzRjNzI3YTAxYmY5MTA2ODA0OGFmZWJmY2Y4NjRmZmFhNTc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 58, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjRmZmFhNTc='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTU4Ni45MjU3NzY1OmJiM2MwNzRjNzI3YTAxYmY5MTA2ODA0OGFmZWJmY2Y4NjRmZmFhNTc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 09:39:47,066 - [test_login03.py - 61] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwMTU4Ny4wMTk1MDI5OjczZWUxYTllZjg0YjE5NmI3NGVkNmUwYmMzMWYyMDg4YjQ2ZTkxNTg='}
+2022-03-03 09:39:47,066 - [test_login03.py - 62] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YjQ2ZTkxNTg='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTU4Ny4wMTk1MDI5OjczZWUxYTllZjg0YjE5NmI3NGVkNmUwYmMzMWYyMDg4YjQ2ZTkxNTg='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 58, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YjQ2ZTkxNTg='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTU4Ny4wMTk1MDI5OjczZWUxYTllZjg0YjE5NmI3NGVkNmUwYmMzMWYyMDg4YjQ2ZTkxNTg='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 09:40:20,386 - [test_login03.py - 61] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwMTYyMC4zMzk4MDI6MTBkMTNmYjBmMmFhMjlkZGFiNGY5Y2UyNTNjY2M3MzY0N2Y3MTFkZQ=='}
+2022-03-03 09:40:20,386 - [test_login03.py - 62] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...N2Y3MTFkZQ=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTYyMC4zMzk4MDI6MTBkMTNmYjBmMmFhMjlkZGFiNGY5Y2UyNTNjY2M3MzY0N2Y3MTFkZQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 58, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...N2Y3MTFkZQ=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTYyMC4zMzk4MDI6MTBkMTNmYjBmMmFhMjlkZGFiNGY5Y2UyNTNjY2M3MzY0N2Y3MTFkZQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 09:40:20,449 - [test_login03.py - 61] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwMTYyMC40MDIyODM6ZGY2MjAzOTk0ZGU3MTMxYjY1Yzk2YjJjMzhkYjA1ZDgwNzY0NDhkYw=='}
+2022-03-03 09:40:20,449 - [test_login03.py - 62] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NzY0NDhkYw=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTYyMC40MDIyODM6ZGY2MjAzOTk0ZGU3MTMxYjY1Yzk2YjJjMzhkYjA1ZDgwNzY0NDhkYw=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 58, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NzY0NDhkYw=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwMTYyMC40MDIyODM6ZGY2MjAzOTk0ZGU3MTMxYjY1Yzk2YjJjMzhkYjA1ZDgwNzY0NDhkYw=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:23:36,021 - [Ftest_login03.py - 63] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDIxNS45NjU1Nzk3OjQ0NjhiNWFhOTU0MWEyZmNkMDUwNGMwYTBmMmM1NDVkY2U5MDgwMjQ='}
+2022-03-03 10:23:36,021 - [Ftest_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2U5MDgwMjQ='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIxNS45NjU1Nzk3OjQ0NjhiNWFhOTU0MWEyZmNkMDUwNGMwYTBmMmM1NDVkY2U5MDgwMjQ='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\Ftest_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2U5MDgwMjQ='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIxNS45NjU1Nzk3OjQ0NjhiNWFhOTU0MWEyZmNkMDUwNGMwYTBmMmM1NDVkY2U5MDgwMjQ='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:23:36,088 - [Ftest_login03.py - 63] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDIxNi4wMzM0MDQ0OjljYTIzZWQ3ZTM0OTZkM2E0OTZhNTJmZjAxZjVlOGIwNjUzZWExMzc='}
+2022-03-03 10:23:36,088 - [Ftest_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjUzZWExMzc='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIxNi4wMzM0MDQ0OjljYTIzZWQ3ZTM0OTZkM2E0OTZhNTJmZjAxZjVlOGIwNjUzZWExMzc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\Ftest_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjUzZWExMzc='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIxNi4wMzM0MDQ0OjljYTIzZWQ3ZTM0OTZkM2E0OTZhNTJmZjAxZjVlOGIwNjUzZWExMzc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:23:50,272 - [test_login04.py - 59] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDIzMC4yMTQ0Nzc6ODhkNDkwODJmNzE5Y2E0NTY0ZjU0Y2QyMDQ1MDIwZDQ3ZGQ2NzRkMA=='}
+2022-03-03 10:23:50,272 - [test_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZGQ2NzRkMA=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIzMC4yMTQ0Nzc6ODhkNDkwODJmNzE5Y2E0NTY0ZjU0Y2QyMDQ1MDIwZDQ3ZGQ2NzRkMA=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZGQ2NzRkMA=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIzMC4yMTQ0Nzc6ODhkNDkwODJmNzE5Y2E0NTY0ZjU0Y2QyMDQ1MDIwZDQ3ZGQ2NzRkMA=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:23:50,338 - [test_login04.py - 59] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDIzMC4yODMyOTI4OjdmOTJhOGU3ZDFhYzUyMGQwZGQyNjlkOGYzNzg1NTQxMDQ2MTUxZTM='}
+2022-03-03 10:23:50,338 - [test_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MDQ2MTUxZTM='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIzMC4yODMyOTI4OjdmOTJhOGU3ZDFhYzUyMGQwZGQyNjlkOGYzNzg1NTQxMDQ2MTUxZTM='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MDQ2MTUxZTM='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDIzMC4yODMyOTI4OjdmOTJhOGU3ZDFhYzUyMGQwZGQyNjlkOGYzNzg1NTQxMDQ2MTUxZTM='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:24:02,909 - [test_login04.py - 59] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDI0Mi44NDc2OTU6MzM3NTY5NGY5NTU2MTRiYmU5YTFhYjlkZDQxNjQyZmRjY2Q5YmRmOQ=='}
+2022-03-03 10:24:02,909 - [test_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2Q5YmRmOQ=='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDI0Mi44NDc2OTU6MzM3NTY5NGY5NTU2MTRiYmU5YTFhYjlkZDQxNjQyZmRjY2Q5YmRmOQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2Q5YmRmOQ=='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDI0Mi44NDc2OTU6MzM3NTY5NGY5NTU2MTRiYmU5YTFhYjlkZDQxNjQyZmRjY2Q5YmRmOQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:24:02,978 - [test_login04.py - 59] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDI0Mi45MjE0OTczOmRmNTljMTNiOThmODk2Y2VmOGEyMDg5NGY3YWQ2MWJkZDgyZTVhMTM='}
+2022-03-03 10:24:02,978 - [test_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZDgyZTVhMTM='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDI0Mi45MjE0OTczOmRmNTljMTNiOThmODk2Y2VmOGEyMDg5NGY3YWQ2MWJkZDgyZTVhMTM='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZDgyZTVhMTM='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDI0Mi45MjE0OTczOmRmNTljMTNiOThmODk2Y2VmOGEyMDg5NGY3YWQ2MWJkZDgyZTVhMTM='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:34:51,959 - [Ftest_login04.py - 59] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDg5MS44OTcwODE2OmRkYWE3ZjkzZTdjOWYyMTA1NTJmMTM4ODM5OGQwMjM4YmEzZWYyZWE='}
+2022-03-03 10:34:51,959 - [Ftest_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YmEzZWYyZWE='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDg5MS44OTcwODE2OmRkYWE3ZjkzZTdjOWYyMTA1NTJmMTM4ODM5OGQwMjM4YmEzZWYyZWE='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\Ftest_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YmEzZWYyZWE='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDg5MS44OTcwODE2OmRkYWE3ZjkzZTdjOWYyMTA1NTJmMTM4ODM5OGQwMjM4YmEzZWYyZWE='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:34:52,035 - [Ftest_login04.py - 59] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDg5MS45NzI4NzkyOmUwYTZlNDI2ZWQ5NDYzZjljZGM2M2RkYTM1ZTcwNjUxMzMwMDg1MGQ='}
+2022-03-03 10:34:52,035 - [Ftest_login04.py - 60] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MzMwMDg1MGQ='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDg5MS45NzI4NzkyOmUwYTZlNDI2ZWQ5NDYzZjljZGM2M2RkYTM1ZTcwNjUxMzMwMDg1MGQ='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\Ftest_login04.py", line 56, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MzMwMDg1MGQ='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDg5MS45NzI4NzkyOmUwYTZlNDI2ZWQ5NDYzZjljZGM2M2RkYTM1ZTcwNjUxMzMwMDg1MGQ='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:35:07,202 - [test_login05.py - 65] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDkwNy4xNDAzMjpkZmViYTJjYTNjMDY4ZGZmZDU3MzY3MTE1OTg4YmM4MGUyYTQzNzI4'}
+2022-03-03 10:35:07,203 - [test_login05.py - 66] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MGUyYTQzNzI4'}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDkwNy4xNDAzMjpkZmViYTJjYTNjMDY4ZGZmZDU3MzY3MTE1OTg4YmM4MGUyYTQzNzI4'}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login05.py", line 62, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MGUyYTQzNzI4'}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDkwNy4xNDAzMjpkZmViYTJjYTNjMDY4ZGZmZDU3MzY3MTE1OTg4YmM4MGUyYTQzNzI4'}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 10:35:07,278 - [test_login05.py - 65] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjMwNDkwNy4yMTMxMjUyOjI1NjJlYmEwNjU3YTVmNTBiMmUzNzllYTA4M2QzMzY1ZjUxYzRlNGE='}
+2022-03-03 10:35:07,278 - [test_login05.py - 66] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZjUxYzRlNGE='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDkwNy4yMTMxMjUyOjI1NjJlYmEwNjU3YTVmNTBiMmUzNzllYTA4M2QzMzY1ZjUxYzRlNGE='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login05.py", line 62, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...ZjUxYzRlNGE='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjMwNDkwNy4yMTMxMjUyOjI1NjJlYmEwNjU3YTVmNTBiMmUzNzllYTA4M2QzMzY1ZjUxYzRlNGE='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-03 11:35:02,609 - [test_business_register01.py - 32] - ERROR:测试编号1,测试标题正常流程,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-03 11:35:02,610 - [test_business_register01.py - 33] - ERROR:assert {'code': 1000, 'msg': '注册成功'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1000} != {'code': 1013}
+  {'msg': '注册成功'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1000, 'msg': '注册成功'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register01.py", line 29, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1000, 'msg': '注册成功'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1000} != {'code': 1013}
+  {'msg': '注册成功'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1000, 'msg': '注册成功'}
+2022-03-03 11:41:14,698 - [Ftest_business_register01.py - 32] - ERROR:测试编号1,测试标题正常流程,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-03 11:41:14,698 - [Ftest_business_register01.py - 33] - ERROR:assert {'code': 1000, 'msg': '注册成功'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '注册成功'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1000} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1000, 'msg': '注册成功'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\Ftest_business_register01.py", line 29, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1000, 'msg': '注册成功'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '注册成功'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1000} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1000, 'msg': '注册成功'}
+2022-03-04 10:53:36,010 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1000, 'msg': '注册成功'}
+2022-03-04 10:53:36,011 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '注册成功'}
+  {'code': 1006} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '注册成功'}
+  {'code': 1006} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-04 10:53:36,154 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:53:36,155 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-04 10:53:36,918 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1000, 'msg': '注册成功'}
+2022-03-04 10:53:36,919 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '注册成功'}
+  {'code': 1008} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?             ^          ^^^^
+  + {'code': 1008, 'msg': '手机号格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '注册成功'}
+  {'code': 1008} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?             ^          ^^^^
+  + {'code': 1008, 'msg': '手机号格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-04 10:53:37,663 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1000, 'msg': '注册成功'}
+2022-03-04 10:53:37,663 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '注册成功'}
+  {'code': 1010} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?            ^           ^^^^
+  + {'code': 1010, 'msg': '生日格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '注册成功'}
+  {'code': 1010} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?            ^           ^^^^
+  + {'code': 1010, 'msg': '生日格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-04 10:53:37,763 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1000, 'msg': '注册成功'}
+2022-03-04 10:53:37,763 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '注册成功'}
+  {'code': 1010} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?            ^           ^^^^
+  + {'code': 1010, 'msg': '生日格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1000, 'msg': '注册成功'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '注册成功'}
+  {'code': 1010} != {'code': 1000}
+  Full diff:
+  - {'code': 1000, 'msg': '注册成功'}
+  ?            ^           ^^^^
+  + {'code': 1010, 'msg': '生日格式错误'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-04 10:56:15,201 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:56:15,202 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-04 10:56:15,297 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:56:15,297 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-04 10:56:16,033 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:56:16,033 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+2022-03-04 10:56:16,757 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:56:16,758 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-04 10:56:16,853 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-04 10:56:16,853 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-05 11:56:32,498 - [test_business_token_goodsinfo03.py - 82] - ERROR:测试编号4,测试标题商品信息查询—上一次token值,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'goods_tiems': [{'goodsName': '预留数据', 'shopPrice': 100.0, 'promotePrice': 0.0, 'num': 1000}, {'goodsName': '小米手机', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone5', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone13', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '帝王蟹', 'shopPrice': 999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '老八汉堡', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '三文鱼', 'shopPrice': 99.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '华为P30', 'shopPrice': 59999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac pro', 'shopPrice': 9999.0, 'promotePrice': 0.0, 'num': 99999}]}
+2022-03-05 11:56:32,499 - [test_business_token_goodsinfo03.py - 83] - ERROR:assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (79 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goodsinfo04\test_business_token_goodsinfo03.py", line 79, in test_goods_info
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (79 lines hidden), use '-vv' to show
+2022-03-05 14:46:56,623 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-05 14:46:56,623 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-05 14:46:56,794 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-05 14:46:56,795 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-05 14:46:57,776 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-05 14:46:57,777 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1008} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1008} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+2022-03-05 14:46:58,770 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-05 14:46:58,770 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-05 14:46:58,897 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-05 14:46:58,897 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-05 14:47:00,059 - [test_business_token_goodsinfo03.py - 91] - ERROR:测试编号4,测试标题商品信息查询—上一次token值,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'goods_tiems': [{'goodsName': '预留数据', 'shopPrice': 100.0, 'promotePrice': 0.0, 'num': 1000}, {'goodsName': '小米手机', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone5', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone13', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '帝王蟹', 'shopPrice': 999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '老八汉堡', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '三文鱼', 'shopPrice': 99.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '华为P30', 'shopPrice': 59999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac pro', 'shopPrice': 9999.0, 'promotePrice': 0.0, 'num': 99999}]}
+2022-03-05 14:47:00,059 - [test_business_token_goodsinfo03.py - 92] - ERROR:assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (79 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goodsinfo04\test_business_token_goodsinfo03.py", line 88, in test_goods_info
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (79 lines hidden), use '-vv' to show
+2022-03-05 14:47:03,870 - [test_login03.py - 63] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjQ5MjgyMy43Njg1MDE6MGM1ZTI0YjVkNzEzNjI0YmRiYmUxZTBhZTAxMTg4NjVmYzhkMjhjNQ=='}
+2022-03-05 14:47:03,870 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YzhkMjhjNQ=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjQ5MjgyMy43Njg1MDE6MGM1ZTI0YjVkNzEzNjI0YmRiYmUxZTBhZTAxMTg4NjVmYzhkMjhjNQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YzhkMjhjNQ=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjQ5MjgyMy43Njg1MDE6MGM1ZTI0YjVkNzEzNjI0YmRiYmUxZTBhZTAxMTg4NjVmYzhkMjhjNQ=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-05 14:47:04,001 - [test_login03.py - 63] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjQ5MjgyMy44ODkxNzkyOjBjZWZmYmJhNmFkNTY5MzQyYjFjMTVmOGJmOGI3YmE3OWI3MWI4N2E='}
+2022-03-05 14:47:04,002 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...OWI3MWI4N2E='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjQ5MjgyMy44ODkxNzkyOjBjZWZmYmJhNmFkNTY5MzQyYjFjMTVmOGJmOGI3YmE3OWI3MWI4N2E='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...OWI3MWI4N2E='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjQ5MjgyMy44ODkxNzkyOjBjZWZmYmJhNmFkNTY5MzQyYjFjMTVmOGJmOGI3YmE3OWI3MWI4N2E='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-07 09:49:45,617 - [test_business_token_order_items02.py - 78] - ERROR:测试编号4,测试标题测试token为失效值的场景,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'name': 'xiaohei', 'phone': '18755662234', 'status': '已发货', 'value': 10.0, 'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0}, {'goods_name': '华为P30', 'goods_price': 59999.0}]}
+2022-03-07 09:49:45,617 - [test_business_token_order_items02.py - 79] - ERROR:assert {'code': 1004...请检查token是否失效'} == {'code': 1000...xiaohei', ...}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1004} != {'code': 1000}
+  Right contains 5 more items:
+  {'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0},
+                   {'goods_name': '华为P30', 'goods_price': 59999.0}],
+   'name': 'xiaohei',...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_order_items05\test_business_token_order_items02.py", line 75, in test_order_items
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1004...请检查token是否失效'} == {'code': 1000...xiaohei', ...}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1004} != {'code': 1000}
+  Right contains 5 more items:
+  {'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0},
+                   {'goods_name': '华为P30', 'goods_price': 59999.0}],
+   'name': 'xiaohei',...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show
+2022-03-08 11:30:13,817 - [test_business_goods_input01.py - 35] - ERROR:测试编号1,测试标题商品录入正常流程,执行失败!实际结果{'code': 1013, 'msg': '产品名称不能重复'}
+2022-03-08 11:30:13,818 - [test_business_goods_input01.py - 36] - ERROR:assert {'code': 1000...sg': '商品录入成功'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'code': 1000} != {'code': 1013}
+  {'msg': '商品录入成功'} != {'msg': '产品名称不能重复'}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^ ^^^^^^
+  + {'code': 1000, 'msg': '商品录入成功'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input01.py", line 32, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1000...sg': '商品录入成功'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'code': 1000} != {'code': 1013}
+  {'msg': '商品录入成功'} != {'msg': '产品名称不能重复'}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^ ^^^^^^
+  + {'code': 1000, 'msg': '商品录入成功'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-08 14:23:00,711 - [test_business_goods_input03.py - 51] - ERROR:测试编号6,测试标题测试商品名称带空格的场景,执行失败!实际结果{'code': 1000, 'msg': '商品录入成功'}
+2022-03-08 14:23:00,711 - [test_business_goods_input03.py - 52] - ERROR:assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1000...sg': '商品录入成功'}
+  Differing items:
+  {'code': 1006} != {'code': 1000}
+  {'msg': '商品名称格式不正确'} != {'msg': '商品录入成功'}
+  Full diff:
+  - {'code': 1000, 'msg': '商品录入成功'}
+  ?             ^            ^^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 44, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1000...sg': '商品录入成功'}
+  Differing items:
+  {'code': 1006} != {'code': 1000}
+  {'msg': '商品名称格式不正确'} != {'msg': '商品录入成功'}
+  Full diff:
+  - {'code': 1000, 'msg': '商品录入成功'}
+  ?             ^            ^^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-08 14:23:01,282 - [test_business_goods_input03.py - 51] - ERROR:测试编号10,测试标题测试商品类别格式不正确的场景,执行失败!实际结果{'code': 1012, 'msg': '商品分类不存在'}
+2022-03-08 14:23:01,283 - [test_business_goods_input03.py - 52] - ERROR:assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'code': 1007} != {'code': 1012}
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 44, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'code': 1007} != {'code': 1012}
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-08 17:47:31,876 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:47:31,876 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-08 17:47:32,069 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:47:32,070 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-08 17:47:33,298 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:47:33,298 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+2022-03-08 17:47:34,528 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:47:34,529 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-08 17:47:34,688 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:47:34,688 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-08 17:47:36,422 - [test_business_goods_input03.py - 59] - ERROR:测试编号6,测试标题测试商品名称带空格的场景,执行失败!实际结果{'code': 1013, 'msg': '产品名称不能重复'}
+2022-03-08 17:47:36,422 - [test_business_goods_input03.py - 60] - ERROR:assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^    ^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 52, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^    ^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-08 17:47:37,057 - [test_business_goods_input03.py - 59] - ERROR:测试编号10,测试标题测试商品类别格式不正确的场景,执行失败!实际结果{'code': 1012, 'msg': '商品分类不存在'}
+2022-03-08 17:47:37,058 - [test_business_goods_input03.py - 60] - ERROR:assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'code': 1007} != {'code': 1012}
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 52, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'code': 1007} != {'code': 1012}
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-08 17:47:41,881 - [test_business_token_goodsinfo03.py - 91] - ERROR:测试编号4,测试标题商品信息查询—上一次token值,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'goods_tiems': [{'goodsName': '预留数据', 'shopPrice': 100.0, 'promotePrice': 0.0, 'num': 1000}, {'goodsName': '小米手机', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone5', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone13', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '帝王蟹', 'shopPrice': 999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '老八汉堡', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '三文鱼', 'shopPrice': 99.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '华为P30', 'shopPrice': 59999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac pro', 'shopPrice': 9999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac口红', 'shopPrice': 178.0, 'promotePrice': 0.0, 'num': 999}, {'goodsName': '笔 记本 ', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 5000}, {'goodsName': '小忍者', 'shopPrice': 1999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '金吉拉300', 'shopPrice': 15000.0, 'promotePrice': 0.0, 'num': 10}]}
+2022-03-08 17:47:41,882 - [test_business_token_goodsinfo03.py - 92] - ERROR:assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (111 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goodsinfo04\test_business_token_goodsinfo03.py", line 88, in test_goods_info
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (111 lines hidden), use '-vv' to show
+2022-03-08 17:47:46,621 - [test_login03.py - 63] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0Njc2Mjg2Ni40Nzk3NTQ3OjEyMDkyMzQwNWZmMjEwMjE4YjZmMjY2MjNjMDYwNThjNWZlNmQ5OGY='}
+2022-03-08 17:47:46,621 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NWZlNmQ5OGY='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2Mjg2Ni40Nzk3NTQ3OjEyMDkyMzQwNWZmMjEwMjE4YjZmMjY2MjNjMDYwNThjNWZlNmQ5OGY='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NWZlNmQ5OGY='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2Mjg2Ni40Nzk3NTQ3OjEyMDkyMzQwNWZmMjEwMjE4YjZmMjY2MjNjMDYwNThjNWZlNmQ5OGY='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-08 17:47:46,777 - [test_login03.py - 63] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0Njc2Mjg2Ni42MzgzMzA3OjUwOGYwZjY5NDQ5ZmE2NjQ1M2JhYjMzZGM3YTcwZDdkY2JkMzliNTc='}
+2022-03-08 17:47:46,777 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2JkMzliNTc='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2Mjg2Ni42MzgzMzA3OjUwOGYwZjY5NDQ5ZmE2NjQ1M2JhYjMzZGM3YTcwZDdkY2JkMzliNTc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...Y2JkMzliNTc='}
+  Differing items:
+  {'code': 1007} != {'code': 1000}
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2Mjg2Ni42MzgzMzA3OjUwOGYwZjY5NDQ5ZmE2NjQ1M2JhYjMzZGM3YTcwZDdkY2JkMzliNTc='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-08 17:47:47,456 - [test_business_token_order_items02.py - 78] - ERROR:测试编号4,测试标题测试token为失效值的场景,执行失败!实际结果{'code': 1005, 'msg': '查询无结果'}
+2022-03-08 17:47:47,456 - [test_business_token_order_items02.py - 79] - ERROR:assert {'code': 1004...请检查token是否失效'} == {'code': 1005, 'msg': '查询无结果'}
+  Differing items:
+  {'code': 1004} != {'code': 1005}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询无结果'}
+  Full diff:
+  - {'code': 1005, 'msg': '查询无结果'}
+  + {'code': 1004, 'msg': '鉴权失败,请检查token是否失效'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_order_items05\test_business_token_order_items02.py", line 75, in test_order_items
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1004...请检查token是否失效'} == {'code': 1005, 'msg': '查询无结果'}
+  Differing items:
+  {'code': 1004} != {'code': 1005}
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询无结果'}
+  Full diff:
+  - {'code': 1005, 'msg': '查询无结果'}
+  + {'code': 1004, 'msg': '鉴权失败,请检查token是否失效'}
+2022-03-08 17:51:46,234 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:51:46,234 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-08 17:51:46,235 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:51:46,235 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-08 17:51:47,729 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:51:47,730 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-08 17:51:47,913 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:51:47,913 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-08 17:51:51,842 - [test_login03.py - 63] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0Njc2MzExMS42ODI5MjE0OjJhNzU5NjczZTU4YTg5MzdhY2M3YTE0MDQzNzY0MGJhNjNmODRkM2Y='}
+2022-03-08 17:51:51,842 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjNmODRkM2Y='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2MzExMS42ODI5MjE0OjJhNzU5NjczZTU4YTg5MzdhY2M3YTE0MDQzNzY0MGJhNjNmODRkM2Y='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NjNmODRkM2Y='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2MzExMS42ODI5MjE0OjJhNzU5NjczZTU4YTg5MzdhY2M3YTE0MDQzNzY0MGJhNjNmODRkM2Y='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-08 17:51:52,035 - [test_login03.py - 63] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0Njc2MzExMS44NzA0MTkzOjc3NjI4ZWU1MmUwNTZkZjZiODc5NTI4YjcxM2U2NWFiYmI0MDljMDg='}
+2022-03-08 17:51:52,035 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YmI0MDljMDg='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2MzExMS44NzA0MTkzOjc3NjI4ZWU1MmUwNTZkZjZiODc5NTI4YjcxM2U2NWFiYmI0MDljMDg='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...YmI0MDljMDg='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0Njc2MzExMS44NzA0MTkzOjc3NjI4ZWU1MmUwNTZkZjZiODc5NTI4YjcxM2U2NWFiYmI0MDljMDg='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-08 17:52:27,901 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:52:27,902 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1006} != {'code': 1013}
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-08 17:52:28,560 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:52:28,560 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1008} != {'code': 1013}
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+2022-03-08 17:52:29,706 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:52:29,707 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-08 17:52:29,885 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-08 17:52:29,885 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'code': 1010} != {'code': 1013}
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-09 14:32:49,829 - [test_business_goods_delete01.py - 38] - ERROR:测试编号1,测试标题商品删除正确流程,执行失败!实际结果{'code': 1004, 'msg': '该商品不存在'}
+2022-03-09 14:32:49,829 - [test_business_goods_delete01.py - 39] - ERROR:assert {'code': 1000...sg': '商品删除成功'} == {'code': 1004...sg': '该商品不存在'}
+  Differing items:
+  {'msg': '商品删除成功'} != {'msg': '该商品不存在'}
+  {'code': 1000} != {'code': 1004}
+  Full diff:
+  - {'code': 1004, 'msg': '该商品不存在'}
+  ?             ^          -  ^^^
+  + {'code': 1000, 'msg': '商品删除成功'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_delete08\test_business_goods_delete01.py", line 35, in test_goods_delete
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1000...sg': '商品删除成功'} == {'code': 1004...sg': '该商品不存在'}
+  Differing items:
+  {'msg': '商品删除成功'} != {'msg': '该商品不存在'}
+  {'code': 1000} != {'code': 1004}
+  Full diff:
+  - {'code': 1004, 'msg': '该商品不存在'}
+  ?             ^          -  ^^^
+  + {'code': 1000, 'msg': '商品删除成功'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-09 14:52:58,618 - [test_business_register03.py - 68] - ERROR:测试编号17,测试标题密码纯字母的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-09 14:52:58,618 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-09 14:52:58,836 - [test_business_register03.py - 68] - ERROR:测试编号18,测试标题密码纯数字的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-09 14:52:58,836 - [test_business_register03.py - 69] - ERROR:assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}
+2022-03-09 14:53:00,185 - [test_business_register03.py - 68] - ERROR:测试编号26,测试标题手机号为不支持的号段的场景,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-09 14:53:00,185 - [test_business_register03.py - 69] - ERROR:assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1008} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1008} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1008, 'msg': '手机号格式错误'}
+2022-03-09 14:53:01,513 - [test_business_register03.py - 68] - ERROR:测试编号34,测试标题生日超出当前时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-09 14:53:01,513 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-09 14:53:01,676 - [test_business_register03.py - 68] - ERROR:测试编号35,测试标题生日为不合理的时间,执行失败!实际结果{'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+2022-03-09 14:53:01,676 - [test_business_register03.py - 69] - ERROR:assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_register03\test_business_register03.py", line 61, in test_register
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}
+  Differing items:
+  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}
+  {'code': 1010} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}
+  + {'code': 1010, 'msg': '生日格式错误'}
+2022-03-09 14:53:04,840 - [test_business_goods_input03.py - 59] - ERROR:测试编号6,测试标题测试商品名称带空格的场景,执行失败!实际结果{'code': 1013, 'msg': '产品名称不能重复'}
+2022-03-09 14:53:04,841 - [test_business_goods_input03.py - 60] - ERROR:assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^    ^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 52, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}
+  Differing items:
+  {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}
+  {'code': 1006} != {'code': 1013}
+  Full diff:
+  - {'code': 1013, 'msg': '产品名称不能重复'}
+  ?            ^^          ^    ^^^
+  + {'code': 1006, 'msg': '商品名称格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-09 14:53:05,556 - [test_business_goods_input03.py - 59] - ERROR:测试编号10,测试标题测试商品类别格式不正确的场景,执行失败!实际结果{'code': 1012, 'msg': '商品分类不存在'}
+2022-03-09 14:53:05,556 - [test_business_goods_input03.py - 60] - ERROR:assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  {'code': 1007} != {'code': 1012}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 52, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  {'code': 1007} != {'code': 1012}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+2022-03-09 14:53:10,648 - [test_business_token_goodsinfo03.py - 91] - ERROR:测试编号4,测试标题商品信息查询—上一次token值,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'goods_tiems': [{'goodsName': '预留数据', 'shopPrice': 100.0, 'promotePrice': 0.0, 'num': 1000}, {'goodsName': '小米手机', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone5', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'iphone13', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '帝王蟹', 'shopPrice': 999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '老八汉堡', 'shopPrice': 0.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '三文鱼', 'shopPrice': 99.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '华为P30', 'shopPrice': 59999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac pro', 'shopPrice': 9999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': 'Mac口红', 'shopPrice': 178.0, 'promotePrice': 0.0, 'num': 999}, {'goodsName': '笔 记本 ', 'shopPrice': 5000.0, 'promotePrice': 0.0, 'num': 5000}, {'goodsName': '小忍者', 'shopPrice': 1999.0, 'promotePrice': 0.0, 'num': 99999}, {'goodsName': '金吉拉300', 'shopPrice': 15000.0, 'promotePrice': 0.0, 'num': 10}]}
+2022-03-09 14:53:10,649 - [test_business_token_goodsinfo03.py - 92] - ERROR:assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (111 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goodsinfo04\test_business_token_goodsinfo03.py", line 88, in test_goods_info
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'goods_tiems': [{'goodsName': '预留数据',
+                    'num': 1000,
+                    'promotePrice': 0.0,...
+  
+  ...Full output truncated (111 lines hidden), use '-vv' to show
+2022-03-09 14:53:15,619 - [test_login03.py - 63] - ERROR:测试编号9,测试标题密码大小写不区分,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjgzODc5NS40NzczMzQzOmFkMTVjNGZjN2E2MTA0ZWQ3ZWY0M2JiZDkyMDk5MTA2NTdlOGU4MzU='}
+2022-03-09 14:53:15,619 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NTdlOGU4MzU='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjgzODc5NS40NzczMzQzOmFkMTVjNGZjN2E2MTA0ZWQ3ZWY0M2JiZDkyMDk5MTA2NTdlOGU4MzU='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NTdlOGU4MzU='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjgzODc5NS40NzczMzQzOmFkMTVjNGZjN2E2MTA0ZWQ3ZWY0M2JiZDkyMDk5MTA2NTdlOGU4MzU='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-09 14:53:15,825 - [test_login03.py - 63] - ERROR:测试编号10,测试标题用户名不区分大小写,执行失败!实际结果{'code': 1000, 'msg': '登录成功', 'token': 'MTY0NjgzODc5NS42NDE4OTQ6Y2E0ZGRkNGU2MzI1OTZiZmE2MTRiODAyMGMxN2ZjMmVjMDQ4NWFhNg=='}
+2022-03-09 14:53:15,825 - [test_login03.py - 64] - ERROR:assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MDQ4NWFhNg=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjgzODc5NS42NDE4OTQ6Y2E0ZGRkNGU2MzI1OTZiZmE2MTRiODAyMGMxN2ZjMmVjMDQ4NWFhNg=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_login02\test_login03.py", line 60, in test_login
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MDQ4NWFhNg=='}
+  Differing items:
+  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}
+  {'code': 1007} != {'code': 1000}
+  Right contains 1 more item:
+  {'token': 'MTY0NjgzODc5NS42NDE4OTQ6Y2E0ZGRkNGU2MzI1OTZiZmE2MTRiODAyMGMxN2ZjMmVjMDQ4NWFhNg=='}
+  Full diff:
+    {...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show
+2022-03-09 14:53:16,508 - [test_business_token_order_items02.py - 78] - ERROR:测试编号4,测试标题测试token为失效值的场景,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'name': 'xiaohei', 'phone': '18755662234', 'status': '已发货', 'value': 10.0, 'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0}, {'goods_name': '华为P30', 'goods_price': 59999.0}]}
+2022-03-09 14:53:16,508 - [test_business_token_order_items02.py - 79] - ERROR:assert {'code': 1004...请检查token是否失效'} == {'code': 1000...xiaohei', ...}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1004} != {'code': 1000}
+  Right contains 5 more items:
+  {'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0},
+                   {'goods_name': '华为P30', 'goods_price': 59999.0}],
+   'name': 'xiaohei',...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_order_items05\test_business_token_order_items02.py", line 75, in test_order_items
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1004...请检查token是否失效'} == {'code': 1000...xiaohei', ...}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1004} != {'code': 1000}
+  Right contains 5 more items:
+  {'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0},
+                   {'goods_name': '华为P30', 'goods_price': 59999.0}],
+   'name': 'xiaohei',...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show

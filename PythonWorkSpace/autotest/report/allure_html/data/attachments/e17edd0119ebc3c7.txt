@@ -1,0 +1,28 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/token_login HTTP/1.1" 200 130
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/goods_input HTTP/1.1" 200 46
+ERROR    root:test_business_goods_input03.py:59 测试编号10,测试标题测试商品类别格式不正确的场景,执行失败!实际结果{'code': 1012, 'msg': '商品分类不存在'}
+ERROR    root:test_business_goods_input03.py:60 assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  {'code': 1007} != {'code': 1012}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_goods_input06\test_business_goods_input03.py", line 52, in test_goods_input
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}
+  Differing items:
+  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}
+  {'code': 1007} != {'code': 1012}
+  Full diff:
+  - {'code': 1012, 'msg': '商品分类不存在'}
+  ?            ^^            -  ^^
+  + {'code': 1007, 'msg': '商品类别格式不正确'}...
+  
+  ...Full output truncated (2 lines hidden), use '-vv' to show

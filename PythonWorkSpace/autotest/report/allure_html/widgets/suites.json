@@ -1,0 +1,81 @@
+{
+  "total" : 7,
+  "items" : [ {
+    "uid" : "7a7389b9d23f7c6b16af04815faebbd5",
+    "name" : "testcases.test_business_register03",
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 35,
+      "unknown" : 0,
+      "total" : 40
+    }
+  }, {
+    "uid" : "9d287e73ad73d567fab47ac1b54e2644",
+    "name" : "testcases.test_business_token_goods_input06",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 21,
+      "unknown" : 0,
+      "total" : 23
+    }
+  }, {
+    "uid" : "c9fc6a80fea1a4f158084a72301aa8df",
+    "name" : "testcases.test_business_token_login02",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 10
+    }
+  }, {
+    "uid" : "3a7f8d2189de942bbbd00c834f9bd713",
+    "name" : "testcases.test_business_token_goodsinfo04",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 24,
+      "unknown" : 0,
+      "total" : 25
+    }
+  }, {
+    "uid" : "c548057d8d29e710c5e02c8c6c64770a",
+    "name" : "testcases.test_business_token_order_items05",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "299caa39f256711c6c7dd7ef359cb01d",
+    "name" : "testcases.test_business_token_goods_promote07",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 13
+    }
+  }, {
+    "uid" : "88277843aac1f550d9bb49efdbfb614d",
+    "name" : "testcases.test_business_token_goods_delete08",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  } ]
+}

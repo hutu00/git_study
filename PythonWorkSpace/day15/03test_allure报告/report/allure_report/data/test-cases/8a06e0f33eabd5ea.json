@@ -1,0 +1,58 @@
+{
+  "uid" : "8a06e0f33eabd5ea",
+  "name" : "test_add[case2]",
+  "fullName" : "01test_pytest测试用例参数化.test_pytest_01#test_add",
+  "historyId" : "2b635f5d69278648388992cb8c0820c5",
+  "time" : {
+    "start" : 1645783240738,
+    "stop" : 1645783240739,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "01test_pytest测试用例参数化"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest_01"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "6972-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "01test_pytest测试用例参数化.test_pytest_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'param1': 10, 'param2': -20, 'exp': -10}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a06e0f33eabd5ea.json",
+  "parameterValues" : [ "{'param1': 10, 'param2': -20, 'exp': -10}" ]
+}

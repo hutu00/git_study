@@ -1,0 +1,232 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert {'code': 1006...须为7-11位字母和数字'} == {'code': 1013...、手机号、邮箱已经被注册'}\n  Differing items:\n  {'msg': '密码必须为7-11位字母和数字'} != {'msg': '该用户名、手机号、邮箱已经被注册'}\n  {'code': 1006} != {'code': 1013}\n  Full diff:\n  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}\n  + {'code': 1006, 'msg': '密码必须为7-11位字母和数字'}",
+      "children" : [ {
+        "name" : "密码纯字母的场景",
+        "uid" : "c7d598888dde238",
+        "parentUid" : "0286b8de30765f3bcb74dadf56fa105f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808778434,
+          "stop" : 1646808778625,
+          "duration" : 191
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1A90>" ]
+      }, {
+        "name" : "密码纯数字的场景",
+        "uid" : "4be854c6fb15bfd0",
+        "parentUid" : "0286b8de30765f3bcb74dadf56fa105f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808778671,
+          "stop" : 1646808778837,
+          "duration" : 166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1AC8>" ]
+      } ],
+      "uid" : "0286b8de30765f3bcb74dadf56fa105f"
+    }, {
+      "name" : "AssertionError: assert {'code': 1008...g': '手机号格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}\n  Differing items:\n  {'msg': '手机号格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}\n  {'code': 1008} != {'code': 1013}\n  Full diff:\n  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}\n  + {'code': 1008, 'msg': '手机号格式错误'}",
+      "children" : [ {
+        "name" : "手机号为不支持的号段的场景",
+        "uid" : "81c6f17d6015c881",
+        "parentUid" : "d0abde4f2e6872c2d4c1c6262ebb5ced",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808780007,
+          "stop" : 1646808780186,
+          "duration" : 179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1C88>" ]
+      } ],
+      "uid" : "d0abde4f2e6872c2d4c1c6262ebb5ced"
+    }, {
+      "name" : "AssertionError: assert {'code': 1010...sg': '生日格式错误'} == {'code': 1013...、手机号、邮箱已经被注册'}\n  Differing items:\n  {'msg': '生日格式错误'} != {'msg': '该用户名、手机号、邮箱已经被注册'}\n  {'code': 1010} != {'code': 1013}\n  Full diff:\n  - {'code': 1013, 'msg': '该用户名、手机号、邮箱已经被注册'}\n  + {'code': 1010, 'msg': '生日格式错误'}",
+      "children" : [ {
+        "name" : "生日超出当前时间",
+        "uid" : "2715e2e5f4df02a5",
+        "parentUid" : "1a70f447a356cf19bd6f0000865ff650",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808781360,
+          "stop" : 1646808781514,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221A1438>" ]
+      }, {
+        "name" : "生日为不合理的时间",
+        "uid" : "63848b5475725bc6",
+        "parentUid" : "1a70f447a356cf19bd6f0000865ff650",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808781526,
+          "stop" : 1646808781676,
+          "duration" : 150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221E2358>" ]
+      } ],
+      "uid" : "1a70f447a356cf19bd6f0000865ff650"
+    }, {
+      "name" : "AssertionError: assert {'code': 1006...: '商品名称格式不正确'} == {'code': 1013...': '产品名称不能重复'}\n  Differing items:\n  {'msg': '商品名称格式不正确'} != {'msg': '产品名称不能重复'}\n  {'code': 1006} != {'code': 1013}\n  Full diff:\n  - {'code': 1013, 'msg': '产品名称不能重复'}\n  ?            ^^          ^    ^^^\n  + {'code': 1006, 'msg': '商品名称格式不正确'}...\n  \n  ...Full output truncated (2 lines hidden), use '-vv' to show",
+      "children" : [ {
+        "name" : "测试商品名称带空格的场景",
+        "uid" : "e371b9a9bf117fe2",
+        "parentUid" : "1c28bbcd09c73754bab531d4d5881d6b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808784675,
+          "stop" : 1646808784849,
+          "duration" : 174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283221EC780>" ]
+      } ],
+      "uid" : "1c28bbcd09c73754bab531d4d5881d6b"
+    }, {
+      "name" : "AssertionError: assert {'code': 1007...: '商品类别格式不正确'} == {'code': 1012...g': '商品分类不存在'}\n  Differing items:\n  {'msg': '商品类别格式不正确'} != {'msg': '商品分类不存在'}\n  {'code': 1007} != {'code': 1012}\n  Full diff:\n  - {'code': 1012, 'msg': '商品分类不存在'}\n  ?            ^^            -  ^^\n  + {'code': 1007, 'msg': '商品类别格式不正确'}...\n  \n  ...Full output truncated (2 lines hidden), use '-vv' to show",
+      "children" : [ {
+        "name" : "测试商品类别格式不正确的场景",
+        "uid" : "fc9d3a8291015841",
+        "parentUid" : "f65e0a64e856aa3e1423d850a4ae2eb9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808785378,
+          "stop" : 1646808785557,
+          "duration" : 179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x0000028322308710>" ]
+      } ],
+      "uid" : "f65e0a64e856aa3e1423d850a4ae2eb9"
+    }, {
+      "name" : "AssertionError: assert {'code': 1007...请检查token是否失效'} == {'code': 1000...'msg': '查询成功'}\n  Differing items:\n  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}\n  {'code': 1007} != {'code': 1000}\n  Right contains 1 more item:\n  {'goods_tiems': [{'goodsName': '预留数据',\n                    'num': 1000,\n                    'promotePrice': 0.0,...\n  \n  ...Full output truncated (111 lines hidden), use '-vv' to show",
+      "children" : [ {
+        "name" : "商品信息查询—上一次token值",
+        "uid" : "a95213dd3bdb573d",
+        "parentUid" : "032cb8b4d37353eafcff218a8e79f9c9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808790443,
+          "stop" : 1646808790655,
+          "duration" : 212
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283222BF390>" ]
+      } ],
+      "uid" : "032cb8b4d37353eafcff218a8e79f9c9"
+    }, {
+      "name" : "AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...NTdlOGU4MzU='}\n  Differing items:\n  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}\n  {'code': 1007} != {'code': 1000}\n  Right contains 1 more item:\n  {'token': 'MTY0NjgzODc5NS40NzczMzQzOmFkMTVjNGZjN2E2MTA0ZWQ3ZWY0M2JiZDkyMDk5MTA2NTdlOGU4MzU='}\n  Full diff:\n    {...\n  \n  ...Full output truncated (9 lines hidden), use '-vv' to show",
+      "children" : [ {
+        "name" : "密码大小写不区分",
+        "uid" : "7da3b0a12d02a0a4",
+        "parentUid" : "d0fc31a38a8064f39640914e449f520a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808795471,
+          "stop" : 1646808795626,
+          "duration" : 155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE198>" ]
+      } ],
+      "uid" : "d0fc31a38a8064f39640914e449f520a"
+    }, {
+      "name" : "AssertionError: assert {'code': 1007...: '用户名或者密码错误'} == {'code': 1000...MDQ4NWFhNg=='}\n  Differing items:\n  {'msg': '用户名或者密码错误'} != {'msg': '登录成功'}\n  {'code': 1007} != {'code': 1000}\n  Right contains 1 more item:\n  {'token': 'MTY0NjgzODc5NS42NDE4OTQ6Y2E0ZGRkNGU2MzI1OTZiZmE2MTRiODAyMGMxN2ZjMmVjMDQ4NWFhNg=='}\n  Full diff:\n    {...\n  \n  ...Full output truncated (9 lines hidden), use '-vv' to show",
+      "children" : [ {
+        "name" : "用户名不区分大小写",
+        "uid" : "d8831c7941a171ff",
+        "parentUid" : "29592e941333b388e2a603561823d7d8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808795637,
+          "stop" : 1646808795826,
+          "duration" : 189
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x00000283224DE588>" ]
+      } ],
+      "uid" : "29592e941333b388e2a603561823d7d8"
+    }, {
+      "name" : "AssertionError: assert {'code': 1004...请检查token是否失效'} == {'code': 1000...xiaohei', ...}\n  Differing items:\n  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}\n  {'code': 1004} != {'code': 1000}\n  Right contains 5 more items:\n  {'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0},\n                   {'goods_name': '华为P30', 'goods_price': 59999.0}],\n   'name': 'xiaohei',...\n  \n  ...Full output truncated (21 lines hidden), use '-vv' to show",
+      "children" : [ {
+        "name" : "测试token为失效值的场景",
+        "uid" : "12ab9f611cf2b503",
+        "parentUid" : "7579e729b81d74833d856b0ad2071ba2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646808796332,
+          "stop" : 1646808796517,
+          "duration" : 185
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comms.excel_utils.CaseData object at 0x000002832259A0F0>" ]
+      } ],
+      "uid" : "7579e729b81d74833d856b0ad2071ba2"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

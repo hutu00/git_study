@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert {'code': 9999, 'msg': '注册成功'} == {'code': 1008...sg': '用户名已存在'}\n  Differing items:\n  {'code': 9999} != {'code': 1008}\n  {'msg': '注册成功'} != {'msg': '用户名已存在'}\n  Full diff:\n  - {'code': 1008, 'msg': '用户名已存在'}\n  + {'code': 9999, 'msg': '注册成功'}",
+      "children" : [ {
+        "name" : "正常流程",
+        "uid" : "a26057d02bbce54d",
+        "parentUid" : "cd339559a0afb703b78fe99ca4ea124d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646042168519,
+          "stop" : 1646042168560,
+          "duration" : 41
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<excel_utils.CaseData object at 0x000001365B0AC860>" ]
+      } ],
+      "uid" : "cd339559a0afb703b78fe99ca4ea124d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

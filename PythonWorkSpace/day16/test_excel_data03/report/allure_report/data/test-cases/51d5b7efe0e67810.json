@@ -1,0 +1,60 @@
+{
+  "uid" : "51d5b7efe0e67810",
+  "name" : "test_register[case0]",
+  "fullName" : "test_register.TestRegister#test_register",
+  "historyId" : "a5ea6d936144286aea70e533fe8308fb",
+  "time" : {
+    "start" : 1646041203090,
+    "stop" : 1646041203126,
+    "duration" : 36
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert {'code': 9999, 'msg': '注册成功'} == {'code': 1008...sg': '用户名已存在'}\n  Differing items:\n  {'msg': '注册成功'} != {'msg': '用户名已存在'}\n  {'code': 9999} != {'code': 1008}\n  Use -v to get the full diff",
+  "statusTrace" : "self = <day16.test_excel_data03.test_register.TestRegister object at 0x000002051AEAFCC0>\ncase = <excel_utils.CaseData object at 0x000002051AE76898>\n\n    @pytest.mark.parametrize('case', cases)\n    def test_register(self, case):\n        response = requests.post(url=case.url, data=eval(case.case_data))\n        res = response.json()\n    \n        try:\n            assert eval(case.expect) == res\n        except AssertionError as e:\n            ReadExcel.write_data(r'./cases.xlsx', 'user_register', case.case_id, 7, '失败')\n>           raise e\n\ntest_register.py:30: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <day16.test_excel_data03.test_register.TestRegister object at 0x000002051AEAFCC0>\ncase = <excel_utils.CaseData object at 0x000002051AE76898>\n\n    @pytest.mark.parametrize('case', cases)\n    def test_register(self, case):\n        response = requests.post(url=case.url, data=eval(case.case_data))\n        res = response.json()\n    \n        try:\n>           assert eval(case.expect) == res\nE           AssertionError: assert {'code': 9999, 'msg': '注册成功'} == {'code': 1008...sg': '用户名已存在'}\nE             Differing items:\nE             {'msg': '注册成功'} != {'msg': '用户名已存在'}\nE             {'code': 9999} != {'code': 1008}\nE             Use -v to get the full diff\n\ntest_register.py:27: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_register"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "12180-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<excel_utils.CaseData object at 0x000002051AE76898>"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51d5b7efe0e67810.json",
+  "parameterValues" : [ "<excel_utils.CaseData object at 0x000002051AE76898>" ]
+}

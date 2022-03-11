@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "e5456f6ad31e6e8530ef419424368a08",
+    "name" : "01test_pytest测试用例参数化",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 16,
+      "unknown" : 0,
+      "total" : 17
+    }
+  }, {
+    "uid" : "c76e1a5b593c9b2f1156fc49946e46c9",
+    "name" : "02test_pytest测试固件",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 14
+    }
+  } ]
+}

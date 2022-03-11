@@ -1,0 +1,136 @@
+{
+  "uid" : "f081c349a58bf451",
+  "name" : "商品信息查询主流程",
+  "fullName" : "testcases.test_business_token_goodsinfo04.test_business_token_goodsinfo03.TestGoodsInfo#test_goods_info",
+  "historyId" : "9a4fce30356458b1a73403865b6cd15e",
+  "time" : {
+    "start" : 1646808789953,
+    "stop" : 1646808790111,
+    "duration" : 158
+  },
+  "description" : "商品信息查询模块接口测试用例",
+  "descriptionHtml" : "<p>商品信息查询模块接口测试用例</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "connect_db",
+    "time" : {
+      "start" : 1646808789950,
+      "stop" : 1646808789953,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "商品信息查询模块接口测试用例",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ffea12b1d5aef038",
+      "name" : "接口路径",
+      "source" : "ffea12b1d5aef038.attach",
+      "type" : "text/plain",
+      "size" : 46
+    }, {
+      "uid" : "ba213daa46ccfe3e",
+      "name" : "请求参数",
+      "source" : "ba213daa46ccfe3e.attach",
+      "type" : "text/plain",
+      "size" : 68
+    }, {
+      "uid" : "44883218b2a45e59",
+      "name" : "响应结果",
+      "source" : "44883218b2a45e59.attach",
+      "type" : "text/plain",
+      "size" : 1139
+    }, {
+      "uid" : "53cde7d661426174",
+      "name" : "log",
+      "source" : "53cde7d661426174.txt",
+      "type" : "text/plain",
+      "size" : 574
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "connect_db::0",
+    "time" : {
+      "start" : 1646808790112,
+      "stop" : 1646808790112,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "商品信息查询模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.test_business_token_goodsinfo04"
+  }, {
+    "name" : "suite",
+    "value" : "test_business_token_goodsinfo03"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGoodsInfo"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "10028-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_business_token_goodsinfo04.test_business_token_goodsinfo03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<comms.excel_utils.CaseData object at 0x000002832226E748>"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f081c349a58bf451.json",
+  "parameterValues" : [ "<comms.excel_utils.CaseData object at 0x000002832226E748>" ]
+}

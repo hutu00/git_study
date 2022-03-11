@@ -1,0 +1,10 @@
+这是ERROR级别的日志！
+2022-02-28 15:46:13,704 - [logger01.py - 56] - ERROR:这是ERROR级别的日志！
+2022-02-28 15:55:17,877 - [logger02.py - 16] - ERROR:该方法报异常!
+2022-02-28 15:55:17,877 - [logger02.py - 17] - ERROR:division by zero
+Traceback (most recent call last):
+  File "D:/PythonWorkSpace/day16/test_log02/logger02.py", line 14, in <module>
+    res = 20 / int(num)
+ZeroDivisionError: division by zero
+2022-02-28 17:24:44,284 - [logger01.py - 56] - 浩南 - ERROR:这是ERROR级别的日志！
+2022-02-28 17:24:52,991 - [logger01.py - 56] - root - ERROR:这是ERROR级别的日志！

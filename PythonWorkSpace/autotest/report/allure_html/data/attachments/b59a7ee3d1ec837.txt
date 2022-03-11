@@ -1,0 +1,5 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/token_login HTTP/1.1" 200 130
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/token_goodsInfo HTTP/1.1" 200 474
+INFO     root:test_business_token_goodsinfo03.py:96 测试编号7,测试标题商品信息查询—（不带商品）促销状态为0,执行成功!

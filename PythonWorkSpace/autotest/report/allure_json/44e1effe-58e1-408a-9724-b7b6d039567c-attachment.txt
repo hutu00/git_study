@@ -1,0 +1,5 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/token_login HTTP/1.1" 200 130
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/goods_promote HTTP/1.1" 200 49
+INFO     root:test_business_goods_promote03.py:73 测试编号1,测试标题商品促销设置正确流程,执行成功!

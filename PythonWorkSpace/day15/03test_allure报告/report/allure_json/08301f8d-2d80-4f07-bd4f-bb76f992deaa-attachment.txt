@@ -1,0 +1,6 @@
+----function前执行----
+4
+开始执行case2~~~
+----function后执行----
+--class后--
+--module后--

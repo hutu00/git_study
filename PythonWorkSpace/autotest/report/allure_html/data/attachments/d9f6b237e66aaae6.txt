@@ -1,0 +1,32 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/token_login HTTP/1.1" 200 130
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/token_login HTTP/1.1" 200 130
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/token_login HTTP/1.1" 200 130
+DEBUG    urllib3.connectionpool:connectionpool.py:232 Starting new HTTP connection (1): 127.0.0.1:6666
+DEBUG    urllib3.connectionpool:connectionpool.py:465 http://127.0.0.1:6666 "POST /business/order_items HTTP/1.1" 200 238
+ERROR    root:test_business_token_order_items02.py:78 测试编号4,测试标题测试token为失效值的场景,执行失败!实际结果{'code': 1000, 'msg': '查询成功', 'name': 'xiaohei', 'phone': '18755662234', 'status': '已发货', 'value': 10.0, 'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0}, {'goods_name': '华为P30', 'goods_price': 59999.0}]}
+ERROR    root:test_business_token_order_items02.py:79 assert {'code': 1004...请检查token是否失效'} == {'code': 1000...xiaohei', ...}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1004} != {'code': 1000}
+  Right contains 5 more items:
+  {'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0},
+                   {'goods_name': '华为P30', 'goods_price': 59999.0}],
+   'name': 'xiaohei',...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show
+Traceback (most recent call last):
+  File "D:\PythonWorkSpace\autotest\testcases\test_business_token_order_items05\test_business_token_order_items02.py", line 75, in test_order_items
+    assert eval(case.expect) == res
+AssertionError: assert {'code': 1004...请检查token是否失效'} == {'code': 1000...xiaohei', ...}
+  Differing items:
+  {'msg': '鉴权失败,请检查token是否失效'} != {'msg': '查询成功'}
+  {'code': 1004} != {'code': 1000}
+  Right contains 5 more items:
+  {'goods_tiems': [{'goods_name': 'Mac pro', 'goods_price': 9999.0},
+                   {'goods_name': '华为P30', 'goods_price': 59999.0}],
+   'name': 'xiaohei',...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show

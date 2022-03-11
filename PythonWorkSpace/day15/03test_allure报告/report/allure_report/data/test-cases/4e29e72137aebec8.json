@@ -1,0 +1,71 @@
+{
+  "uid" : "4e29e72137aebec8",
+  "name" : "test_register[case2]",
+  "fullName" : "01test_pytest测试用例参数化.test_pytest_03.TestRegister#test_register",
+  "historyId" : "ce54debb866179055ace8b1cbc0e96e7",
+  "time" : {
+    "start" : 1645788800909,
+    "stop" : 1645788800913,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "01test_pytest测试用例参数化"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest_03"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM9Q0VH"
+  }, {
+    "name" : "thread",
+    "value" : "10384-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "01test_pytest测试用例参数化.test_pytest_03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'case_data': \"{'username':'xiaopu','password':'','re_password':'a123456','email':'9991@163.com','phone':'15655661122'}\", 'exp': '{\"code\": 1002, \"msg\": \"密码不能为空\"}'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "113ebaf230941a6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645783240831,
+        "stop" : 1645783240836,
+        "duration" : 5
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e29e72137aebec8.json",
+  "parameterValues" : [ "{'case_data': \"{'username':'xiaopu','password':'','re_password':'a123456','email':'9991@163.com','phone':'15655661122'}\", 'exp': '{\"code\": 1002, \"msg\": \"密码不能为空\"}'}" ]
+}
