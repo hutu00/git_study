@@ -6,9 +6,9 @@
 --------------------------------
 """
 
-import pytest, os
+import pytest
 from comms.constants import REPORT_JSON, REPORT_HTML, CASE_DIR
 
 if __name__ == '__main__':
     pytest.main(['-vs', '--alluredir', REPORT_JSON, CASE_DIR])
-    os.system('allure generate %s -o %s --clean' % (REPORT_JSON, REPORT_HTML))
+   
