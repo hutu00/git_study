@@ -1,0 +1,32 @@
+git init  初始化仓库
+git config --global user.name "Your Name"    设置全局用户名
+git config --global user.email "email@example.com"  设置全局邮箱
+ssh-keygen -t rsa -C "youremail@example.com"  生成公钥和私钥
+以上下载git工具后 新建文件夹里 运行 
+克隆云端仓库地址 
+git clong                      克隆仓库地址
+git checkout -b ling      新建一个本地分支 ling 
+git chechout main       切换分支到main
+git branch -a                   查看所有的分支
+git remote -v                   查看所有 远端仓库
+git remote rm origin          删除所有远端仓库 或者 可以选择 删除不需要的仓库
+git remote add origin 远端仓库地址      添加远端仓库（origin 默认远程仓库名字）
+
+添加连接 远程仓库后 就可以操作 以下把工作区操作的文件 添加 提交到版本区（暂存区）
+git add -A .     添加所有增 删除 改 的文件  添加到暂存区
+git commit  -m '注释提交内容'  把添加的 暂存区的 提交到 仓库区
+
+第一次把 版本区（暂存区 + 仓库区）push 到远端仓库
+git merge ling    把ling分支 合并 当前分支 比如在 master分支 下操作 合并ling分支到 master分支
+第一次把 版本区（暂存区 + 仓库区）push 到远端仓库
+git push -u origin master       所有分支都合并到master分支下后 由master分支 把版本区push到远端仓库
+下次 就直接 push
+git push 
+git pull
+
+
+
+ 
+
+
+ 
